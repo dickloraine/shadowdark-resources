@@ -6,6 +6,8 @@ You can find json-data for these materials in the data folder. The `convert.py` 
 
 You can find pre-generated outputs in the dist folder. The standalone html file for example can be downloaded and opened directly in the browser needing no connection.
 
+**[Website](https://dickloraine.github.io/shadowdark-resources/)**
+
 ## Usage
 
 The easiest way to use the command line utility is by using (https://docs.astral.sh/uv/)[uv], cloning this repository and just starting it with 
