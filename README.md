@@ -10,7 +10,7 @@ You can find pre-generated outputs in the dist folder. The standalone html file 
 
 ## Usage
 
-The easiest way to use the command line utility is by using (https://docs.astral.sh/uv/)[uv], cloning this repository and just starting it with 
+The easiest way to use the command line utility is by using [uv](https://docs.astral.sh/uv/), cloning this repository and just starting it with 
 
 ```bash
 uv run ./convert.py --help
