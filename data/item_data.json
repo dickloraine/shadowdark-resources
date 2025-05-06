@@ -1,0 +1,640 @@
+[
+  {
+    "name": "Alabaster Destrier",
+    "description": "A smooth, pearly statuette of a running horse.",
+    "Benefit": "Once per day, the wielder can speak the command word to turn the statuette into a pegasus that accepts neutral or lawful riders. The statuette remains in this form for 1 hour.",
+    "item_type": "Wondrous Item"
+  },
+  {
+    "name": "Amulet Of Secrecy",
+    "description": "A heavy, flat pendant carved with a lidded eye.",
+    "Benefit": "You can't be detected by divination magic such as the *scrying* spell or a *Crystal Ball* while wearing this amulet.",
+    "Curse": "You constantly have the sensation of being watched.",
+    "item_type": "Jewelry"
+  },
+  {
+    "name": "Amulet Of Vitality",
+    "description": "A gold amulet with a red ruby teardrop at its center.",
+    "Benefit": "Your Constitution stat becomes 18 (+4) while wearing this amulet.",
+    "item_type": "Jewelry"
+  },
+  {
+    "name": "Armor Of Saint Terragnis",
+    "description": "Golden plate mail carved from head to toe with warrior angels.",
+    "Bonus": "+3 plate mail. Only a lawful worshipper of Saint Terragnis can wear this armor.",
+    "Benefit": "Hostile spells that target you are DC 18 to cast. Once per month, you can summon an Avatar of Saint Terragnis (treat as an archangel) to fight by your side for 10 rounds.",
+    "item_type": "Armor"
+  },
+  {
+    "name": "Armor Of The Oni",
+    "description": "Black plate mail of lacquered, ironwood panels. The helm's visor is the face of a snarling oni.",
+    "Bonus": "+1 plate mail.",
+    "Benefit": "You can speak and understand Diabolic. Your melee weapon attacks deal +1 damage.",
+    "Curse": "You have disadvantage on attacks and spellcasting checks against demons.",
+    "item_type": "Armor"
+  },
+  {
+    "name": "Bag Of Badgers",
+    "description": "A gray, fraying sack matted with white, bristly hair.",
+    "Benefit": "Once per day, you can reach inside the bag and pull out an angry badger. You can throw the badger up to a near distance. The badger attacks the nearest creature for 3 rounds before waddling away.",
+    "item_type": "Wondrous Item"
+  },
+  {
+    "name": "Bag Of Devouring",
+    "description": "A worn, leather pouch with tight drawstrings.",
+    "Curse": "This bag devours and destroys anything placed inside it in 1d6 rounds.",
+    "item_type": "Wondrous Item"
+  },
+  {
+    "name": "Bag Of Holding",
+    "description": "A worn, leather pouch with tight drawstrings.",
+    "Benefit": "This bag has an interdimensional space inside that can hold up to 10 gear slots.",
+    "Curse": "Placing this item inside another *Bag of Holding* or a *Portable Hole* destroys both items and all held inside them.",
+    "item_type": "Wondrous Item"
+  },
+  {
+    "name": "Bead Of Force",
+    "description": "A marble with a blue ring of light glowing softly inside it.",
+    "Benefit": "You can throw this bead at one target up to a near distance. If you hit, the target becomes caught in a *resilient sphere* spell.",
+    "item_type": "Wondrous Item"
+  },
+  {
+    "name": "Blade Of Vengeance",
+    "description": "A gray blade with a diamondcut ruby in the pommel. It whistles sharply with each slice.",
+    "Bonus": "+2 bastard sword. Cannot be wielded by undead.",
+    "Benefit": "You have advantage on attacks against undead creatures with this sword. You can use the sword to cast *turn undead* once per day (+4 bonus).",
+    "Personality": "Lawful. Grim, suspicious. Forged as a failsafe against the Witch-Kings if they should fall to darkness, which they did. Demands they be slain.",
+    "item_type": "Weapon"
+  },
+  {
+    "name": "Boots Of Dancing",
+    "description": "Fine, supple boots of sheepskin.",
+    "Curse": "As soon as you don these boots, you begin uncontrollably cavorting and dancing. You move randomly each turn and must pass a DC 15 Dexterity check to remove the boots.",
+    "item_type": "Armor"
+  },
+  {
+    "name": "Boots Of Hovering",
+    "description": "Brown, sturdy boots polished to a sheen. Small, silver wings adorn the heels.",
+    "Benefit": "You can walk on an insubstantial surface for 1 turn at a time. You fall through the surface if you end your turn on it.",
+    "item_type": "Armor"
+  },
+  {
+    "name": "Boots Of The Cat",
+    "description": "Gray, doeskin boots as thin and soft as slippers.",
+    "Benefit": "You can jump up to a near distance from a standstill. Your checks to move silently are always easy (DC 9).",
+    "item_type": "Armor"
+  },
+  {
+    "name": "Bracers Of Archery",
+    "description": "Leather bracers embossed with soaring hawks.",
+    "Benefit": "You deal +1 damage with ranged weapons.",
+    "item_type": "Armor"
+  },
+  {
+    "name": "Bracers Of Defense",
+    "description": "Steel bracers traced with dwarvish runes of protection.",
+    "Benefit": "You get a +1 bonus to your armor class.",
+    "item_type": "Armor"
+  },
+  {
+    "name": "Brak'S Book Of Misspells",
+    "description": "A tome bound in ratskin that bears a jagged, glowing rune.",
+    "Curse": "This spellbook contains one scroll each of *acid arrow* , *fireball*, and *sleep*. When a wizard tries to cast or learn a spell from these scrolls, the spell targets the caster on a success.",
+    "item_type": "Wondrous Item"
+  },
+  {
+    "name": "Brak'S Cube Of Perfection",
+    "description": "A tiny cube with paintings of goblins on each face, each one depicting transcendence in a physical or mental trait.",
+    "Benefit": "Roll the cube by rolling a d6. Your corresponding stat permanently increases to 18 (+4).\n1. Strength.\n2. Dexterity.\n3. Constitution.\n4. Intelligence.\n5. Wisdom.\n6. Charisma.",
+    "item_type": "Wondrous Item"
+  },
+  {
+    "name": "Circlet Of Wisdom",
+    "description": "A thin, silver circlet set with a shimmering, blue pearl.",
+    "Benefit": "Your Wisdom stat becomes 18 (+4) while wearing this circlet.",
+    "item_type": "Jewelry"
+  },
+  {
+    "name": "Cloak Of Elvenkind",
+    "description": "A hooded, billowing cloak that shifts colors to match its surroundings.",
+    "Benefit": "Your checks to hide are always easy (DC 9). Once per day, you can become invisible for 5 rounds. The invisibility ends if you attack or cast a spell.",
+    "item_type": "Wondrous Item"
+  },
+  {
+    "name": "Cloak Of The Bat",
+    "description": "A leathery, black cloak that has a ragged hem and a hood with pointed ears.",
+    "Benefit": "You can fly a near distance as your movement while in a shadowy area.",
+    "Curse": "Each time you use the cloak to fly, roll a d20. On a result of 1, you and your gear turn into a small bat for 3 rounds.",
+    "item_type": "Wondrous Item"
+  },
+  {
+    "name": "Crystal Ball",
+    "description": "A flawless glass orb with roiling images swirling inside it.",
+    "Benefit": "Only wizards can use a *Crystal Ball*. You can use it to cast the *scrying* spell. If you fail the spellcasting check to cast *scrying,* the *Crystal Ball* ceases to function for a day.",
+    "item_type": "Wondrous Item"
+  },
+  {
+    "name": "Dagger Of The Goblin Hero",
+    "description": "A curved dagger with a halfmoon notch at the blade's base.",
+    "Bonus": "+1 dagger.",
+    "Benefit": "You can speak Goblin. All goblinoid creatures react to you with a friendly attitude.",
+    "item_type": "Weapon"
+  },
+  {
+    "name": "Egg Of The Cockatrice",
+    "description": "A blue, hard egg as big as a coconut and heavy as a stone.",
+    "Benefit": "Once per week, you can speak a command word that causes a cockatrice to hatch and follow your commands for 5 rounds before flying away. The egg repairs itself over one week.",
+    "item_type": "Wondrous Item"
+  },
+  {
+    "name": "Flying Carpet",
+    "description": "A richly woven, red carpet with gold tassels.",
+    "Benefit": "The carpet fits two riders (one is the driver). It can fly double near on the driver's turn.",
+    "Personality": "Neutral. Playful, mischievous. Enjoys visiting new places and gets restless without a frequent change in location.",
+    "item_type": "Wondrous Item"
+  },
+  {
+    "name": "Gauntlets Of Might",
+    "description": "Heavy, bronze gauntlets with engravings of Herculean giants.",
+    "Benefit": "Your Strength stat becomes 18 (+4) while wearing these gauntlets.",
+    "item_type": "Armor"
+  },
+  {
+    "name": "Genie Lamp",
+    "description": "A tarnished, brass oil lamp.",
+    "Benefit": "Rubbing the lamp causes its resident djinni (50% chance) or efreeti (50% chance) to emerge. A djinni grants its summoner one *wish* spell before disappearing. An efreeti does the same, but only after being defeated in combat.",
+    "item_type": "Wondrous Item"
+  },
+  {
+    "name": "Gloves Of Agility",
+    "description": "Thin, leather gloves that seem to meld with the wearer's hands.",
+    "Benefit": "Your Dexterity stat becomes 18 (+4) while wearing these gloves.",
+    "item_type": "Armor"
+  },
+  {
+    "name": "Goblin Bomb",
+    "description": "A preserved rat stuffed with an explosive charge and a fuse.",
+    "Benefit": "You can light the bomb's fuse and throw it a near distance. It explodes in 1d4 rounds, dealing 2d8 damage to everything in near range.",
+    "item_type": "Wondrous Item"
+  },
+  {
+    "name": "Greataxe Of The Horde",
+    "description": "A jagged greataxe carved from a weighty dragon bone.",
+    "Bonus": "+2 greataxe.",
+    "Benefit": "Once per day, you can turn a regular hit with this weapon into a critical hit.",
+    "Curse": "Each time you go below half your hit points, make a DC 12 Charisma check. On a failure, you enter a battle rage for 1d4 rounds and must attack the nearest creature.",
+    "item_type": "Weapon"
+  },
+  {
+    "name": "Hat Of Intellect",
+    "description": "A floppy, pointed hat with a wide brim.",
+    "Benefit": "Your Intelligence stat becomes 18 (+4) while wearing this hat.",
+    "item_type": "Wondrous Item"
+  },
+  {
+    "name": "Hat Of The Hound",
+    "description": "A rounded, jaunty bowler hat.",
+    "Benefit": "You can transform into a mastiff each day for up to 10 rounds total. Your clothing and possessions transform with you.",
+    "item_type": "Wondrous Item"
+  },
+  {
+    "name": "Helm Of Mind Reading",
+    "description": "A helm carved with brain ridges, a spinal neck-guard, and octopus-like tentacles.",
+    "Benefit": "You can cast the *detect thoughts* spell three times per day (+4 bonus).",
+    "item_type": "Armor"
+  },
+  {
+    "name": "Horned Helm Of Ramlaat",
+    "description": "A bloodstained helm made of a ram's skull.",
+    "Benefit": "This helm grants you a +1 bonus to your armor class. You have advantage on any check you make to knock down creatures or objects.",
+    "Curse": "You feel compelled to headbutt delicate objects.",
+    "item_type": "Armor"
+  },
+  {
+    "name": "Hourglass Of The Black Sands",
+    "description": "An ancient hourglass running with obsidian sand.",
+    "Benefit": "Once per day, you can turn the hourglass when you cast a spell. The spell's effects last 1d4 rounds longer.",
+    "item_type": "Wondrous Item"
+  },
+  {
+    "name": "Immovable Rod",
+    "description": "A short, iron rod with a button on one end.",
+    "Benefit": "When you click the button, the rod becomes fixed in space (holds 5,000 lbs). Clicking the button again ends the effect.",
+    "item_type": "Wondrous Item"
+  },
+  {
+    "name": "Jewel Of Barbalt",
+    "description": "A coconut-sized ruby cut with a thousand facets.",
+    "Benefit": "You roll a critical success on an 18-20.",
+    "Curse": "You roll a critical failure on a 1-3.",
+    "item_type": "Jewelry"
+  },
+  {
+    "name": "Kytherian Cog",
+    "description": "A coin-sized, toothed wheel buffed to a silvery shine.",
+    "Benefit": "You start every session with a luck token.",
+    "item_type": "Wondrous Item"
+  },
+  {
+    "name": "Longbow Of The Elven Kings",
+    "description": "A deeply curved longbow with deer antler reinforcements.",
+    "Bonus": "+1 longbow.",
+    "Benefit": "You have advantage on attacks with this bow against unnatural aberrations and outsiders.",
+    "Personality": "Neutral. Proud, timeless. Believes protecting the natural order is the highest calling. Demands all aberrations be found and slain.",
+    "item_type": "Weapon"
+  },
+  {
+    "name": "Magic Ink",
+    "description": "A pot of glossy, black ink that disappears as it dries.",
+    "Benefit": "The ink's writing is invisible when cool and can only be seen when warmed up by a nearby source of strong heat. There's enough for 1d4 uses.",
+    "item_type": "Wondrous Item"
+  },
+  {
+    "name": "Memnon's Blazing Javelin",
+    "description": "This golden javelin occasionally blinks and wavers, briefly turning into a bolt of lightning.",
+    "Bonus": "+1 javelin. Can only be wielded by a chaotic being. If you also wield *Memnon's Discordant Blade* and *Memnon's Entropic Armor*, it becomes a +3 javelin.",
+    "Benefit": "The javelin always returns to your hand after being thrown. Once per day, when you throw this javelin, you can turn it into lighting as per the *lightning bolt* spell (you do not have to make a spellcasting check).",
+    "item_type": "Weapon"
+  },
+  {
+    "name": "Memnon's Discordant Blade",
+    "description": "This barbed greatsword's red blade trails a shower of sparks when swung to strike.",
+    "Bonus": "+1 greatsword. Can only be wielded by a chaotic being. If you also wield *Memnon's Entropic Armor* and *Memnon's Blazing Javelin*, it becomes a +3 greatsword.",
+    "Benefit": "Once per day, you can utterly annihilate one creature of level 9 or less that you damage with this blade. The creature can pass a DC 18 Constitution check to take 3d8 damage instead.",
+    "Curse": "You cannot relinquish ownership of this blade unless it is taken from you by a creature that defeats you in combat.",
+    "item_type": "Weapon"
+  },
+  {
+    "name": "Memnon's Entropic Armor",
+    "description": "Deep blue plate mail traced with gold lightning motifs and red gems arrayed into the shape of flames.",
+    "Bonus": "+1 plate mail. Can only be worn by a chaotic being. If you also wield *Memnon's Discordant Blade* and *Memnon's Blazing Javelin*, it becomes +3 plate mail.",
+    "Benefit": "Once per day, you can speak the armor's command word. Until your next turn, all non-magical weapons that strike you are instantly unmade, shattering into dust. You take no damage from them.",
+    "item_type": "Armor"
+  },
+  {
+    "name": "Mirror Of Mischief",
+    "description": "A full-length mirror polished to a gleaming shine. Grinning, silver demons grasp the mirror, their claws forming its frame.",
+    "Curse": "The first time a humanoid creature looks into this mirror, the mirror creates an evil and malicious duplicate of them.",
+    "item_type": "Wondrous Item"
+  },
+  {
+    "name": "Moonwrought Chainmail",
+    "description": "A luminous jacket of chainmail as lightweight as a silk shirt.",
+    "Bonus": "+1 mithral chainmail.",
+    "Benefit": "Once per day, you can speak the armor's command word. You gain a +1 bonus to your next spellcasting check or ranged attack.",
+    "item_type": "Armor"
+  },
+  {
+    "name": "Necklace Of Charm",
+    "description": "A gold, fishbone chain that shimmers with subtle beauty.",
+    "Benefit": "Your Charisma stat becomes 18 (+4) while wearing this necklace.",
+    "item_type": "Jewelry"
+  },
+  {
+    "name": "Necrotic Mace Of Withering",
+    "description": "A wrought iron mace tipped with a heavy, screaming skull. Black ichor runs from the skull's eyes when the mace is used to channel necrotic energy.",
+    "Bonus": "+1 mace. Can only be wielded by a chaotic priest.",
+    "Benefit": "While holding the mace, you can turn *cure wounds*  spells you cast into harmful magic that instead inflicts the same amount of damage it would heal.",
+    "Curse": "If you use the mace to cast an inverted *cure wounds*  spell, you are haunted by nightmares that night. You must pass a DC 12 Wisdom check during your next rest or gain no benefit from resting.",
+    "item_type": "Weapon"
+  },
+  {
+    "name": "Nightcloak Armor",
+    "description": "Matte black leathers enchanted to deepen and darken shadows.",
+    "Bonus": "+1 leather armor.",
+    "Benefit": "Once per day, you may choose to automatically pass a Dexterity check to hide.",
+    "item_type": "Armor"
+  },
+  {
+    "name": "Obsidian Witchknife",
+    "description": "A glinting, obsidian blade that trails black smoke in thin curls.",
+    "Bonus": "+2 dagger. Cannot be wielded by a lawful being.",
+    "Benefit": "When you cast a spell while holding this dagger, you may wound yourself with it. Add the amount of damage you take to your spellcasting check.",
+    "item_type": "Weapon"
+  },
+  {
+    "name": "Onyx Destrier",
+    "description": "A polished, ebony statuette of a running horse.",
+    "Benefit": "Once per day, the wielder can speak the command word to turn the statuette into a nightmare that accepts neutral or chaotic riders. The statuette remains in this form for 1 hour.",
+    "item_type": "Wondrous Item"
+  },
+  {
+    "name": "Ophidian Armor",
+    "description": "Glistening, smooth leather of dappled emerald scales.",
+    "Bonus": "+1 leather armor.",
+    "Benefit": "You have advantage on checks to avoid the effects of poison.",
+    "item_type": "Armor"
+  },
+  {
+    "name": "Pearl Of Power",
+    "description": "A fat, opalescent pearl glowing with an inner radiance.",
+    "Benefit": "Once per day, you may regain the ability to cast a spell you have lost. This cannot restore a spell lost due to a critical spellcasting failure.",
+    "item_type": "Jewelry"
+  },
+  {
+    "name": "Pipe Of The Rolling Hills",
+    "description": "A long, curved pipe that smells of cloves and resin.",
+    "Benefit": "Up to three times per day, regain 1d4 hit points when you smoke this pipe.",
+    "item_type": "Wondrous Item"
+  },
+  {
+    "name": "Pipes Of The Sewers",
+    "description": "A set of tarnished, brass pan pipes with seven cylinders.",
+    "Benefit": "Once per day, you can play these pipes to summon 2d6 giant rats. The rats obey you for d6 rounds, and then they scatter and flee.",
+    "Curse": "If you stop playing while the rats are present, they turn on you and attack.",
+    "item_type": "Wondrous Item"
+  },
+  {
+    "name": "Portable Hole",
+    "description": "A black, velvet square of cloth that unfolds into a wide circle.",
+    "Benefit": "The *Portable Hole* folds open on a flat surface into a 6-foot wide, 6-foot deep hole. It has 20 gear slots of storage. The hole closes when you fold the cloth into a small square.",
+    "Curse": "Placing this item inside a *Bag of Holding* or another *Portable Hole* destroys both items and all held inside them.",
+    "item_type": "Wondrous Item"
+  },
+  {
+    "name": "Potion Of Extirpation",
+    "description": "An acrid, tarry substance in an iron flask with a lead stopper.",
+    "Benefit": "You can pour the potion on one object or creature filling up to a close area. The target is utterly removed from reality and cannot be returned by anything short of a *wish* spell.",
+    "Personality": "Chaotic. Protests loudly while being used and never agrees that the target is the right choice for extirpation.",
+    "item_type": "Potion"
+  },
+  {
+    "name": "Potion Of Flying",
+    "description": "A sunny liquid with bubbles that flash and pop like tiny stars.",
+    "Benefit": "You can fly a near distance for 10 rounds when you drink this potion.",
+    "item_type": "Potion"
+  },
+  {
+    "name": "Potion Of Forgetfulness",
+    "description": "A pink draught that swirls with a counter-clockwise current.",
+    "Benefit": "If you serve this potion to an intelligent being and that being drinks it, the imbiber permanently forgets one memory of your choosing.",
+    "item_type": "Potion"
+  },
+  {
+    "name": "Potion Of Giant Strength",
+    "description": "A clay jar holding a stew of green, leafy sludge.",
+    "Benefit": "Your Strength becomes 18 (+4) and you deal x2 damage on melee attacks for 10 rounds.",
+    "item_type": "Potion"
+  },
+  {
+    "name": "Potion Of Healing",
+    "description": "A glass bottle with a fizzy, lemon-vanilla liquid inside.",
+    "Benefit": "The imbiber of this potion regains hit points based on its level.\n\n- **LV 0-3:** 1d6 hit points.\n- **LV 4-6:** 2d8 hit points.\n- **LV 7-9:** 3d10 hit points.\n- **LV 10+:** 4d12 hit points.",
+    "item_type": "Potion"
+  },
+  {
+    "name": "Potion Of Invisibility",
+    "description": "This glass vial appears to be empty, but a liquid audibly splashes around inside it.",
+    "Benefit": "When you drink this potion, you become invisible for 10 rounds or until you attack or cast a spell.",
+    "item_type": "Potion"
+  },
+  {
+    "name": "Potion Of Legendary Deeds",
+    "description": "A golden elixir that resonates with a faint, angelic chord.",
+    "Benefit": "When you drink this potion, you gain one level and your XP total resets to zero.",
+    "item_type": "Potion"
+  },
+  {
+    "name": "Potion Of Polymorph",
+    "description": "A pickled newt floats in this lavender flask of clear liquid.",
+    "Benefit": "When you drink this potion, it casts the *polymorph* spell on you with a duration of 1 hour instead of 10 rounds.",
+    "item_type": "Potion"
+  },
+  {
+    "name": "Potion Of Vitality",
+    "description": "A crimson elixir that gently thumps with a heartbeat.",
+    "Benefit": "When you drink this potion, roll your class's hit points die. You permanently gain that many HP.",
+    "Curse": "If you drink more than one *Potion of Vitality* in your lifetime, you must pass a DC 18 Constitution check each time or die instantly.",
+    "item_type": "Potion"
+  },
+  {
+    "name": "Ring Of Feather Falling",
+    "description": "A pearly ring carved in the likeness of an owl feather.",
+    "Benefit": "Once per day, the ring can cast *feather fall* on you when you fall.",
+    "Personality": "Neutral. Fearful of heights. Mentally hoots in an owl-like voice to stay away from the edge of cliffs and pits.",
+    "item_type": "Jewelry"
+  },
+  {
+    "name": "Ring Of Fireballs",
+    "description": "A bronze loop with claws holding a red marble. A fiery miasma swirls inside the glass.",
+    "Benefit": "You can pluck the glass marble from the ring and throw it up to a far distance, causing a *fireball* spell to bloom at the site of impact.",
+    "item_type": "Jewelry"
+  },
+  {
+    "name": "Ring Of Invisibility",
+    "description": "A simple, gold band polished to a warm shine.",
+    "Benefit": "Once per day, the ring can cast the *invisibility* spell on you.",
+    "Curse": "There is a cumulative 1% chance each time you rest that your sleep is ruined by apocalyptic nightmares, and you gain no benefit from resting. This resets to a 1% chance each time it triggers.",
+    "item_type": "Jewelry"
+  },
+  {
+    "name": "Ring Of Ramlaat",
+    "description": "A bone-carved ring with a ram skull. Its horns twist forward and red lights glow in its eye sockets.",
+    "Benefit": "Once per day, you can enter a rage where you deal double damage for 5 rounds. During the rage, you can't cast spells and enemies have advantage on melee attacks against you.",
+    "Personality": "Chaotic. Aggressive, overconfident. Seeks to provoke you and your enemies into battle.",
+    "item_type": "Jewelry"
+  },
+  {
+    "name": "Robe Of The Archmage",
+    "description": "A red silk robe with a wide, goldhemmed mantle. Golden eyes and moons dust its sleeves.",
+    "Benefit": "Only a wizard with the Archmage title can wear this robe.",
+    "item_type": "Armor"
+  },
+  {
+    "name": "Robe Of The Druid",
+    "description": "A green velvet robe with a deep hood and hems embroidered with silver leaves and vines.",
+    "Benefit": "Only a wizard with the Druid title can wear this robe.",
+    "item_type": "Armor"
+  },
+  {
+    "name": "Robe Of The Sorcerer",
+    "description": "A black leather robe with a shadowed cowl and clawed clasps on thin, mithral chains.",
+    "Benefit": "Only a wizard with the Sorcerer title can wear this robe.",
+    "item_type": "Armor"
+  },
+  {
+    "name": "Scarab Of Protection",
+    "description": "A brooch made from a horned scarab beetle dipped in gold.",
+    "Benefit": "If you die, make a DC 18 Constitution check. If you succeed, you are unconscious instead of dead.",
+    "item_type": "Jewelry"
+  },
+  {
+    "name": "Scimitar Of The Ash Moon",
+    "description": "This wide, curved blade has a snarling efreeti head on the bronze pommel.",
+    "Bonus": "+3 greatsword.",
+    "Benefit": "If you roll a critical hit with this weapon, the target is beheaded. It dies instantly if decapitation would kill it.",
+    "item_type": "Weapon"
+  },
+  {
+    "name": "Shield Of The Crusader",
+    "description": "A weighty kite shield painted with a faded, crimson cross.",
+    "Bonus": "+1 shield. Can only be wielded by a lawful being.",
+    "Benefit": "Once per day, you can speak a prayer to wreathe the shield in holy flames, granting +2 to your AC for 3 rounds.",
+    "item_type": "Armor"
+  },
+  {
+    "name": "Shield Of The Lion",
+    "description": "This shield is carved as a roaring lion's face with a flowing mane.",
+    "Bonus": "+1 shield.",
+    "Benefit": "Once per day, you can command the lion to animate and bellow a ferocious roar. All hostile creatures within near range must immediately make a morale check.",
+    "item_type": "Armor"
+  },
+  {
+    "name": "Shield Of The Witch-King",
+    "description": "A jagged triangle of black steel with spiny, armored plates.",
+    "Bonus": "+2 shield. Can only be wielded by a chaotic being.",
+    "Benefit": "You take half damage from undead creatures.",
+    "Curse": "If you go to 0 HP, the spirit of Ix-Natheer tries to steal your body. He blocks healing magic from affecting you. If you die, Ix-Natheer possesses you.",
+    "Personality": "Chaotic. The spirit of the witch-king Ix-Natheer animates this shield. He pounces on opportunities to betray his wielder so he can try to take over their body and return to unlife.",
+    "item_type": "Armor"
+  },
+  {
+    "name": "Shortsword Of The Thief",
+    "description": "A stubby, gray blade riddled with notches and scars.",
+    "Bonus": "+1 shortsword. +2 if wielded by a halfling or thief.",
+    "Benefit": "Once per day, regain a luck token you just spent.",
+    "item_type": "Weapon"
+  },
+  {
+    "name": "Silver Mace Of Wrath",
+    "description": "A tarnished, silver mace with seven flanges in the shape of crescent moons.",
+    "Bonus": "+1 mace.",
+    "Benefit": "This weapon deals double damage against creatures with lycanthropy.",
+    "item_type": "Weapon"
+  },
+  {
+    "name": "Sphere Of Annihilation",
+    "description": "A three-foot, spherical void of pure darkness that hovers above the ground.",
+    "Benefit": "This sphere utterly destroys all matter it touches.",
+    "item_type": "Wondrous Item"
+  },
+  {
+    "name": "Spyglass Of True Sight",
+    "description": "A brass, telescoping lens with magical runes carved on it.",
+    "Benefit": "When you look through the spyglass, you can see invisible creatures and objects.",
+    "Curse": "The wielder feels a compulsion to look at everything through the spyglass.",
+    "item_type": "Wondrous Item"
+  },
+  {
+    "name": "Staff Of Healing",
+    "description": "A knotted, oak stave with a heavy knurl on one end.",
+    "Bonus": "+1 staff.",
+    "Benefit": "Once per day, you can touch a creature with the staff to heal it for 1d6 hit points.",
+    "item_type": "Wand"
+  },
+  {
+    "name": "Staff Of Ord",
+    "description": "A tapered, mithral staff that resonates with arcane power. The tip features an upward looking eye in a circle of runes.",
+    "Bonus": "+3 staff. Can only be wielded by a wizard.",
+    "Benefit": "Functions as a *wand of dimension door*, *fireball*, *sending*, and *telekinesis*.",
+    "item_type": "Wand"
+  },
+  {
+    "name": "Staff Of The Cobra",
+    "description": "A curved scepter tipped with a ruby-eyed, flaring cobra head.",
+    "Bonus": "+1 staff.",
+    "Benefit": "All snakes regard you with a friendly attitude unless you do something to upset them.",
+    "Curse": "You have disadvantage on attacks and casting hostile spells targeting snakes.",
+    "item_type": "Wand"
+  },
+  {
+    "name": "Sword Of The Ancients",
+    "description": "A chipped and rusting blade with an oiled leather grip.",
+    "Bonus": "+2 longsword.",
+    "Benefit": "The sword is unbreakable and can carve through any material.",
+    "item_type": "Weapon"
+  },
+  {
+    "name": "The Kytherian Mechanism",
+    "description": "A towering, brass platform mounted with countless cogs and gears speckled in bluegreen rust.",
+    "Benefit": "A handle turns *The Kytherian Mechanism's* mighty wheels, but it doesn't function until its seven missing *Kytherian Cogs* are replaced.",
+    "item_type": "Wondrous Item"
+  },
+  {
+    "name": "Themalediction Infernal",
+    "description": "A black, leatherbound tome with a grinning demon face embossed on the cover.",
+    "Benefit": "A chaotic being who reads this tome gains a level and learns the Diabolic language.",
+    "item_type": "Wondrous Item"
+  },
+  {
+    "name": "Thrice-Blessed Sword",
+    "description": "A lustrous, golden-handled blade anointed with blessed tears, incense, and prayers.",
+    "Bonus": "+3 longsword. Only a lawful priest who has achieved the Templar title or higher can wield this sword.",
+    "Benefit": "You deal double damage against demons, devils, and undead.",
+    "Personality": "Lawful. Virtuous, naive. Refuses to be wielded against worshippers of lawful gods, especially self-proclaimed converts. Demands each foe be given the chance to convert before being slain.",
+    "item_type": "Weapon"
+  },
+  {
+    "name": "Tome Mordanticus",
+    "description": "A hand-drawn bestiary of the multiverse's most notable creatures and people.",
+    "Benefit": "When you read the tome, you learn three *True Names* of three beings you choose.",
+    "Personality": "Neutral. Pedantic, fussy. The book constantly tries to escape its owner and can telepathically reach out a near distance to any creature.",
+    "item_type": "Wondrous Item"
+  },
+  {
+    "name": "Tome Of Gehemna",
+    "description": "A sturdy, russet volume held by metal clasps. A golden eye in a circle adorns the cover.",
+    "Benefit": "Each day, a random wizard spell scroll appears inside the tome, replacing the spell scroll from the prior day.",
+    "Personality": "Neutral. Instructive, technical. Drones on about the obscure points of spellcasting and has an opinion on every wizard's technique.",
+    "item_type": "Wondrous Item"
+  },
+  {
+    "name": "Tome Of Hadebe",
+    "description": "A brass-plated book with pages of etched copper leaf.",
+    "Benefit": "The tome contains one each of the following scrolls: *burning hands*, *fireball*, and *prismatic orb*.",
+    "item_type": "Wondrous Item"
+  },
+  {
+    "name": "Trident Of The Seas",
+    "description": "A three-pronged, mithral harpoon studded with pearls.",
+    "Bonus": "+2 spear.",
+    "Benefit": "You can breathe underwater, as well as speak to and understand wild sea creatures.",
+    "item_type": "Weapon"
+  },
+  {
+    "name": "True Name",
+    "description": "The secret, unique name borne by a creature and documented in The Covenant. Few creatures know their own True Names.",
+    "Benefit": "You have advantage on attack rolls and spellcasting checks targeting a creature whose *True Name* you utter.",
+    "item_type": "Wondrous Item"
+  },
+  {
+    "name": "Wand Of Unlife",
+    "description": "The knobby bone-finger of a swamp troll steeped in acrid embalming fluid.",
+    "Benefit": "This wand contains the spells *animate dead* and *create undead*.",
+    "Curse": "Each time you use the wand to cast a spell, you temporarily lose 1d4 points of Constitution until you complete a rest. If you reach 0 Constitution from this effect, you die and turn into a zombie.",
+    "item_type": "Wand"
+  },
+  {
+    "name": "Wand Of Warding",
+    "description": "A thin, weighty rod of dark iron inscribed with spiraling runes.",
+    "Benefit": "This wand contains the spells *dispel magic* and *protection from energy*.",
+    "Curse": "Each time you fail a spellcasting check with this wand, you also lose the ability to cast a random spell you know until you complete a rest.",
+    "item_type": "Wand"
+  },
+  {
+    "name": "War Horn Of The Angels",
+    "description": "An opalescent ox horn capped with a golden mouthpiece.",
+    "Benefit": "Only a lawful being can wield the horn. Once per day, you can blow the horn to cast *rebuke unholy* with a +4 bonus.",
+    "item_type": "Wondrous Item"
+  },
+  {
+    "name": "Warhammer Of The Dwarf Lords",
+    "description": "A boxy hammer with a stout handle and leather throwing strap. It hums with a baritone resonance when spun.",
+    "Bonus": "+1 warhammer. +2 if wielded by a dwarf.",
+    "Benefit": "This weapon has the thrown property to a near distance. It always returns to your hand after being thrown.",
+    "item_type": "Weapon"
+  },
+  {
+    "name": "Well Of Many Worlds",
+    "description": "A dark circle of cloth that seems to create a tunnel through the surface it lies upon.",
+    "Benefit": "The *Well of Many Worlds* folds open on a flat surface into a 6-foot wide hole. Creatures can jump into the hole once per day each to be transported to a random plane of existence.",
+    "item_type": "Wondrous Item"
+  },
+  {
+    "name": "Wraith Chain",
+    "description": "A chainmail shirt of black, mithral links that trails a long cloak of writhing shadows.",
+    "Bonus": "+1 mithral chainmail.",
+    "Benefit": "Once per day, you may cause an attack that hits you to miss instead.",
+    "item_type": "Armor"
+  }
+]

@@ -1,0 +1,6943 @@
+[
+  {
+    "name": "Aboleth",
+    "description": "Enormous, antediluvian catfish covered in slime and tentacles. They hate all intelligent beings.",
+    "level": 8,
+    "alignment": "Chaotic",
+    "ac": 16,
+    "armor_type": "",
+    "hp": 39,
+    "movement": "near (swim)",
+    "attack": "2 tentacle (near) +5 (1d8 + curse) or 1 tail +5 (3d6)",
+    "stats": {
+      "str": 4,
+      "dex": -1,
+      "con": 3,
+      "int": 4,
+      "wis": 2,
+      "cha": 2
+    },
+    "actions": [
+      {
+        "name": "Curse",
+        "description": "DC 15 CON or target gains a magical curse, turning into a deep one over 2d10 days."
+      },
+      {
+        "name": "Enslave",
+        "description": "In place of attacks, one creature within far DC 15 WIS or aboleth controls for 1d4 rounds."
+      },
+      {
+        "name": "Telepathic",
+        "description": "Read the thoughts of all creatures within far."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Acolyte",
+    "description": "A religious trainee who knows basic rites and rituals.",
+    "level": 1,
+    "alignment": "Lawful",
+    "ac": 12,
+    "armor_type": "",
+    "hp": 4,
+    "movement": "near",
+    "attack": "1 mace +1 (1d6) or 1 spell +2",
+    "stats": {
+      "str": 1,
+      "dex": -1,
+      "con": 0,
+      "int": -1,
+      "wis": 2,
+      "cha": 0
+    },
+    "actions": [
+      {
+        "name": "Healing Touch (WIS Spell)",
+        "description": "DC 11. Heal one creature within close for 1d4 HP."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Angel, Domini",
+    "description": "Winged, flawless humans glowing with bronze sunlight.",
+    "level": 9,
+    "alignment": "Lawful",
+    "ac": 17,
+    "armor_type": "",
+    "hp": 42,
+    "movement": "near (fly)",
+    "attack": "3 bastard sword +7 (1d8) or 1 horn",
+    "stats": {
+      "str": 4,
+      "dex": 1,
+      "con": 2,
+      "int": 3,
+      "wis": 4,
+      "cha": 4
+    },
+    "actions": [
+      {
+        "name": "Horn",
+        "description": "All enemies in near DC 15 CHA or paralyzed 1d4 rounds."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Angel, Principi",
+    "description": "Serene humans sculpted from alabaster. Golden orbs for eyes.",
+    "level": 11,
+    "alignment": "Lawful",
+    "ac": 16,
+    "armor_type": "",
+    "hp": 53,
+    "movement": "double near (fly)",
+    "attack": "3 silvered bastard sword +9 (1d10)",
+    "stats": {
+      "str": 4,
+      "dex": 2,
+      "con": 4,
+      "int": 4,
+      "wis": 4,
+      "cha": 4
+    },
+    "actions": [
+      {
+        "name": "Moonlight Aura",
+        "description": "Hostile spells targeting the principi are DC 15."
+      },
+      {
+        "name": "Truesight",
+        "description": "Can see all invisible creatures and objects."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Angel, Seraph",
+    "description": "Beautiful, luminous humanoids with white-feathered wings.",
+    "level": 3,
+    "alignment": "Lawful",
+    "ac": 14,
+    "armor_type": "chainmail",
+    "hp": 14,
+    "movement": "near (fly)",
+    "attack": "2 longsword +3 (1d8)",
+    "stats": {
+      "str": 3,
+      "dex": 1,
+      "con": 1,
+      "int": 2,
+      "wis": 3,
+      "cha": 3
+    },
+    "actions": [
+      {
+        "name": "Bless",
+        "description": "3/day, touch one target to give it a luck token."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Animated Armor",
+    "description": "An old suit of armor magically animated by a vengeful spirit.",
+    "level": 2,
+    "alignment": "Chaotic",
+    "ac": 15,
+    "armor_type": "",
+    "hp": 11,
+    "movement": "near",
+    "attack": "1 longsword +3 (1d8)",
+    "stats": {
+      "str": 3,
+      "dex": -1,
+      "con": 2,
+      "int": -1,
+      "wis": 1,
+      "cha": 0
+    },
+    "actions": [
+      {
+        "name": "Statue",
+        "description": "When standing still, looks exactly like a suit of armor."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Ankheg",
+    "description": "Horse-sized, rust-brown insects. They burrow vast, underground warrens into the bedrock.",
+    "level": 3,
+    "alignment": "Neutral",
+    "ac": 14,
+    "armor_type": "",
+    "hp": 14,
+    "movement": "near (burrow)",
+    "attack": "1 bite +4 (1d6) or 1 acid spray (near) +4 (2d6)",
+    "stats": {
+      "str": 2,
+      "dex": 2,
+      "con": 1,
+      "int": -2,
+      "wis": 1,
+      "cha": -2
+    },
+    "actions": [],
+    "source": "Core"
+  },
+  {
+    "name": "Ape",
+    "description": "Hooting, omnivorous apes that live in trees.",
+    "level": 2,
+    "alignment": "Neutral",
+    "ac": 12,
+    "armor_type": "",
+    "hp": 10,
+    "movement": "near (climb)",
+    "attack": "1 fist +2 (1d6) or 1 rock (far) +2 (1d4)",
+    "stats": {
+      "str": 2,
+      "dex": 2,
+      "con": 1,
+      "int": -2,
+      "wis": 1,
+      "cha": 0
+    },
+    "actions": [],
+    "source": "Core"
+  },
+  {
+    "name": "Ape, Snow",
+    "description": "White-haired, carnivorous gorillas that stalk the high mountains and live in caves.",
+    "level": 4,
+    "alignment": "Neutral",
+    "ac": 13,
+    "armor_type": "",
+    "hp": 19,
+    "movement": "near (climb)",
+    "attack": "2 fist +4 (1d6) or 1 rock (far) +4 (2d6)",
+    "stats": {
+      "str": 3,
+      "dex": 1,
+      "con": 1,
+      "int": -2,
+      "wis": 1,
+      "cha": 0
+    },
+    "actions": [
+      {
+        "name": "Thick Fur",
+        "description": "Cold immune."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Apprentice",
+    "description": "A cloaked magician with a thin, freshly bound spellbook.",
+    "level": 1,
+    "alignment": "Neutral",
+    "ac": 11,
+    "armor_type": "",
+    "hp": 3,
+    "movement": "near",
+    "attack": "1 dagger (close/ near) +1 (1d4) or 1 spell +2",
+    "stats": {
+      "str": -1,
+      "dex": 1,
+      "con": -1,
+      "int": 2,
+      "wis": 0,
+      "cha": 0
+    },
+    "actions": [
+      {
+        "name": "Beguile (INT Spell)",
+        "description": "DC 11. Focus. One target in near of LV 2 or less is stupefied for the duration."
+      },
+      {
+        "name": "Magic Bolt (INT Spell)",
+        "description": "DC 11. 1d4 damage to one target within far."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Archangel",
+    "description": "A radiant being with a crown of fire, snowy wings, golden armor, and a blazing greatsword.",
+    "level": 16,
+    "alignment": "Lawful",
+    "ac": 18,
+    "armor_type": "",
+    "hp": 76,
+    "movement": "double near (fly)",
+    "attack": "3 flaming greatsword +10 (2d12)",
+    "stats": {
+      "str": 5,
+      "dex": 2,
+      "con": 4,
+      "int": 4,
+      "wis": 5,
+      "cha": 5
+    },
+    "actions": [
+      {
+        "name": "Command",
+        "description": "DC 18 CHA to resist an archangel's command."
+      },
+      {
+        "name": "Crown of Fire",
+        "description": "Hostile spells targeting the archangel are extreme (DC 18) to cast."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Archdevil",
+    "description": "A stunningly beautiful, horned human with burning, red eyes and a halo of seven black stars. Two stitched-up gashes weep blood from its shoulder blades.",
+    "level": 16,
+    "alignment": "Chaotic",
+    "ac": 19,
+    "armor_type": "",
+    "hp": 76,
+    "movement": "far (teleport)",
+    "attack": "4 iron scepter +10 (3d10) or 1 soulbind",
+    "stats": {
+      "str": 5,
+      "dex": 4,
+      "con": 4,
+      "int": 5,
+      "wis": 4,
+      "cha": 7
+    },
+    "actions": [
+      {
+        "name": "Impervious",
+        "description": "Fire immune. Only damaged by magical sources."
+      },
+      {
+        "name": "Crown of Darkness",
+        "description": "All hostile spells are reflected at caster with a spellcasting check less than 20."
+      },
+      {
+        "name": "Soulbind",
+        "description": "All targets within near DC 20 CHA or fall under control of archdevil for 1d4 rounds. DC 20 CHA on turn to end the effect."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Archmage",
+    "description": "A wizened magic-user crackling with arcane power.",
+    "level": 10,
+    "alignment": "Lawful",
+    "ac": 12,
+    "armor_type": "",
+    "hp": 44,
+    "movement": "near",
+    "attack": "2 spell +7",
+    "stats": {
+      "str": -1,
+      "dex": 2,
+      "con": -1,
+      "int": 4,
+      "wis": 2,
+      "cha": 1
+    },
+    "actions": [
+      {
+        "name": "Death Bolt (INT Spell)",
+        "description": "DC 15. One target of LV 9 or less within near DC 15 CON or go to 0 HP."
+      },
+      {
+        "name": "Enervate (INT Spell)",
+        "description": "DC 14. Focus. One target within near is stupefied for the duration."
+      },
+      {
+        "name": "Fireblast (INT Spell)",
+        "description": "DC 14. 4d6 damage to all within a near-sized cube within far."
+      },
+      {
+        "name": "Float (INT Spell)",
+        "description": "Self. DC 14. Fly double near for 5 rounds."
+      },
+      {
+        "name": "Mithralskin (INT Spell)",
+        "description": "Self. DC 14. AC becomes 18 for 5 rounds."
+      },
+      {
+        "name": "Void Step (INT Spell)",
+        "description": "Self and up to 4 willing targets. DC 15."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Assassin",
+    "description": "A black-cloaked, skulking killer.",
+    "level": 8,
+    "alignment": "Chaotic",
+    "ac": 15,
+    "armor_type": "leather",
+    "hp": 38,
+    "movement": "near (climb)",
+    "attack": "2 poisoned dagger (close/near) +6 (2d4)",
+    "stats": {
+      "str": 2,
+      "dex": 4,
+      "con": 2,
+      "int": 2,
+      "wis": 3,
+      "cha": 3
+    },
+    "actions": [
+      {
+        "name": "Execute",
+        "description": "Deals x3 damage against surprised targets."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Azer",
+    "description": "Dwarves with bronze, metallic skin and flames in place of hair. Gifted blacksmiths.",
+    "level": 3,
+    "alignment": "Lawful",
+    "ac": 15,
+    "armor_type": "",
+    "hp": 15,
+    "movement": "near",
+    "attack": "2 flaming warhammer +3 (1d10 +  ignites flammables) or 1 crossbow (far) +0 (1d6)",
+    "stats": {
+      "str": 3,
+      "dex": 0,
+      "con": 2,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+    },
+    "actions": [
+      {
+        "name": "Impervious",
+        "description": "Fire immune."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Badger",
+    "description": "Fierce, clawed burrowers with black-and-white face stripes.",
+    "level": 1,
+    "alignment": "Neutral",
+    "ac": 11,
+    "armor_type": "",
+    "hp": 5,
+    "movement": "near (burrow)",
+    "attack": "2 claw +2 (1d4)",
+    "stats": {
+      "str": 2,
+      "dex": 0,
+      "con": 1,
+      "int": -3,
+      "wis": 1,
+      "cha": -2
+    },
+    "actions": [
+      {
+        "name": "Rage",
+        "description": "1/day, immune to morale checks, +1d4 damage (3 rounds)."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Bandit",
+    "description": "Hard-bitten rogue in tattered leathers and a hooded cloak.",
+    "level": 1,
+    "alignment": "Chaotic",
+    "ac": 13,
+    "armor_type": "",
+    "hp": 4,
+    "movement": "near",
+    "attack": "1 club +1 (1d4) or 1 shortbow (far) +0 (1d4)",
+    "stats": {
+      "str": 1,
+      "dex": 0,
+      "con": 0,
+      "int": -1,
+      "wis": 0,
+      "cha": -1
+    },
+    "actions": [
+      {
+        "name": "Ambush",
+        "description": "Deal an extra die of damage when undetected."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Basilisk",
+    "description": "Massive, muscled lizards with six legs and gray, tough hide.",
+    "level": 5,
+    "alignment": "Neutral",
+    "ac": 14,
+    "armor_type": "",
+    "hp": 25,
+    "movement": "near",
+    "attack": "2 bite +4 (2d6 + petrify)",
+    "stats": {
+      "str": 3,
+      "dex": 1,
+      "con": 3,
+      "int": -3,
+      "wis": 1,
+      "cha": -3
+    },
+    "actions": [
+      {
+        "name": "Petrify",
+        "description": "Any creature that touches the basilisk or meets its gaze, DC 15 CON or petrified."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Bat, Giant",
+    "description": "Leathery, eagle-sized mammal with a taste for flesh.",
+    "level": 2,
+    "alignment": "Neutral",
+    "ac": 12,
+    "armor_type": "",
+    "hp": 9,
+    "movement": "near (fly)",
+    "attack": "1 bite +2 (1d6)",
+    "stats": {
+      "str": -1,
+      "dex": 2,
+      "con": 0,
+      "int": -3,
+      "wis": 1,
+      "cha": -3
+    },
+    "actions": [],
+    "source": "Core"
+  },
+  {
+    "name": "Bat, Swarm",
+    "description": "A whirling cloud of screeching, bloodthirsty bats.",
+    "level": 4,
+    "alignment": "Neutral",
+    "ac": 12,
+    "armor_type": "",
+    "hp": 18,
+    "movement": "near (fly)",
+    "attack": "3 bite +2 (1d6)",
+    "stats": {
+      "str": -3,
+      "dex": 2,
+      "con": 0,
+      "int": -3,
+      "wis": 1,
+      "cha": -3
+    },
+    "actions": [],
+    "source": "Core"
+  },
+  {
+    "name": "Bear, Brown",
+    "description": "A hulking, swaying brute with claws as long as a finger.",
+    "level": 5,
+    "alignment": "Neutral",
+    "ac": 13,
+    "armor_type": "",
+    "hp": 25,
+    "movement": "near (climb)",
+    "attack": "2 claw +4 (1d8)",
+    "stats": {
+      "str": 4,
+      "dex": 1,
+      "con": 3,
+      "int": -2,
+      "wis": 1,
+      "cha": -2
+    },
+    "actions": [
+      {
+        "name": "Crush",
+        "description": "Deals an extra die of damage if it hits the same target with both claws."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Bear, Polar",
+    "description": "A mighty, white bear that thrives in arctic environments.",
+    "level": 7,
+    "alignment": "Neutral",
+    "ac": 13,
+    "armor_type": "",
+    "hp": 34,
+    "movement": "near (climb)",
+    "attack": "2 claw +6 (2d6)",
+    "stats": {
+      "str": 4,
+      "dex": 1,
+      "con": 3,
+      "int": -2,
+      "wis": 1,
+      "cha": -2
+    },
+    "actions": [
+      {
+        "name": "Crush",
+        "description": "Deals an extra die of damage if it hits the same target with both claws."
+      },
+      {
+        "name": "Thick Fur",
+        "description": "Cold immune."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Beastman",
+    "description": "A cave hominid with scraggly fur and a stone-tipped spear.",
+    "level": 1,
+    "alignment": "Chaotic",
+    "ac": 12,
+    "armor_type": "leather",
+    "hp": 5,
+    "movement": "near",
+    "attack": "1 spear (close/near) +2 (1d6 + 1)",
+    "stats": {
+      "str": 2,
+      "dex": 1,
+      "con": 1,
+      "int": -2,
+      "wis": 1,
+      "cha": -1
+    },
+    "actions": [
+      {
+        "name": "Brutal",
+        "description": "+1 damage with melee weapons (included)."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Berserker",
+    "description": "Howling, battleraging warriors.",
+    "level": 2,
+    "alignment": "Neutral",
+    "ac": 12,
+    "armor_type": "leather",
+    "hp": 10,
+    "movement": "near",
+    "attack": "1 greataxe +2 (1d10) or 1 spear (close/near) +2 (1d6)",
+    "stats": {
+      "str": 2,
+      "dex": 1,
+      "con": 1,
+      "int": 0,
+      "wis": 1,
+      "cha": 0
+    },
+    "actions": [
+      {
+        "name": "Rage",
+        "description": "1/day, immune to morale checks, +1d4 damage (3 rounds)."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Black Pudding",
+    "description": "A black, ice-cold mass of sludge.",
+    "level": 6,
+    "alignment": "Neutral",
+    "ac": 9,
+    "armor_type": "",
+    "hp": 30,
+    "movement": "near (climb)",
+    "attack": "3 tentacle +4 (2d6)",
+    "stats": {
+      "str": 2,
+      "dex": -1,
+      "con": 3,
+      "int": -4,
+      "wis": -3,
+      "cha": -4
+    },
+    "actions": [
+      {
+        "name": "Impervious",
+        "description": "Only damaged by fire."
+      },
+      {
+        "name": "Corrosive",
+        "description": "Wood or metal that touches the ooze dissolves on a d6 roll of 1-3."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Boar",
+    "description": "Ornery wild pig with bristly, russet hair and yellowed tusks.",
+    "level": 3,
+    "alignment": "Neutral",
+    "ac": 12,
+    "armor_type": "",
+    "hp": 14,
+    "movement": "near",
+    "attack": "2 tusk +3 (1d6)",
+    "stats": {
+      "str": 3,
+      "dex": 0,
+      "con": 1,
+      "int": -2,
+      "wis": 1,
+      "cha": -2
+    },
+    "actions": [
+      {
+        "name": "Gore",
+        "description": "Deals an extra die of damage if it hits the same target with both tusks."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Brachiosaurus",
+    "description": "Colossal, long-necked tree grazers. Slow and peaceful.",
+    "level": 12,
+    "alignment": "Neutral",
+    "ac": 13,
+    "armor_type": "",
+    "hp": 57,
+    "movement": "double near",
+    "attack": "3 stomp +7 (2d10)",
+    "stats": {
+      "str": 6,
+      "dex": -1,
+      "con": 3,
+      "int": -3,
+      "wis": 1,
+      "cha": -3
+    },
+    "actions": [],
+    "source": "Core"
+  },
+  {
+    "name": "Brain Eater",
+    "description": "Purple, gaunt humanoids with squidlike heads and four face tentacles. They live in complex, alien societies underground and eat humanoid brains.",
+    "level": 8,
+    "alignment": "Chaotic",
+    "ac": 14,
+    "armor_type": "leather",
+    "hp": 36,
+    "movement": "near",
+    "attack": "4 tentacle +5 (1d8 + latch) or 1 mind blast or 1 mind control",
+    "stats": {
+      "str": 2,
+      "dex": 3,
+      "con": 0,
+      "int": 4,
+      "wis": 2,
+      "cha": 4
+    },
+    "actions": [
+      {
+        "name": "Hear Thoughts",
+        "description": "Can hear the surface thoughts of all intelligent creatures within near."
+      },
+      {
+        "name": "Latch",
+        "description": "Tentacles attach to hit targets, automatically hitting the next round (DC 12 STR on turn to remove 1d4 tentacles). If all four remain latched onto the same humanoid target for 1 round, the target's brain is ripped out and devoured."
+      },
+      {
+        "name": "Mind Blast",
+        "description": "Fills a near-sized cube extending from brain eater. DC 15 INT or 3d6 damage and paralyzed 1d4 rounds."
+      },
+      {
+        "name": "Mind Control",
+        "description": "One target in near DC 15 CHA or brain eater controls for 1d4 rounds."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Bugbear",
+    "description": "Brutish, bat-eared goblinoids covered in brown fur.",
+    "level": 3,
+    "alignment": "Chaotic",
+    "ac": 13,
+    "armor_type": "",
+    "hp": 14,
+    "movement": "near",
+    "attack": "2 spiked mace +3 (1d6)",
+    "stats": {
+      "str": 3,
+      "dex": 0,
+      "con": 1,
+      "int": -1,
+      "wis": 0,
+      "cha": -2
+    },
+    "actions": [
+      {
+        "name": "Stealthy",
+        "description": "ADV on checks to sneak and hide."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Bulette",
+    "description": "A hulking, shark-sized lizard with a steely, arrow-shaped carapace and a massive gullet.",
+    "level": 8,
+    "alignment": "Neutral",
+    "ac": 17,
+    "armor_type": "",
+    "hp": 40,
+    "movement": "near (burrow)",
+    "attack": "3 bite +5 (2d6) or 1 leap",
+    "stats": {
+      "str": 5,
+      "dex": 1,
+      "con": 4,
+      "int": -3,
+      "wis": 1,
+      "cha": -2
+    },
+    "actions": [
+      {
+        "name": "Leap",
+        "description": "Jump up to near in height and double near in distance, then make 2 bite attacks."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Camel",
+    "description": "Ornery, tan-furred desert beasts.",
+    "level": 2,
+    "alignment": "Neutral",
+    "ac": 10,
+    "armor_type": "",
+    "hp": 12,
+    "movement": "double near",
+    "attack": "1 hoof +3 (1d6) or 1 spit (near) +0 (1d4)",
+    "stats": {
+      "str": 3,
+      "dex": 0,
+      "con": 3,
+      "int": -2,
+      "wis": 1,
+      "cha": -3
+    },
+    "actions": [],
+    "source": "Core"
+  },
+  {
+    "name": "Cave Brute",
+    "description": "A hulking, insectoid beast with long mandibles, four eyes, and thick arms covered in bristles.",
+    "level": 6,
+    "alignment": "Neutral",
+    "ac": 14,
+    "armor_type": "",
+    "hp": 28,
+    "movement": "near (burrow)",
+    "attack": "2 claw +5 (1d8) and 1 mandible +5 (1d10)",
+    "stats": {
+      "str": 4,
+      "dex": 1,
+      "con": 1,
+      "int": -3,
+      "wis": 1,
+      "cha": -3
+    },
+    "actions": [
+      {
+        "name": "Bewilder",
+        "description": "Creatures within near that see the cave brute's eyes, DC 12 CHA at start of their turn or dazed and no action."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Cave Creeper",
+    "description": "Chittering, green centipedes the size of horses. Their grasping tentacles are coated in a paralytic venom.",
+    "level": 4,
+    "alignment": "Neutral",
+    "ac": 12,
+    "armor_type": "",
+    "hp": 18,
+    "movement": "near (climb)",
+    "attack": "1 bite +3 (1d6) and 1 tentacles +3 (1d8 + toxin)",
+    "stats": {
+      "str": 2,
+      "dex": 2,
+      "con": 0,
+      "int": -3,
+      "wis": 1,
+      "cha": -3
+    },
+    "actions": [
+      {
+        "name": "Toxin",
+        "description": "DC 12 CON or paralyzed 1d4 rounds."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Centaur",
+    "description": "Herd-dwelling beings with the upper body of a human and lower body of a horse.",
+    "level": 3,
+    "alignment": "Neutral",
+    "ac": 12,
+    "armor_type": "leather",
+    "hp": 14,
+    "movement": "double near",
+    "attack": "2 spear (close/near) +2 (1d6) or 1 longbow (far) +1 (1d8)",
+    "stats": {
+      "str": 2,
+      "dex": 1,
+      "con": 1,
+      "int": 0,
+      "wis": 2,
+      "cha": 1
+    },
+    "actions": [],
+    "source": "Core"
+  },
+  {
+    "name": "Centipede, Giant",
+    "description": "Blood-red, feathery centipedes the size of a human arm. Their bite injects a burning poison that cramps muscles.",
+    "level": 1,
+    "alignment": "Neutral",
+    "ac": 11,
+    "armor_type": "",
+    "hp": 4,
+    "movement": "near (climb)",
+    "attack": "1 bite +1 (1d4 + poison)",
+    "stats": {
+      "str": -3,
+      "dex": 1,
+      "con": 0,
+      "int": -4,
+      "wis": -3,
+      "cha": -4
+    },
+    "actions": [
+      {
+        "name": "Poison",
+        "description": "DC 12 CON or paralyzed 1d4 rounds."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Centipede, Swarm",
+    "description": "A crawling mass of weaving, sinuous centipedes.",
+    "level": 4,
+    "alignment": "Neutral",
+    "ac": 11,
+    "armor_type": "",
+    "hp": 18,
+    "movement": "near (climb)",
+    "attack": "3 bite +1 (1d4 + poison)",
+    "stats": {
+      "str": -3,
+      "dex": 1,
+      "con": 0,
+      "int": -4,
+      "wis": -3,
+      "cha": -4
+    },
+    "actions": [
+      {
+        "name": "Poison",
+        "description": "DC 12 CON or paralyzed 1d4 rounds."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Chimera",
+    "description": "A monstrous beast with a half-goat, half-lion body, wide dragon wings, and the heads of a goat, lion, and dragon.",
+    "level": 10,
+    "alignment": "Chaotic",
+    "ac": 16,
+    "armor_type": "",
+    "hp": 49,
+    "movement": "double near (fly)",
+    "attack": "4 rend +7 (2d8) and 1 fire breath",
+    "stats": {
+      "str": 5,
+      "dex": 4,
+      "con": 4,
+      "int": -3,
+      "wis": 2,
+      "cha": -1
+    },
+    "actions": [
+      {
+        "name": "Fire Breath",
+        "description": "Fills a near-sized cube extending from chimera. DC 15 DEX or 4d6 damage."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Chuul",
+    "description": "Brown, horse-sized lobster bugs with tentacles and pincers.",
+    "level": 5,
+    "alignment": "Chaotic",
+    "ac": 15,
+    "armor_type": "",
+    "hp": 25,
+    "movement": "near (swim)",
+    "attack": "2 pincer +4 (1d8 + grab)",
+    "stats": {
+      "str": 3,
+      "dex": -1,
+      "con": 3,
+      "int": -1,
+      "wis": 1,
+      "cha": -2
+    },
+    "actions": [
+      {
+        "name": "Grab",
+        "description": "DC 15 STR or held in pincer. DC 15 STR on turn to break free."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Cloaker",
+    "description": "A midnight blue manta ray with a bony tail and crescent-shaped maw above its belly. It swoops through deep, lightless caverns.",
+    "level": 6,
+    "alignment": "Chaotic",
+    "ac": 13,
+    "armor_type": "",
+    "hp": 28,
+    "movement": "near (fly)",
+    "attack": "3 lash +4 (1d8) or 1 screech",
+    "stats": {
+      "str": 2,
+      "dex": 3,
+      "con": 1,
+      "int": 1,
+      "wis": 1,
+      "cha": 0
+    },
+    "actions": [
+      {
+        "name": "Phantoms",
+        "description": "1/day, in place of attacks. Create 3 illusory duplicates that disappear when hit. Determine randomly if an attack hits cloaker or illusions."
+      },
+      {
+        "name": "Screech",
+        "description": "Enemies within double near DC 15 WIS or DISADV on attacks and checks 1d4 rounds."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Cockatrice",
+    "description": "A molting, lizard-chicken hybrid with a crimson, razorlike crest.",
+    "level": 3,
+    "alignment": "Neutral",
+    "ac": 11,
+    "armor_type": "",
+    "hp": 14,
+    "movement": "near (fly)",
+    "attack": "1 bite +1 (1d4 + petrify)",
+    "stats": {
+      "str": -2,
+      "dex": 1,
+      "con": 1,
+      "int": -3,
+      "wis": 1,
+      "cha": -3
+    },
+    "actions": [
+      {
+        "name": "Petrify",
+        "description": "DC 12 CON or petrified."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Couatl",
+    "description": "A human-sized snake with scales made of jewels and a corona of iridescent feathers.",
+    "level": 9,
+    "alignment": "Lawful",
+    "ac": 16,
+    "armor_type": "",
+    "hp": 42,
+    "movement": "near (fly)",
+    "attack": "3 bite +6 (2d6 + poison)",
+    "stats": {
+      "str": 2,
+      "dex": 3,
+      "con": 2,
+      "int": 4,
+      "wis": 4,
+      "cha": 5
+    },
+    "actions": [
+      {
+        "name": "Change Shape",
+        "description": "In place of attacks, transform into any similarly-sized creature."
+      },
+      {
+        "name": "Poison",
+        "description": "DC 15 CON or fall into natural, deep sleep for 1d8 hours."
+      },
+      {
+        "name": "Restore",
+        "description": "In place of attacks, touch one creature to remove a curse, affliction, or heal 3d8 HP."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Crab, Giant",
+    "description": "A wagon-sized, armored crab with two crushing pincers.",
+    "level": 5,
+    "alignment": "Neutral",
+    "ac": 15,
+    "armor_type": "",
+    "hp": 24,
+    "movement": "near (swim)",
+    "attack": "2 pincer +4 (1d8 + crush)",
+    "stats": {
+      "str": 3,
+      "dex": 0,
+      "con": 2,
+      "int": -3,
+      "wis": 0,
+      "cha": -3
+    },
+    "actions": [
+      {
+        "name": "Crush",
+        "description": "DC 15 STR or target takes 1d8 damage."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Crocodile",
+    "description": "Fat, scaly reptiles with stumpy legs and long, thrashing tails.",
+    "level": 4,
+    "alignment": "Neutral",
+    "ac": 14,
+    "armor_type": "",
+    "hp": 20,
+    "movement": "near (swim)",
+    "attack": "2 bite +3 (1d8)",
+    "stats": {
+      "str": 3,
+      "dex": 1,
+      "con": 2,
+      "int": -2,
+      "wis": 1,
+      "cha": -2
+    },
+    "actions": [],
+    "source": "Core"
+  },
+  {
+    "name": "Cultist",
+    "description": "A cloaked, wild-eyed zealot chanting the guttural prayers of a dark god.",
+    "level": 2,
+    "alignment": "Chaotic",
+    "ac": 14,
+    "armor_type": "",
+    "hp": 9,
+    "movement": "near",
+    "attack": "1 longsword +1 (1d8) or 1 spell +2",
+    "stats": {
+      "str": 1,
+      "dex": -1,
+      "con": 0,
+      "int": -1,
+      "wis": 2,
+      "cha": 0
+    },
+    "actions": [
+      {
+        "name": "Fearless",
+        "description": "Immune to morale checks."
+      },
+      {
+        "name": "Deathtouch (WIS Spell)",
+        "description": "DC 12. 2d4 damage to one creature within close."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Cyclops",
+    "description": "Reclusive, one-eyed giants towering 20' high. They live simply on remote farmlands.",
+    "level": 8,
+    "alignment": "Chaotic",
+    "ac": 11,
+    "armor_type": "leather",
+    "hp": 38,
+    "movement": "double near",
+    "attack": "2 greatclub +7 (2d8) or 1 rock (far) +5 (1d12)",
+    "stats": {
+      "str": 5,
+      "dex": 0,
+      "con": 2,
+      "int": -1,
+      "wis": -2,
+      "cha": 0
+    },
+    "actions": [],
+    "source": "Core"
+  },
+  {
+    "name": "Darkmantle",
+    "description": "A floating, black octopus with rows of red eyes and a webbed skirt of tentacles.",
+    "level": 1,
+    "alignment": "Neutral",
+    "ac": 13,
+    "armor_type": "",
+    "hp": 4,
+    "movement": "near (fly)",
+    "attack": "1 bite +3 (1d4) or 1 darkness",
+    "stats": {
+      "str": -2,
+      "dex": 3,
+      "con": 0,
+      "int": -3,
+      "wis": 0,
+      "cha": -3
+    },
+    "actions": [
+      {
+        "name": "Darkness",
+        "description": "Extinguish all light sources in near."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Deep One",
+    "description": "Cultish, amphibious fish-people with bulbous eyes. They lurk in deep water and sunless caverns.",
+    "level": 2,
+    "alignment": "Chaotic",
+    "ac": 13,
+    "armor_type": "",
+    "hp": 10,
+    "movement": "near (swim)",
+    "attack": "2 spear (close/ near) +2 (1d6)",
+    "stats": {
+      "str": 2,
+      "dex": 1,
+      "con": 1,
+      "int": -2,
+      "wis": 0,
+      "cha": -2
+    },
+    "actions": [
+      {
+        "name": "Sunblind",
+        "description": "Blinded in bright light."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Demon, Balor",
+    "description": "Colossal, horned bat-beasts wreathed in the flames of hell itself. Their mighty swords and cracking whips of fire can slice through stone.",
+    "level": 16,
+    "alignment": "Chaotic",
+    "ac": 19,
+    "armor_type": "",
+    "hp": 77,
+    "movement": "double near (fly)",
+    "attack": "3 greatsword +10 (2d12 + hellfire) and 1 fire whip (near) +10 (2d6 + grab)",
+    "stats": {
+      "str": 6,
+      "dex": 2,
+      "con": 5,
+      "int": 4,
+      "wis": 3,
+      "cha": 4
+    },
+    "actions": [
+      {
+        "name": "Impervious",
+        "description": "Fire immune. Only damaged by magical sources."
+      },
+      {
+        "name": "Grab",
+        "description": "DC 18 STR or target bound in whip. 2d6 damage per round held, DC 18 STR on turn to break free. In place of fire whip attack, balor can fling a grabbed target double near on its turn."
+      },
+      {
+        "name": "Hellfire",
+        "description": "DC 18 DEX or 2d8 damage per round until flames extinguished."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Demon, Dretch",
+    "description": "Green, pig-faced demons with thick claws and an oily stench.",
+    "level": 2,
+    "alignment": "Chaotic",
+    "ac": 12,
+    "armor_type": "",
+    "hp": 11,
+    "movement": "near",
+    "attack": "1 claw +2 (1d6) or 1 gas",
+    "stats": {
+      "str": 2,
+      "dex": 0,
+      "con": 2,
+      "int": -2,
+      "wis": -1,
+      "cha": -3
+    },
+    "actions": [
+      {
+        "name": "Gas",
+        "description": "All in near DC 12 CON or blinded for 1d4 rounds."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Demon, Glabrezu",
+    "description": "Horse-headed, fanged creatures who walk upright and have four arms; two shriveled, and two ending in hulking pincers.",
+    "level": 8,
+    "alignment": "Chaotic",
+    "ac": 15,
+    "armor_type": "",
+    "hp": 40,
+    "movement": "near",
+    "attack": "2 pincer +7 (2d8 + crush)",
+    "stats": {
+      "str": 4,
+      "dex": 1,
+      "con": 4,
+      "int": 3,
+      "wis": 2,
+      "cha": 2
+    },
+    "actions": [
+      {
+        "name": "Crush",
+        "description": "DC 15 STR or target takes 2d8 damage."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Demon, Marilith",
+    "description": "Hissing, armored women with six limbs and the lower bodies of giant snakes. Six whirling blades flash in their hands.",
+    "level": 9,
+    "alignment": "Chaotic",
+    "ac": 17,
+    "armor_type": "plate mail",
+    "hp": 43,
+    "movement": "near (climb)",
+    "attack": "6 longsword +7 (1d8)",
+    "stats": {
+      "str": 5,
+      "dex": 4,
+      "con": 3,
+      "int": 3,
+      "wis": 3,
+      "cha": 4
+    },
+    "actions": [
+      {
+        "name": "Parry",
+        "description": "Trade 2 longsword attacks next round to deflect a melee attack that would hit."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Demon, Vrock",
+    "description": "Wagon-sized, filthy vultures with four limbs, midnight-blue skin, and a rash of mangy feathers.",
+    "level": 5,
+    "alignment": "Chaotic",
+    "ac": 14,
+    "armor_type": "",
+    "hp": 24,
+    "movement": "near (fly)",
+    "attack": "2 talons +4 (1d8) or 1 screech",
+    "stats": {
+      "str": 2,
+      "dex": 2,
+      "con": 2,
+      "int": -1,
+      "wis": 1,
+      "cha": 0
+    },
+    "actions": [
+      {
+        "name": "Carrion Mist",
+        "description": "Each time vrock is hit, 3:6 chance of carrion mist in near-sized cube centered on vrock. All enemies DC 15 CON or violent vomiting 1d4 rounds."
+      },
+      {
+        "name": "Screech",
+        "description": "All enemies in double near DC 12 WIS or DISADV on checks and attacks for 1d4 rounds."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Devil, Barbed",
+    "description": "Lanky, green-mottled fiends bristling with hooked spines.",
+    "level": 3,
+    "alignment": "Chaotic",
+    "ac": 13,
+    "armor_type": "",
+    "hp": 14,
+    "movement": "near",
+    "attack": "2 spine (near) +3 (1d6 + barb) or 1 fire blast (far) +3 (1d8)",
+    "stats": {
+      "str": 2,
+      "dex": 3,
+      "con": 1,
+      "int": 1,
+      "wis": 1,
+      "cha": 1
+    },
+    "actions": [
+      {
+        "name": "Barb",
+        "description": "Each spine sticks, dealing 1d4 damage each round. DC 12 STR check on turn to remove."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Devil, Cubi",
+    "description": "Entrancing humanoids with bat wings and devilish charm.",
+    "level": 6,
+    "alignment": "Chaotic",
+    "ac": 14,
+    "armor_type": "",
+    "hp": 29,
+    "movement": "near (fly)",
+    "attack": "1 kiss +4 (1d6 + drain) or 1 charm",
+    "stats": {
+      "str": 2,
+      "dex": 4,
+      "con": 2,
+      "int": 3,
+      "wis": 2,
+      "cha": 5
+    },
+    "actions": [
+      {
+        "name": "Change Shape",
+        "description": "In place of attacks, transform into any similarly-sized humanoid."
+      },
+      {
+        "name": "Charm",
+        "description": "One humanoid in near DC 15 CHA or bewitched by cubi for 1d6 hours."
+      },
+      {
+        "name": "Drain",
+        "description": "The target takes 1d6 WIS damage. A target reduced to 0 WIS this way swears its soul to an archdevil."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Devil, Erinyes",
+    "description": "Raven-winged, resplendent beings in polished, black armor and helms with curved horns.",
+    "level": 9,
+    "alignment": "Chaotic",
+    "ac": 17,
+    "armor_type": "",
+    "hp": 43,
+    "movement": "double near (fly)",
+    "attack": "3 greatsword +8 (1d12) or 2 longbow (far) +8 (1d8 + poison)",
+    "stats": {
+      "str": 4,
+      "dex": 4,
+      "con": 3,
+      "int": 4,
+      "wis": 4,
+      "cha": 5
+    },
+    "actions": [
+      {
+        "name": "Poison",
+        "description": "DC 15 CON or target's eyes go jet black and it turns on its allies for 1d4 rounds. DC 15 WIS on turn to end effect."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Devil, Horned",
+    "description": "Iron-scaled hellions as big as ogres with weighty ram horns, lashing tails, and leathery wings. They are opportunistic and craven in battle.",
+    "level": 7,
+    "alignment": "Chaotic",
+    "ac": 16,
+    "armor_type": "",
+    "hp": 35,
+    "movement": "double near (fly)",
+    "attack": "2 burning trident (near) +7 (2d6) or 1 fire blast (far) +4 (2d8)",
+    "stats": {
+      "str": 5,
+      "dex": 2,
+      "con": 4,
+      "int": 2,
+      "wis": 1,
+      "cha": 2
+    },
+    "actions": [
+      {
+        "name": "Iron Hide",
+        "description": "Half damage from non-magical weapons."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Devil, Imp",
+    "description": "Cat-sized, red devils with oversized wings and tail, tiny horns, and cowardly demeanors.",
+    "level": 2,
+    "alignment": "Chaotic",
+    "ac": 13,
+    "armor_type": "",
+    "hp": 9,
+    "movement": "near (fly)",
+    "attack": "1 stinger +3 (1d4 + poison)",
+    "stats": {
+      "str": -2,
+      "dex": 3,
+      "con": 0,
+      "int": 1,
+      "wis": 0,
+      "cha": 2
+    },
+    "actions": [
+      {
+        "name": "Impervious",
+        "description": "Fire immune."
+      },
+      {
+        "name": "Contract",
+        "description": "Can grant mighty boons and patronage on behalf of an archdevil in exchange for a sworn soul. ADV on related"
+      },
+      {
+        "name": "Poison",
+        "description": "DC 12 CON or fitful sleep for 1d4 hours."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Djinni",
+    "description": "Azure-blue, jovial humanoids made of air and roiling wind. Infused with potent magic.",
+    "level": 10,
+    "alignment": "Neutral",
+    "ac": 14,
+    "armor_type": "",
+    "hp": 48,
+    "movement": "double near (fly)",
+    "attack": "3 scimitar +7 (1d12) or 1 whirlwind",
+    "stats": {
+      "str": 4,
+      "dex": 4,
+      "con": 3,
+      "int": 4,
+      "wis": 3,
+      "cha": 3
+    },
+    "actions": [
+      {
+        "name": "Impervious",
+        "description": "Only damaged by magical sources."
+      },
+      {
+        "name": "Whirlwind",
+        "description": "Transform into a lashing tornado. All enemies within near DC 18 DEX or thrown 2d100 feet in a random direction."
+      },
+      {
+        "name": "Wish",
+        "description": "Cast wish once a week for a mortal, no spellcasting check."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Doppelganger",
+    "description": "Gray, featureless humanoids that delight in sowing chaos.",
+    "level": 4,
+    "alignment": "Chaotic",
+    "ac": 12,
+    "armor_type": "",
+    "hp": 20,
+    "movement": "near",
+    "attack": "1 dagger (close/near) +2 (1d4)",
+    "stats": {
+      "str": 1,
+      "dex": 2,
+      "con": 2,
+      "int": 1,
+      "wis": 0,
+      "cha": 4
+    },
+    "actions": [
+      {
+        "name": "Change Shape",
+        "description": "In place of attacks, transform into any similarly-sized humanoid."
+      },
+      {
+        "name": "Telepathy",
+        "description": "Can secretly hear the surface thoughts of all humanoids within near."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Dragon, Desert",
+    "description": "The smell of ozone precedes this desert-dwelling dragon. Its dazzling scales of brass and lapis lazuli shimmer in the baking heat.",
+    "level": 13,
+    "alignment": "Lawful",
+    "ac": 17,
+    "armor_type": "",
+    "hp": 61,
+    "movement": "double near (fly)",
+    "attack": "3 rend +9 (2d10) or 1 lightning breath",
+    "stats": {
+      "str": 5,
+      "dex": 3,
+      "con": 3,
+      "int": 4,
+      "wis": 5,
+      "cha": 5
+    },
+    "actions": [
+      {
+        "name": "Stormblood",
+        "description": "Electricity immune."
+      },
+      {
+        "name": "Lightning Breath",
+        "description": "A straight line (5' wide) extending double near from dragon. DC 15 DEX or 4d8 damage (DISADV on check if wearing metal armor)."
+      },
+      {
+        "name": "Mirage",
+        "description": "1/day, in place of attacks."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Dragon, Fire",
+    "description": "Blood-red scales cover the hide of this mighty, volcanic wyrm. Leaping flames glow at the back of its throat.",
+    "level": 17,
+    "alignment": "Chaotic",
+    "ac": 18,
+    "armor_type": "",
+    "hp": 80,
+    "movement": "double near (fly)",
+    "attack": "4 rend +11 (2d12) or 1 fire breath",
+    "stats": {
+      "str": 6,
+      "dex": 5,
+      "con": 4,
+      "int": 4,
+      "wis": 4,
+      "cha": 5
+    },
+    "actions": [
+      {
+        "name": "Fireblood",
+        "description": "Fire immune."
+      },
+      {
+        "name": "Fire Breath",
+        "description": "Fills a double near-sized cube extending from dragon. DC 15 DEX or 6d10 damage."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Dragon, Forest",
+    "description": "The smell of wet loam follows this dragon. Its jade scales bristle with barbed thorns.",
+    "level": 12,
+    "alignment": "Neutral",
+    "ac": 16,
+    "armor_type": "",
+    "hp": 58,
+    "movement": "double near (fly)",
+    "attack": "3 rend +8 (2d8) or 1 poison breath",
+    "stats": {
+      "str": 4,
+      "dex": 3,
+      "con": 4,
+      "int": 3,
+      "wis": 3,
+      "cha": 4
+    },
+    "actions": [
+      {
+        "name": "Animate Plants",
+        "description": "1/day, in place of attacks. Vines grab at all enemies within double near of dragon. DC 15 DEX or unable to move 1d4 rounds."
+      },
+      {
+        "name": "Poison Breath",
+        "description": "Fills a near-sized cube extending from dragon. DC 15 CON or 3d8 damage."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Dragon, Frost",
+    "description": "Prismatic ice lines the horns, spines, and wings of this pearly dragon. Clouds of steam hiss from its ice-rimed jaws.",
+    "level": 14,
+    "alignment": "Neutral",
+    "ac": 17,
+    "armor_type": "",
+    "hp": 68,
+    "movement": "double near (fly)",
+    "attack": "4 rend +9 (2d10) or 1 ice breath",
+    "stats": {
+      "str": 4,
+      "dex": 3,
+      "con": 5,
+      "int": 3,
+      "wis": 4,
+      "cha": 3
+    },
+    "actions": [
+      {
+        "name": "Frostblood",
+        "description": "Cold immune."
+      },
+      {
+        "name": "Ice Breath",
+        "description": "Fills a double near-sized cube extending from dragon. DC 15 DEX or 4d8 damage and frozen for 1 round."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Dragon, Sea",
+    "description": "A warm sea breeze blows around this amphibious, gold-scaled wyrm. A beard of tendrils covers its snout, and a blue mane billows along its neck.",
+    "level": 16,
+    "alignment": "Lawful",
+    "ac": 17,
+    "armor_type": "",
+    "hp": 76,
+    "movement": "double near (fly",
+    "attack": "4 rend +10 (2d10) or 1 steam breath or 1 water spout",
+    "stats": {
+      "str": 5,
+      "dex": 6,
+      "con": 4,
+      "int": 4,
+      "wis": 5,
+      "cha": 5
+    },
+    "actions": [
+      {
+        "name": "Steam Breath",
+        "description": "Fills a double near-sized cube extending from dragon. DC 15 DEX or 4d12 damage."
+      },
+      {
+        "name": "Water Spout",
+        "description": "Fills a near-sized cube within far. DC 15 STR or creatures inside flung 2d100 feet in a random direction."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Dragon, Swamp",
+    "description": "This black, wingless beast slithers through dank swamps.",
+    "level": 12,
+    "alignment": "Chaotic",
+    "ac": 16,
+    "armor_type": "",
+    "hp": 58,
+    "movement": "double near (burrow",
+    "attack": "3 rend +8 (2d10) or 1 smog breath",
+    "stats": {
+      "str": 5,
+      "dex": 3,
+      "con": 4,
+      "int": 4,
+      "wis": 3,
+      "cha": 3
+    },
+    "actions": [
+      {
+        "name": "Smog Breath",
+        "description": "Fills a near-sized cube extending from dragon. DC 15 CON or 2d10 damage and blinded for 1 round."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Drow",
+    "description": "A graceful, shadowy elf that pounces like a spider.",
+    "level": 2,
+    "alignment": "Chaotic",
+    "ac": 16,
+    "armor_type": "mithral chainmail",
+    "hp": 9,
+    "movement": "near",
+    "attack": "1 poison dart (near) +3 (1d4 + poison) or 1 longsword +1 (1d8)",
+    "stats": {
+      "str": 0,
+      "dex": 3,
+      "con": 0,
+      "int": 1,
+      "wis": 1,
+      "cha": 1
+    },
+    "actions": [
+      {
+        "name": "Poison",
+        "description": "DC 15 CON or sleep."
+      },
+      {
+        "name": "Sunblind",
+        "description": "Blinded in bright light."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Drow, Drider",
+    "description": "A monstrosity with the body of a giant spider and torso of a drow.",
+    "level": 6,
+    "alignment": "Chaotic",
+    "ac": 16,
+    "armor_type": "mithral chainmail",
+    "hp": 29,
+    "movement": "near (climb)",
+    "attack": "3 longsword +3 (1d8) or 2 longbow (far) +3 (1d8 + poison)",
+    "stats": {
+      "str": 3,
+      "dex": 3,
+      "con": 2,
+      "int": 2,
+      "wis": 2,
+      "cha": 0
+    },
+    "actions": [
+      {
+        "name": "Poison",
+        "description": "DC 15 CON or paralyzed 1d4 rounds."
+      },
+      {
+        "name": "Sunblind",
+        "description": "Blinded in bright light."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Drow, Priestess",
+    "description": "A statuesque female drow with a crown of metal spider webs and an imperious gaze.",
+    "level": 6,
+    "alignment": "Chaotic",
+    "ac": 16,
+    "armor_type": "mithral chainmail",
+    "hp": 28,
+    "movement": "near",
+    "attack": "3 snake whip (near) +4 (1d8 + poison) or 1 spell +4",
+    "stats": {
+      "str": 2,
+      "dex": 3,
+      "con": 1,
+      "int": 3,
+      "wis": 4,
+      "cha": 3
+    },
+    "actions": [
+      {
+        "name": "Poison",
+        "description": "DC 15 CON or paralyzed 1d4 rounds."
+      },
+      {
+        "name": "Sunblind",
+        "description": "Blinded in bright light."
+      },
+      {
+        "name": "Snuff (WIS Spell)",
+        "description": "DC 12. Extinguish all light sources (even magical) within near."
+      },
+      {
+        "name": "Summon Spiders (WIS Spell)",
+        "description": " DC 14. Summon 2d4 loyal giant spiders that appear within near. They stay for 5 rounds."
+      },
+      {
+        "name": "Web (WIS Spell)",
+        "description": "DC 13. A near-sized cube of webs within far immobilizes all inside it for 5 rounds. DC 15 STR on turn to break free."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Druid",
+    "description": "A wizard of the wilds holding a knotted staff and wearing a mossy cloak of deep viridian.",
+    "level": 7,
+    "alignment": "Neutral",
+    "ac": 11,
+    "armor_type": "",
+    "hp": 31,
+    "movement": "near",
+    "attack": "1 staff +0 (1d4) or 2 spell +5",
+    "stats": {
+      "str": 0,
+      "dex": 1,
+      "con": 0,
+      "int": 4,
+      "wis": 3,
+      "cha": 0
+    },
+    "actions": [
+      {
+        "name": "Barkskin (INT Spell)",
+        "description": "Self. DC 13. AC becomes 15 for 5 rounds."
+      },
+      {
+        "name": "Conjure Flames (INT Spell)",
+        "description": "DC 12. One target in far takes 2d6 damage."
+      },
+      {
+        "name": "Imbue (INT Spell)",
+        "description": "Self. DC 13. Staff becomes a +3 magic weapon for 10 rounds."
+      },
+      {
+        "name": "Summon Bear (INT Spell)",
+        "description": "DC 14. Summon a loyal brown bear that appears within near. It stays for 5 rounds."
+      },
+      {
+        "name": "Thunderclap (INT Spell)",
+        "description": "DC 13. Fills a near-sized cube extending from druid. Creatures within are thrown 2d20 feet in a random direction."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Dryad",
+    "description": "A coy, emerald-skinned fey covered in leaves. It bonds with and protects a tree.",
+    "level": 4,
+    "alignment": "Neutral",
+    "ac": 13,
+    "armor_type": "",
+    "hp": 19,
+    "movement": "near",
+    "attack": "1 staff -1 (1d4) or 1 charm",
+    "stats": {
+      "str": -1,
+      "dex": 2,
+      "con": 1,
+      "int": 1,
+      "wis": 3,
+      "cha": 4
+    },
+    "actions": [
+      {
+        "name": "Charm",
+        "description": "Near, one creature, DC 14 CHA or friendship for 1d8 days."
+      },
+      {
+        "name": "Meld",
+        "description": "Step inside bonded tree."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Duergar",
+    "description": "Gray-skinned, greedy dwarves with bald pates and white beards. They dwell in somber castles deep within the earth filled with stolen treasures and enslaved prisoners.",
+    "level": 2,
+    "alignment": "Chaotic",
+    "ac": 15,
+    "armor_type": "",
+    "hp": 12,
+    "movement": "near",
+    "attack": "1 war pick +2 (1d6)",
+    "stats": {
+      "str": 2,
+      "dex": 0,
+      "con": 3,
+      "int": 0,
+      "wis": -1,
+      "cha": -1
+    },
+    "actions": [
+      {
+        "name": "Enlarge",
+        "description": "1/day, +1d6 damage on melee attacks and ADV on STR checks for 3 rounds."
+      },
+      {
+        "name": "Invisibility",
+        "description": "1/day, turn invisible for 3 rounds. Ends if duergar attacks."
+      },
+      {
+        "name": "Sunblind",
+        "description": "Blinded in bright light."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Dung Beetle, Giant",
+    "description": "A trundling, barrel-sized beetle with a T-shaped horn.",
+    "level": 2,
+    "alignment": "Neutral",
+    "ac": 13,
+    "armor_type": "",
+    "hp": 10,
+    "movement": "near",
+    "attack": "1 horn +1 (1d4 + knock)",
+    "stats": {
+      "str": 1,
+      "dex": -1,
+      "con": 1,
+      "int": -3,
+      "wis": -1,
+      "cha": -3
+    },
+    "actions": [
+      {
+        "name": "Knock",
+        "description": "DC 9 STR or pushed a close distance and fall down."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Efreeti",
+    "description": "Blood-red, towering humanoids formed of lava and ash. Short, black horns and snarling grins.",
+    "level": 9,
+    "alignment": "Chaotic",
+    "ac": 15,
+    "armor_type": "",
+    "hp": 43,
+    "movement": "near (fly)",
+    "attack": "3 scimitar +8 (2d10) or 2 fire bolt (far) +5 (2d6)",
+    "stats": {
+      "str": 5,
+      "dex": 2,
+      "con": 3,
+      "int": 3,
+      "wis": 2,
+      "cha": 3
+    },
+    "actions": [
+      {
+        "name": "Impervious",
+        "description": "Only damaged by magical sources. Fire immune."
+      },
+      {
+        "name": "Wall of Flame",
+        "description": "1/day, 20' high curtain of fire, double near length. Touching it deals 4d8 damage. Lasts 2d4 rounds."
+      },
+      {
+        "name": "Wish",
+        "description": "Cast wish once a week for a mortal, no spellcasting check."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Elephant",
+    "description": "Mighty mammals with tough hide, flappy ears, and a trunk.",
+    "level": 7,
+    "alignment": "Neutral",
+    "ac": 14,
+    "armor_type": "",
+    "hp": 34,
+    "movement": "near",
+    "attack": "2 tusks +6 (1d8)",
+    "stats": {
+      "str": 5,
+      "dex": 0,
+      "con": 3,
+      "int": -2,
+      "wis": 1,
+      "cha": 0
+    },
+    "actions": [
+      {
+        "name": "Charge",
+        "description": "Move up to double near in straight line and make 1 tusks attack. If hit, x3 damage."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Elf",
+    "description": "Ethereal, ageless fey-people infused with ancient magic.",
+    "level": 2,
+    "alignment": "Lawful",
+    "ac": 13,
+    "armor_type": "",
+    "hp": 9,
+    "movement": "near",
+    "attack": "1 longbow (far) +3 (1d8) or 1 longsword +1 (1d8)",
+    "stats": {
+      "str": 0,
+      "dex": 3,
+      "con": 0,
+      "int": 1,
+      "wis": 1,
+      "cha": 1
+    },
+    "actions": [
+      {
+        "name": "Feyblood",
+        "description": "ADV on DEX checks while in the natural wilds."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Ettercap",
+    "description": "Bipedal, eight-eyed spiderfolk with spindly legs and purple fur.",
+    "level": 3,
+    "alignment": "Chaotic",
+    "ac": 12,
+    "armor_type": "",
+    "hp": 14,
+    "movement": "near (climb)",
+    "attack": "2 bite +2 (1d6) or 1 poison web (near) +2",
+    "stats": {
+      "str": 0,
+      "dex": 2,
+      "con": 1,
+      "int": 0,
+      "wis": 0,
+      "cha": -1
+    },
+    "actions": [
+      {
+        "name": "Poison Web",
+        "description": "One target stuck in place and 1d4 damage/round. DC 12 DEX on turn to escape."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Fairy",
+    "description": "Miniature fey folk with fluttering moth or butterfly wings.",
+    "level": 1,
+    "alignment": "Neutral",
+    "ac": 13,
+    "armor_type": "",
+    "hp": 4,
+    "movement": "near (fly)",
+    "attack": "1 needle +3 (1 + poison)",
+    "stats": {
+      "str": -2,
+      "dex": 3,
+      "con": 0,
+      "int": 1,
+      "wis": 0,
+      "cha": 1
+    },
+    "actions": [
+      {
+        "name": "Poison",
+        "description": "DC 12 CON or fall into deep sleep for 1d4 hours."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Frog, Giant",
+    "description": "Human-sized frogs with warty skin and long, sticky tongues.",
+    "level": 2,
+    "alignment": "Neutral",
+    "ac": 12,
+    "armor_type": "",
+    "hp": 10,
+    "movement": "near (swim)",
+    "attack": "1 tongue and 1 bite +2 (1d6)",
+    "stats": {
+      "str": 2,
+      "dex": 2,
+      "con": 1,
+      "int": -3,
+      "wis": 0,
+      "cha": -3
+    },
+    "actions": [
+      {
+        "name": "Tongue",
+        "description": "1 creature in near DC 12 DEX or pulled to close range."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Gargoyle",
+    "description": "Leering, winged fiends that look like stone statues. They can hold perfectly still for long stretches of time.",
+    "level": 4,
+    "alignment": "Chaotic",
+    "ac": 16,
+    "armor_type": "",
+    "hp": 20,
+    "movement": "near (fly)",
+    "attack": "2 claw +3 (1d6)",
+    "stats": {
+      "str": 3,
+      "dex": 1,
+      "con": 2,
+      "int": 0,
+      "wis": 1,
+      "cha": -1
+    },
+    "actions": [
+      {
+        "name": "Impervious",
+        "description": "Only damaged by magical sources."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Gelatinous Cube",
+    "description": "A translucent cube of slime that silently mows through tunnels.",
+    "level": 5,
+    "alignment": "Neutral",
+    "ac": 11,
+    "armor_type": "",
+    "hp": 24,
+    "movement": "near",
+    "attack": "1 touch +4 (1d8 + toxin + engulf)",
+    "stats": {
+      "str": 3,
+      "dex": 1,
+      "con": 2,
+      "int": -4,
+      "wis": 1,
+      "cha": -4
+    },
+    "actions": [
+      {
+        "name": "Engulf",
+        "description": "DC 12 STR or trapped inside cube. Touch attack auto-hits engulfed targets each round. DC 12 STR on turn to escape. Fail checks if paralyzed."
+      },
+      {
+        "name": "Rubbery",
+        "description": "Half damage from stabbing weapons."
+      },
+      {
+        "name": "Toxin",
+        "description": "DC 15 CON or paralyzed 1d4 rounds."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Ghast",
+    "description": "Greater ghouls who retain the intelligence they had in life.",
+    "level": 4,
+    "alignment": "Chaotic",
+    "ac": 11,
+    "armor_type": "",
+    "hp": 20,
+    "movement": "near",
+    "attack": "2 claw +4 (1d8 + paralyze)",
+    "stats": {
+      "str": 3,
+      "dex": 1,
+      "con": 2,
+      "int": 0,
+      "wis": 0,
+      "cha": 2
+    },
+    "actions": [
+      {
+        "name": "Undead",
+        "description": "Immune to morale checks."
+      },
+      {
+        "name": "Carrion Stench",
+        "description": "Living creatures DC 12 CON the first time within near or DISADV on attacks and spellcasting for 5 rounds."
+      },
+      {
+        "name": "Paralyze",
+        "description": "DC 12 CON or paralyzed 1d4 rounds."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Ghost",
+    "description": "A wavering spirit with a face contorted in rage or sadness.",
+    "level": 6,
+    "alignment": "Chaotic",
+    "ac": 13,
+    "armor_type": "",
+    "hp": 27,
+    "movement": "near (fly)",
+    "attack": "2 death touch +5 (1d8 + life drain) or 1 possess",
+    "stats": {
+      "str": -2,
+      "dex": 3,
+      "con": 0,
+      "int": 0,
+      "wis": 0,
+      "cha": 4
+    },
+    "actions": [
+      {
+        "name": "Greater Undead",
+        "description": "Immune to morale checks. Only damaged by silver or magical sources."
+      },
+      {
+        "name": "Incorporeal",
+        "description": "In place of attacks, become corporeal or incorporeal."
+      },
+      {
+        "name": "Life Drain",
+        "description": "1d4 CON damage."
+      },
+      {
+        "name": "Possess",
+        "description": "Must be corporeal. One target, close range. Contested CHA check. If ghost wins, it inhabits target's body and controls it for 2d4 rounds."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Ghoul",
+    "description": "Gray-skinned, slavering undead with whipping tongues and flat, reptilian faces.",
+    "level": 2,
+    "alignment": "Chaotic",
+    "ac": 11,
+    "armor_type": "",
+    "hp": 11,
+    "movement": "near",
+    "attack": "1 claw +2 (1d6 + paralyze)",
+    "stats": {
+      "str": 2,
+      "dex": 1,
+      "con": 2,
+      "int": -3,
+      "wis": -1,
+      "cha": 0
+    },
+    "actions": [
+      {
+        "name": "Undead",
+        "description": "Immune to morale checks."
+      },
+      {
+        "name": "Paralyze",
+        "description": "DC 12 CON or paralyzed 1d4 rounds."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Giant, Cloud",
+    "description": "Pale, angular giants with blue-gray hair, light eyes, and silk robes. They do not allow outsiders into their enclaves.",
+    "level": 10,
+    "alignment": "Neutral",
+    "ac": 15,
+    "armor_type": "leather",
+    "hp": 48,
+    "movement": "double near",
+    "attack": "3 morningstar +9 (2d10)",
+    "stats": {
+      "str": 5,
+      "dex": 4,
+      "con": 3,
+      "int": 3,
+      "wis": 3,
+      "cha": 3
+    },
+    "actions": [
+      {
+        "name": "Alert",
+        "description": "ADV on checks to detect sneaking or hiding creatures."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Giant, Fire",
+    "description": "Bulky, muscled giants with coppery skin and red hair. Heavily armored in iron plate mail studded with bronze rivets.",
+    "level": 9,
+    "alignment": "Chaotic",
+    "ac": 15,
+    "armor_type": "plate mail",
+    "hp": 44,
+    "movement": "double near",
+    "attack": "3 greatsword +9 (2d12)",
+    "stats": {
+      "str": 6,
+      "dex": 0,
+      "con": 4,
+      "int": 1,
+      "wis": 2,
+      "cha": 1
+    },
+    "actions": [
+      {
+        "name": "Fireblood",
+        "description": "Fire immune."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Giant, Frost",
+    "description": "Blue-skinned warriors with broad shoulders and braided hair. They sound war horns during their frequent raids to pillage nearby settlements.",
+    "level": 9,
+    "alignment": "Chaotic",
+    "ac": 14,
+    "armor_type": "chainmail",
+    "hp": 44,
+    "movement": "double near",
+    "attack": "3 greataxe +8 (2d10)",
+    "stats": {
+      "str": 5,
+      "dex": 1,
+      "con": 4,
+      "int": 2,
+      "wis": 3,
+      "cha": 2
+    },
+    "actions": [
+      {
+        "name": "Frostblood",
+        "description": "Cold immune."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Giant, Goat",
+    "description": "Highland-dwelling, barbaric giants with goatlike legs, horns, and horizontal pupils.",
+    "level": 8,
+    "alignment": "Chaotic",
+    "ac": 12,
+    "armor_type": "leather",
+    "hp": 39,
+    "movement": "double near (climb)",
+    "attack": "2 greatclub +7 (2d8) or 1 boulder (far) +7 (2d10)",
+    "stats": {
+      "str": 4,
+      "dex": 1,
+      "con": 3,
+      "int": -2,
+      "wis": 0,
+      "cha": -2
+    },
+    "actions": [],
+    "source": "Core"
+  },
+  {
+    "name": "Giant, Hill",
+    "description": "Fleshy hulks with leathery skin and broad, sloping foreheads. Cruel, boorish, and dim-witted.",
+    "level": 7,
+    "alignment": "Chaotic",
+    "ac": 11,
+    "armor_type": "leather",
+    "hp": 34,
+    "movement": "double near",
+    "attack": "2 greatclub +6 (2d8) or 1 boulder (far) +6 (2d10)",
+    "stats": {
+      "str": 4,
+      "dex": 0,
+      "con": 3,
+      "int": -2,
+      "wis": -2,
+      "cha": -2
+    },
+    "actions": [],
+    "source": "Core"
+  },
+  {
+    "name": "Giant, Stone",
+    "description": "Lean, sinewy giants with stony skin and deep-set eyes. They are quiet and poised, often sitting motionless for days at a time.",
+    "level": 8,
+    "alignment": "Neutral",
+    "ac": 17,
+    "armor_type": "",
+    "hp": 40,
+    "movement": "double near",
+    "attack": "2 greatclub +7 (2d8) or 1 boulder (far) +7 (2d10)",
+    "stats": {
+      "str": 4,
+      "dex": 2,
+      "con": 4,
+      "int": 1,
+      "wis": 1,
+      "cha": -1
+    },
+    "actions": [
+      {
+        "name": "Stone Hide",
+        "description": "Half damage from stabbing and cutting weapons."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Giant, Storm",
+    "description": "Regal titans with sea-green skin, flowing white hair, and thundering voices. They breathe water as easily as air.",
+    "level": 12,
+    "alignment": "Lawful",
+    "ac": 15,
+    "armor_type": "mithral chainmail",
+    "hp": 58,
+    "movement": "double near (swim)",
+    "attack": "3 greatsword +10 (2d12) or 1 lightning bolt",
+    "stats": {
+      "str": 6,
+      "dex": 2,
+      "con": 4,
+      "int": 3,
+      "wis": 4,
+      "cha": 4
+    },
+    "actions": [
+      {
+        "name": "Stormblood",
+        "description": "Electricity immune."
+      },
+      {
+        "name": "Lightning Bolt",
+        "description": "3/day, 5' wide line extending far from giant. All creatures in line DC 15 DEX or 5d10 damage. DISADV on check if in water."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Gibbering Mouther",
+    "description": "Crawling masses of slime with dozens of screeching, lipless mouths and wet eyeballs.",
+    "level": 4,
+    "alignment": "Neutral",
+    "ac": 8,
+    "armor_type": "",
+    "hp": 21,
+    "movement": "near (climb",
+    "attack": "2 bite +3 (1d8 + latch)",
+    "stats": {
+      "str": 2,
+      "dex": -2,
+      "con": 3,
+      "int": -3,
+      "wis": 0,
+      "cha": -3
+    },
+    "actions": [
+      {
+        "name": "Gibbering",
+        "description": "Creatures within near DC 12 WIS on turn or take a random action (d8): 1-3. do nothing, 4-5. move in random direction, 6-7. attack nearest creature, 8. flee."
+      },
+      {
+        "name": "Latch",
+        "description": "Attach to bitten target; bites auto-hit next round. DC 12 STR on turn to tear off."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Gladiator",
+    "description": "Veteran warriors seasoned in arena fights to the death.",
+    "level": 3,
+    "alignment": "Neutral",
+    "ac": 16,
+    "armor_type": "",
+    "hp": 15,
+    "movement": "near",
+    "attack": "2 longsword +3 (1d8) or 1 spear (close/near) +3 (1d6)",
+    "stats": {
+      "str": 2,
+      "dex": 1,
+      "con": 2,
+      "int": 0,
+      "wis": 0,
+      "cha": 1
+    },
+    "actions": [],
+    "source": "Core"
+  },
+  {
+    "name": "Gnoll",
+    "description": "Barbaric, opportunistic hyena-folk who range in large packs.",
+    "level": 2,
+    "alignment": "Chaotic",
+    "ac": 12,
+    "armor_type": "leather",
+    "hp": 10,
+    "movement": "near",
+    "attack": "1 spear (close/near) +1 (1d6) or 1 longbow (far) +1 (1d8)",
+    "stats": {
+      "str": 1,
+      "dex": 1,
+      "con": 1,
+      "int": -1,
+      "wis": 0,
+      "cha": -1
+    },
+    "actions": [
+      {
+        "name": "Rage",
+        "description": "1/day, immune to morale checks, +1d4 damage (3 rounds)."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Gnome, Deep",
+    "description": "Gray-skinned, white-haired fey the size of halflings. They hunt for gems and rare cave flora.",
+    "level": 3,
+    "alignment": "Lawful",
+    "ac": 14,
+    "armor_type": "",
+    "hp": 14,
+    "movement": "near",
+    "attack": "1 pick +3 (1d6) or 1 dart (near) +2 (1d4)",
+    "stats": {
+      "str": 2,
+      "dex": 1,
+      "con": 1,
+      "int": 1,
+      "wis": 1,
+      "cha": 1
+    },
+    "actions": [
+      {
+        "name": "Stone Meld",
+        "description": "2/day, underground only. Turn invisible for 3 rounds."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Goblin",
+    "description": "A short, hairless humanoid with green skin and pointy ears.",
+    "level": 1,
+    "alignment": "Chaotic",
+    "ac": 11,
+    "armor_type": "",
+    "hp": 5,
+    "movement": "near",
+    "attack": "1 club +0 (1d4) or 1 shortbow (far) +1 (1d4)",
+    "stats": {
+      "str": 0,
+      "dex": 1,
+      "con": 1,
+      "int": -1,
+      "wis": -1,
+      "cha": -2
+    },
+    "actions": [
+      {
+        "name": "Keen Senses",
+        "description": "Can't be surprised."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Goblin, Boss",
+    "description": "A scarred goblin with knotted muscles and a crown of iron.",
+    "level": 4,
+    "alignment": "Chaotic",
+    "ac": 14,
+    "armor_type": "chainmail",
+    "hp": 20,
+    "movement": "near",
+    "attack": "1 spear (close/near) +3 (1d6)",
+    "stats": {
+      "str": 2,
+      "dex": 1,
+      "con": 2,
+      "int": -1,
+      "wis": 0,
+      "cha": 1
+    },
+    "actions": [
+      {
+        "name": "Keen Senses",
+        "description": "Can't be surprised."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Goblin, Shaman",
+    "description": "A swaying, chanting goblin wearing necklaces of teeth and a robe of musty rat pelts.",
+    "level": 4,
+    "alignment": "Chaotic",
+    "ac": 12,
+    "armor_type": "leather",
+    "hp": 19,
+    "movement": "near",
+    "attack": "1 staff +0 (1d4) or 1 spell +3",
+    "stats": {
+      "str": 0,
+      "dex": 1,
+      "con": 1,
+      "int": 0,
+      "wis": 2,
+      "cha": 1
+    },
+    "actions": [
+      {
+        "name": "Keen Senses",
+        "description": "Can't be surprised."
+      },
+      {
+        "name": "Bug Brain (WIS Spell)",
+        "description": "DC 13. Near range, one target. Target's INT drops to 1 for 1d4 rounds."
+      },
+      {
+        "name": "Skitter (WIS Spell)",
+        "description": "DC 12. Self. Climb like a spider for 5 rounds."
+      },
+      {
+        "name": "Stink Bomb (WIS Spell)",
+        "description": "DC 12. One target within far 2d4 damage and DC 12 CON or DISADV on next check/attack."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Golem, Clay",
+    "description": "A towering, faceless humanoid shaped from glistening clay.",
+    "level": 8,
+    "alignment": "Neutral",
+    "ac": 14,
+    "armor_type": "",
+    "hp": 40,
+    "movement": "near",
+    "attack": "3 slam +6 (1d8)",
+    "stats": {
+      "str": 4,
+      "dex": 0,
+      "con": 4,
+      "int": -2,
+      "wis": 0,
+      "cha": -2
+    },
+    "actions": [
+      {
+        "name": "Golem",
+        "description": "Immune to damage from fire, cold, electricity, or non-magical sources. Healed by acid."
+      },
+      {
+        "name": "Curse",
+        "description": "Slam damage can only be healed by level 5+ priest."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Golem, Flesh",
+    "description": "A ghastly monstrosity made of sewn-together corpses.",
+    "level": 7,
+    "alignment": "Neutral",
+    "ac": 9,
+    "armor_type": "",
+    "hp": 35,
+    "movement": "near",
+    "attack": "3 slam +6 (1d8)",
+    "stats": {
+      "str": 4,
+      "dex": -1,
+      "con": 4,
+      "int": -1,
+      "wis": 1,
+      "cha": -3
+    },
+    "actions": [
+      {
+        "name": "Golem",
+        "description": "Immune to damage from fire, cold, or non-magical sources. Healed by electricity."
+      },
+      {
+        "name": "Berserk",
+        "description": "When at or below 20 HP, +1 slam attack and slams deal double damage."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Golem, Iron",
+    "description": "A bulky iron suit that squeals and sparks with each step.",
+    "level": 10,
+    "alignment": "Neutral",
+    "ac": 19,
+    "armor_type": "",
+    "hp": 49,
+    "movement": "near",
+    "attack": "3 slam +8 (2d8) or 1 poison breath",
+    "stats": {
+      "str": 5,
+      "dex": -1,
+      "con": 4,
+      "int": -2,
+      "wis": 0,
+      "cha": -2
+    },
+    "actions": [
+      {
+        "name": "Golem",
+        "description": "Immune to damage from cold or non-magical sources. Healed by fire."
+      },
+      {
+        "name": "Poison Breath",
+        "description": "All within near, DC 15 CON or 8d6 damage."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Golem, Stone",
+    "description": "A wide-limbed, lumbering statue that shakes the ground.",
+    "level": 8,
+    "alignment": "Neutral",
+    "ac": 18,
+    "armor_type": "",
+    "hp": 40,
+    "movement": "near",
+    "attack": "3 slam +6 (1d10) and 1 slow",
+    "stats": {
+      "str": 4,
+      "dex": -1,
+      "con": 4,
+      "int": -2,
+      "wis": 0,
+      "cha": -2
+    },
+    "actions": [
+      {
+        "name": "Golem",
+        "description": "Immune to damage from fire, cold, electricity, or non-magical sources."
+      },
+      {
+        "name": "Slow",
+        "description": "Far range, one target. DC 15 CON or speed halved 1d4 rds."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Gorgon",
+    "description": "A snorting bull made entirely of iron plating. A cloud of green fog billows from its nostrils.",
+    "level": 7,
+    "alignment": "Chaotic",
+    "ac": 18,
+    "armor_type": "",
+    "hp": 33,
+    "movement": "double near",
+    "attack": "2 gore +6 (2d8) or 1 charge or 1 petrifying breath",
+    "stats": {
+      "str": 4,
+      "dex": 0,
+      "con": 2,
+      "int": -3,
+      "wis": 1,
+      "cha": -3
+    },
+    "actions": [
+      {
+        "name": "Charge",
+        "description": "Move up to double near in straight line and make 1 gore attack. If hit, x3 damage."
+      },
+      {
+        "name": "Petrifying Breath",
+        "description": "Fills a near-sized cube extending from gorgon. DC 15 CON or petrified (gorgons immune)."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Gorilla",
+    "description": "Mighty, jungle-dwelling apes.",
+    "level": 4,
+    "alignment": "Neutral",
+    "ac": 12,
+    "armor_type": "",
+    "hp": 20,
+    "movement": "near (climb)",
+    "attack": "2 rend +5 (2d6)",
+    "stats": {
+      "str": 4,
+      "dex": 2,
+      "con": 2,
+      "int": -1,
+      "wis": 1,
+      "cha": -1
+    },
+    "actions": [],
+    "source": "Core"
+  },
+  {
+    "name": "Gray Ooze",
+    "description": "Slick puddles the color of stone.",
+    "level": 2,
+    "alignment": "Neutral",
+    "ac": 11,
+    "armor_type": "",
+    "hp": 9,
+    "movement": "near (climb)",
+    "attack": "1 tentacle +2 (1d6)",
+    "stats": {
+      "str": 1,
+      "dex": 1,
+      "con": 0,
+      "int": -4,
+      "wis": -3,
+      "cha": -4
+    },
+    "actions": [
+      {
+        "name": "Impervious",
+        "description": "Immune to damage from acid, cold, or fire."
+      },
+      {
+        "name": "Corrosive",
+        "description": "Nonmagical metal that touches the ooze dissolves on a d6 roll of 1-3."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Greater Elemental, Air",
+    "description": "A howling tornado of wind.",
+    "level": 9,
+    "alignment": "Neutral",
+    "ac": 16,
+    "armor_type": "",
+    "hp": 42,
+    "movement": "double near (fly)",
+    "attack": "3 slam +7 (3d6) or 1 whirlwind",
+    "stats": {
+      "str": 3,
+      "dex": 5,
+      "con": 2,
+      "int": -2,
+      "wis": 1,
+      "cha": -2
+    },
+    "actions": [
+      {
+        "name": "Impervious",
+        "description": "Only damaged by magical sources."
+      },
+      {
+        "name": "Whirlwind",
+        "description": "All within close DC 15 DEX or flung 2d20 feet in random direction."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Greater Elemental, Earth",
+    "description": "A thundering pillar of earth.",
+    "level": 9,
+    "alignment": "Neutral",
+    "ac": 17,
+    "armor_type": "",
+    "hp": 44,
+    "movement": "near (burrow)",
+    "attack": "3 slam +7 (3d8) or 1 avalanche",
+    "stats": {
+      "str": 5,
+      "dex": 0,
+      "con": 4,
+      "int": -2,
+      "wis": 1,
+      "cha": -2
+    },
+    "actions": [
+      {
+        "name": "Impervious",
+        "description": "Only damaged by magical sources."
+      },
+      {
+        "name": "Avalanche",
+        "description": "All within close DC 15 STR or entombed for 1d4 rounds under mounds of earth."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Greater Elemental, Fire",
+    "description": "A roaring column of flames.",
+    "level": 9,
+    "alignment": "Neutral",
+    "ac": 15,
+    "armor_type": "",
+    "hp": 43,
+    "movement": "near (fly)",
+    "attack": "3 slam +6 (3d10) or 1 inferno",
+    "stats": {
+      "str": 4,
+      "dex": 3,
+      "con": 3,
+      "int": -2,
+      "wis": 1,
+      "cha": -2
+    },
+    "actions": [
+      {
+        "name": "Impervious",
+        "description": "Only damaged by magical sources. Fire immune."
+      },
+      {
+        "name": "Inferno",
+        "description": "All within near DC 15 DEX or 3d8 damage."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Greater Elemental, Water",
+    "description": "A crashing vortex of water.",
+    "level": 9,
+    "alignment": "Neutral",
+    "ac": 15,
+    "armor_type": "",
+    "hp": 42,
+    "movement": "double near (swim)",
+    "attack": "3 slam +6 (3d6) or 1 whirlpool",
+    "stats": {
+      "str": 4,
+      "dex": 2,
+      "con": 2,
+      "int": -2,
+      "wis": 1,
+      "cha": -2
+    },
+    "actions": [
+      {
+        "name": "Impervious",
+        "description": "Only damaged by magical sources."
+      },
+      {
+        "name": "Whirlpool",
+        "description": "All within close DC 15 STR or immobilized inside water elemental (treat as underwater). DC 15 STR on turn to escape."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Grick",
+    "description": "A huge worm with four suckered tentacles and a snapping beak.",
+    "level": 4,
+    "alignment": "Neutral",
+    "ac": 14,
+    "armor_type": "",
+    "hp": 19,
+    "movement": "near (climb)",
+    "attack": "1 beak +3 (1d8) and 1 tentacle +3 (1d6 + grab)",
+    "stats": {
+      "str": 3,
+      "dex": 2,
+      "con": 1,
+      "int": -3,
+      "wis": 1,
+      "cha": -3
+    },
+    "actions": [
+      {
+        "name": "Camouflage",
+        "description": "Hard to see in cave terrain or rocks."
+      },
+      {
+        "name": "Grab",
+        "description": "Target is immobilized. DC 15 Strength check on turn to break free."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Griffon",
+    "description": "Winged hunters with the head of an eagle and body of a lion. Their favored food is horses.",
+    "level": 4,
+    "alignment": "Neutral",
+    "ac": 12,
+    "armor_type": "",
+    "hp": 19,
+    "movement": "double near (fly)",
+    "attack": "2 rend +4 (1d10)",
+    "stats": {
+      "str": 4,
+      "dex": 2,
+      "con": 1,
+      "int": -3,
+      "wis": 1,
+      "cha": -1
+    },
+    "actions": [],
+    "source": "Core"
+  },
+  {
+    "name": "Grimlow",
+    "description": "A tall, oval-shaped mammal. A giant, half-moon maw hides on its belly beneath its gray fur.",
+    "level": 9,
+    "alignment": "Neutral",
+    "ac": 12,
+    "armor_type": "",
+    "hp": 43,
+    "movement": "near",
+    "attack": "1 grab and 3 bite +6 (2d8)",
+    "stats": {
+      "str": 4,
+      "dex": 2,
+      "con": 3,
+      "int": -3,
+      "wis": 1,
+      "cha": -2
+    },
+    "actions": [
+      {
+        "name": "Grab",
+        "description": "One target in near DC 15 STR or wrapped in grimlow's tongue and pulled into its mouth. Bite attacks automatically hit the target. Can only grab 1 target at a time. DC 15 STR on turn to break free."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Guard",
+    "description": "A sentry equipped with sturdy weapons and armor.",
+    "level": 1,
+    "alignment": "Lawful",
+    "ac": 15,
+    "armor_type": "",
+    "hp": 4,
+    "movement": "near",
+    "attack": "1 spear (close/near) +1 (1d6) or 1 longsword +1 (1d8)",
+    "stats": {
+      "str": 1,
+      "dex": 0,
+      "con": 0,
+      "int": 0,
+      "wis": 1,
+      "cha": 0
+    },
+    "actions": [],
+    "source": "Core"
+  },
+  {
+    "name": "Hag, Night",
+    "description": "A purple-skinned, stooped woman with stringy, white hair and a mouth full of iron teeth.",
+    "level": 8,
+    "alignment": "Chaotic",
+    "ac": 14,
+    "armor_type": "",
+    "hp": 37,
+    "movement": "near",
+    "attack": "2 bite +6 (1d10) and 1 blind",
+    "stats": {
+      "str": 4,
+      "dex": 2,
+      "con": 1,
+      "int": 2,
+      "wis": 3,
+      "cha": 3
+    },
+    "actions": [
+      {
+        "name": "Blind",
+        "description": "One target within near DC 15 CHA or blinded for 1d4 days."
+      },
+      {
+        "name": "Shapechange",
+        "description": "Instantly change to look like any other humanoid."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Hag, Sea",
+    "description": "A green, sunken-faced woman. Seaweed hair and oozing flesh.",
+    "level": 6,
+    "alignment": "Chaotic",
+    "ac": 15,
+    "armor_type": "",
+    "hp": 28,
+    "movement": "near (swim)",
+    "attack": "2 claw +4 (1d8)",
+    "stats": {
+      "str": 2,
+      "dex": 3,
+      "con": 1,
+      "int": 1,
+      "wis": 2,
+      "cha": 2
+    },
+    "actions": [
+      {
+        "name": "Shapechange",
+        "description": "Instantly change to look like any other humanoid."
+      },
+      {
+        "name": "Terrify",
+        "description": "A creature who first sees her true form DC 15 CHA or DISADV on attacks 1d4 rounds."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Hag, Weald",
+    "description": "Eyes dark as moonless nights, skin made of rotting wood, hair of tangled roots and vines.",
+    "level": 6,
+    "alignment": "Chaotic",
+    "ac": 14,
+    "armor_type": "",
+    "hp": 28,
+    "movement": "near",
+    "attack": "2 claw +4 (1d8) or 1 drink pain",
+    "stats": {
+      "str": 3,
+      "dex": 2,
+      "con": 1,
+      "int": 1,
+      "wis": 2,
+      "cha": 3
+    },
+    "actions": [
+      {
+        "name": "Drink Pain",
+        "description": "Near range. DC 12 CHA to deal 2d4 damage to a creature; regain that many HP."
+      },
+      {
+        "name": "Shapechange",
+        "description": "Instantly change to look like any other humanoid."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Harpy",
+    "description": "Horrific, winged women with vulture-like lower bodies. They keen a hypnotic song.",
+    "level": 3,
+    "alignment": "Chaotic",
+    "ac": 13,
+    "armor_type": "",
+    "hp": 14,
+    "movement": "near (fly)",
+    "attack": "2 claw +3 (1d6) or 1 song",
+    "stats": {
+      "str": 1,
+      "dex": 3,
+      "con": 1,
+      "int": 0,
+      "wis": 0,
+      "cha": 1
+    },
+    "actions": [
+      {
+        "name": "Song",
+        "description": "Enemies who can hear within double near DC 12 CHA or dazed and drawn to harpy for 1d4 rounds. Immune for 1 day if passed check."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Hell Hound",
+    "description": "Black wolfhounds with red eyes and jaws dripping with flames.",
+    "level": 4,
+    "alignment": "Chaotic",
+    "ac": 13,
+    "armor_type": "",
+    "hp": 19,
+    "movement": "double near",
+    "attack": "2 bite +4 (1d8) or 1 fire breath",
+    "stats": {
+      "str": 2,
+      "dex": 1,
+      "con": 1,
+      "int": -2,
+      "wis": 1,
+      "cha": -3
+    },
+    "actions": [
+      {
+        "name": "Impervious",
+        "description": "Fire immune."
+      },
+      {
+        "name": "Fire Breath",
+        "description": "Fills a near-sized cube extending from hell hound. DC 15 DEX or 3d8 damage."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Hippogriff",
+    "description": "Fierce, winged creatures with the lower body of a horse and upper body of a giant eagle.",
+    "level": 3,
+    "alignment": "Neutral",
+    "ac": 13,
+    "armor_type": "",
+    "hp": 14,
+    "movement": "double near (fly)",
+    "attack": "2 rend +3 (1d8)",
+    "stats": {
+      "str": 3,
+      "dex": 3,
+      "con": 1,
+      "int": -3,
+      "wis": 1,
+      "cha": -2
+    },
+    "actions": [],
+    "source": "Core"
+  },
+  {
+    "name": "Hippopotamus",
+    "description": "Ornery river-beasts as large as cows with round, purple bodies and bulbous snouts.",
+    "level": 5,
+    "alignment": "Neutral",
+    "ac": 12,
+    "armor_type": "",
+    "hp": 24,
+    "movement": "near (swim)",
+    "attack": "2 bite +4 (1d10)",
+    "stats": {
+      "str": 4,
+      "dex": 0,
+      "con": 2,
+      "int": -3,
+      "wis": 0,
+      "cha": -3
+    },
+    "actions": [
+      {
+        "name": "Stumpy",
+        "description": "ADV on STR checks to grab or drag other creatures."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Hobgoblin",
+    "description": "A sturdy, tall goblin with russet skin. Militant and strategic.",
+    "level": 2,
+    "alignment": "Chaotic",
+    "ac": 15,
+    "armor_type": "",
+    "hp": 10,
+    "movement": "near",
+    "attack": "1 longsword +3 (1d8) or 1 longbow (far) +0 (1d8)",
+    "stats": {
+      "str": 3,
+      "dex": 0,
+      "con": 1,
+      "int": 2,
+      "wis": 1,
+      "cha": 1
+    },
+    "actions": [
+      {
+        "name": "Phalanx",
+        "description": "+1 to attacks and AC when in close range of an allied hobgoblin."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Horse",
+    "description": "Powerful, swift herd animals that roam open plains.",
+    "level": 2,
+    "alignment": "Neutral",
+    "ac": 11,
+    "armor_type": "",
+    "hp": 11,
+    "movement": "double near",
+    "attack": "1 hooves +3 (1d6)",
+    "stats": {
+      "str": 3,
+      "dex": 1,
+      "con": 2,
+      "int": -3,
+      "wis": 1,
+      "cha": -2
+    },
+    "actions": [],
+    "source": "Core"
+  },
+  {
+    "name": "Hydra",
+    "description": "A towering, amphibious reptile with a bouquet of snake heads writhing on long necks.",
+    "level": 10,
+    "alignment": "Neutral",
+    "ac": 15,
+    "armor_type": "",
+    "hp": 55,
+    "movement": "near (swim)",
+    "attack": "1 bite (near) +6 (1d8)",
+    "stats": {
+      "str": 5,
+      "dex": 1,
+      "con": 2,
+      "int": -2,
+      "wis": 1,
+      "cha": -2
+    },
+    "actions": [
+      {
+        "name": "Heads",
+        "description": "Choose how many heads the hydra has. Each is LV 2, AC 15, HP 11, and can make 1 bite attack. A killed head sprouts into two new heads at the start of the hydra's turn unless cauterized beforehand. The hydra's LV is all the heads combined."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Invisible Stalker",
+    "description": "Intelligent creatures made of flowing air. Often bound to the bidding of evil sorcerers for their peerless tracking ability.",
+    "level": 6,
+    "alignment": "Neutral",
+    "ac": 13,
+    "armor_type": "",
+    "hp": 29,
+    "movement": "near (fly)",
+    "attack": "3 pummel +4 (1d6)",
+    "stats": {
+      "str": 2,
+      "dex": 3,
+      "con": 2,
+      "int": 2,
+      "wis": 1,
+      "cha": 0
+    },
+    "actions": [
+      {
+        "name": "Bound",
+        "description": "A secret, mundane contingency (such as the touch of a feather) ends the invisible stalker's magical servitude."
+      },
+      {
+        "name": "Invisible",
+        "description": "Naturally invisible."
+      },
+      {
+        "name": "Tracking",
+        "description": "Can always sense the direction of its chosen quarry."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Jellyfish",
+    "description": "Hand-sized, purple sea jellies with stinging tentacles.",
+    "level": 0,
+    "alignment": "Neutral",
+    "ac": 11,
+    "armor_type": "",
+    "hp": 1,
+    "movement": "close (swim)",
+    "attack": "1 sting +1 (1 + toxin)",
+    "stats": {
+      "str": -4,
+      "dex": 1,
+      "con": 0,
+      "int": -4,
+      "wis": 1,
+      "cha": -4
+    },
+    "actions": [
+      {
+        "name": "Toxin",
+        "description": "DC 9 CON or paralyzed 1d4 rounds."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Knight",
+    "description": "A warrior in shining plate mail and the surcoat of a knightly order.",
+    "level": 3,
+    "alignment": "Lawful",
+    "ac": 17,
+    "armor_type": "",
+    "hp": 14,
+    "movement": "near",
+    "attack": "2 bastard sword +3 (1d8)",
+    "stats": {
+      "str": 3,
+      "dex": 0,
+      "con": 1,
+      "int": 0,
+      "wis": 0,
+      "cha": 1
+    },
+    "actions": [
+      {
+        "name": "Oath",
+        "description": "3/day, ADV on a roll made in service of knight's order."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Kobold",
+    "description": "Puny, scaled coyote-lizards that dwell underground.",
+    "level": 0,
+    "alignment": "Chaotic",
+    "ac": 13,
+    "armor_type": "leather",
+    "hp": 1,
+    "movement": "near",
+    "attack": "1 spear (close/near) +0 (1d6)",
+    "stats": {
+      "str": -2,
+      "dex": 2,
+      "con": 0,
+      "int": -1,
+      "wis": 0,
+      "cha": -1
+    },
+    "actions": [
+      {
+        "name": "Dodge",
+        "description": "1/day, an attack that would hit misses instead."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Kobold, Sorcerer",
+    "description": "A scaly dog-lizard painted with colorful stripes and rattling a hefty leg bone strung with beads and feathers.",
+    "level": 3,
+    "alignment": "Chaotic",
+    "ac": 13,
+    "armor_type": "leather",
+    "hp": 13,
+    "movement": "near",
+    "attack": "1 club +1 (1d4) or 1 spell +2",
+    "stats": {
+      "str": -2,
+      "dex": 2,
+      "con": 0,
+      "int": -1,
+      "wis": 1,
+      "cha": 2
+    },
+    "actions": [
+      {
+        "name": "Dodge",
+        "description": "1/day, an attack that would hit misses instead."
+      },
+      {
+        "name": "Scorpion Sting (CHA Spell)",
+        "description": "DC 11. Near range, one target. 1d6 damage and target has DISADV on next attack roll or check."
+      },
+      {
+        "name": "Spider Swarm (CHA Spell)",
+        "description": "DC 12. A spider swarm appears within near. Stays 1d4 rounds."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Kraken",
+    "description": "Primordial, tentacled leviathans the size of war galleons. They live in the lightless depths of the deep ocean.",
+    "level": 17,
+    "alignment": "Chaotic",
+    "ac": 18,
+    "armor_type": "",
+    "hp": 80,
+    "movement": "double near (swim)",
+    "attack": "4 tentacle (near) +9 (2d12) or 1 storm or 1d4 lightning bolt",
+    "stats": {
+      "str": 6,
+      "dex": 3,
+      "con": 4,
+      "int": 4,
+      "wis": 3,
+      "cha": 4
+    },
+    "actions": [
+      {
+        "name": "Impervious",
+        "description": "Electricity immune."
+      },
+      {
+        "name": "Crush",
+        "description": "Tentacle attacks deal double damage against objects."
+      },
+      {
+        "name": "Lightning Bolt",
+        "description": "Straight line (5' wide) extending far from kraken. DC 15 DEX or 6d6 damage."
+      },
+      {
+        "name": "Storm",
+        "description": "Seas become violently turbulent in 1 mile radius around kraken. Lasts 2d4 rounds."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Leech, Giant",
+    "description": "A glossy black, blood-drinking slug as large as a cat.",
+    "level": 2,
+    "alignment": "Neutral",
+    "ac": 9,
+    "armor_type": "",
+    "hp": 10,
+    "movement": "near (swim)",
+    "attack": "1 bite +1 (1d4 + attach)",
+    "stats": {
+      "str": 1,
+      "dex": -1,
+      "con": 1,
+      "int": -3,
+      "wis": -1,
+      "cha": -3
+    },
+    "actions": [
+      {
+        "name": "Attach",
+        "description": "Attach to target; bite auto-hits next round. DC 12 STR on turn to tear off."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Leprechaun",
+    "description": "Impish fey who favor green garb and love fooling tall folk with promises of gold.",
+    "level": 4,
+    "alignment": "Neutral",
+    "ac": 13,
+    "armor_type": "",
+    "hp": 19,
+    "movement": "near",
+    "attack": "1 spell +4",
+    "stats": {
+      "str": 1,
+      "dex": 3,
+      "con": 1,
+      "int": 2,
+      "wis": 1,
+      "cha": 3
+    },
+    "actions": [
+      {
+        "name": "Alert",
+        "description": "Cannot be surprised."
+      },
+      {
+        "name": "Slippery",
+        "description": "Hostile spells targeting the leprechaun are DC 15 to cast."
+      },
+      {
+        "name": "Fool's Gold (CHA Spell)",
+        "description": "DC 12. Close. One small object or small group of similar objects. Turn objects into silver or gold pieces. Lasts 1 day."
+      },
+      {
+        "name": "Illusion (CHA Spell)",
+        "description": "DC 11. Create a convincing visual and/or auditory illusion within near. Lasts until dismissed."
+      },
+      {
+        "name": "Invisibility (CHA Spell)",
+        "description": "DC 12. Self. Become invisible for 2d4 rounds."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Lesser Elemental, Air",
+    "description": "A howling tornado of wind.",
+    "level": 6,
+    "alignment": "Neutral",
+    "ac": 16,
+    "armor_type": "",
+    "hp": 29,
+    "movement": "double near (fly)",
+    "attack": "3 slam +7 (2d6) or 1 whirlwind",
+    "stats": {
+      "str": 3,
+      "dex": 5,
+      "con": 2,
+      "int": -2,
+      "wis": 1,
+      "cha": -2
+    },
+    "actions": [
+      {
+        "name": "Impervious",
+        "description": "Only damaged by magical sources."
+      },
+      {
+        "name": "Whirlwind",
+        "description": "All within close DC 15 DEX or flung 2d20 feet in random direction."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Lesser Elemental, Earth",
+    "description": "A thundering pillar of earth.",
+    "level": 6,
+    "alignment": "Neutral",
+    "ac": 17,
+    "armor_type": "",
+    "hp": 31,
+    "movement": "near (burrow)",
+    "attack": "3 slam +7 (2d8) or 1 avalanche",
+    "stats": {
+      "str": 5,
+      "dex": 0,
+      "con": 4,
+      "int": -2,
+      "wis": 1,
+      "cha": -2
+    },
+    "actions": [
+      {
+        "name": "Impervious",
+        "description": "Only damaged by magical sources."
+      },
+      {
+        "name": "Avalanche",
+        "description": "All within close DC 15 STR or entombed for 1d4 rounds under mounds of earth."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Lesser Elemental, Fire",
+    "description": "A roaring column of flames.",
+    "level": 6,
+    "alignment": "Neutral",
+    "ac": 15,
+    "armor_type": "",
+    "hp": 30,
+    "movement": "near (fly)",
+    "attack": "3 slam +6 (2d10) or 1 inferno",
+    "stats": {
+      "str": 4,
+      "dex": 3,
+      "con": 3,
+      "int": -2,
+      "wis": 1,
+      "cha": -2
+    },
+    "actions": [
+      {
+        "name": "Impervious",
+        "description": "Only damaged by magical sources. Fire immune."
+      },
+      {
+        "name": "Inferno",
+        "description": "All within near DC 15 DEX or 3d8 damage."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Lesser Elemental, Water",
+    "description": "A crashing vortex of water.",
+    "level": 6,
+    "alignment": "Neutral",
+    "ac": 15,
+    "armor_type": "",
+    "hp": 29,
+    "movement": "double near (swim)",
+    "attack": "3 slam +6 (2d6) or 1 whirlpool",
+    "stats": {
+      "str": 4,
+      "dex": 2,
+      "con": 2,
+      "int": -2,
+      "wis": 1,
+      "cha": -2
+    },
+    "actions": [
+      {
+        "name": "Impervious",
+        "description": "Only damaged by magical sources."
+      },
+      {
+        "name": "Whirlpool",
+        "description": "All within close DC 15 STR or immobilized inside water elemental (treat as underwater). DC 15 STR on turn to escape."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Lich",
+    "description": "A wizard who has completed a necromantic ritual to become a mighty, undead sorcerer. Its withered body is draped in moldering, silk robes, and red marshlights burn in its eyes.",
+    "level": 13,
+    "alignment": "Chaotic",
+    "ac": 16,
+    "armor_type": "",
+    "hp": 62,
+    "movement": "near",
+    "attack": "2 touch +6 (2d8 + paralysis) and 2 spell +7",
+    "stats": {
+      "str": 3,
+      "dex": 1,
+      "con": 4,
+      "int": 4,
+      "wis": 3,
+      "cha": 3
+    },
+    "actions": [
+      {
+        "name": "Supreme Undead",
+        "description": "Immune to morale checks. Only damaged by magical sources."
+      },
+      {
+        "name": "Phylactery",
+        "description": "Can't be killed while spirit vessel (an object) is intact."
+      },
+      {
+        "name": "Paralysis",
+        "description": "DC 15 CON or paralyzed 1d4 rounds."
+      },
+      {
+        "name": "Flight (INT Spell)",
+        "description": "Self. DC 13. Fly double near for 5 rounds."
+      },
+      {
+        "name": "Null (INT Spell)",
+        "description": "Self. DC 14. Hostile spells targeting lich are DC 18 to cast. Lasts 1d4 rounds."
+      },
+      {
+        "name": "Shadow Leap (INT Spell)",
+        "description": "Self. DC 14. Teleport up to 100 miles."
+      },
+      {
+        "name": "Sigil of Doom (INT Spell)",
+        "description": "DC 15. One target of LV 9 or less within near DC 15 CON or go to 0 HP."
+      },
+      {
+        "name": "Wither (INT Spell)",
+        "description": "DC 14. 4d8 damage to enemies within a near-sized cube centered on lich."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Lion",
+    "description": "Tawny great cats that hunt in open plains. Males have manes.",
+    "level": 3,
+    "alignment": "Neutral",
+    "ac": 12,
+    "armor_type": "",
+    "hp": 15,
+    "movement": "near",
+    "attack": "2 rend +4 (1d8)",
+    "stats": {
+      "str": 4,
+      "dex": 2,
+      "con": 2,
+      "int": -3,
+      "wis": 1,
+      "cha": -3
+    },
+    "actions": [],
+    "source": "Core"
+  },
+  {
+    "name": "Lizardfolk",
+    "description": "Crocodilian humanoids with scaly faces, claws, and tails. They dwell in swamps and rivers.",
+    "level": 2,
+    "alignment": "Chaotic",
+    "ac": 14,
+    "armor_type": "",
+    "hp": 11,
+    "movement": "near (swim)",
+    "attack": "1 spear (close/near) +2 (1d6)",
+    "stats": {
+      "str": 1,
+      "dex": 1,
+      "con": 2,
+      "int": -1,
+      "wis": 1,
+      "cha": -2
+    },
+    "actions": [],
+    "source": "Core"
+  },
+  {
+    "name": "Mage",
+    "description": "Trained wizards who are often members of a sorcerous order.",
+    "level": 6,
+    "alignment": "Lawful",
+    "ac": 11,
+    "armor_type": "",
+    "hp": 27,
+    "movement": "near",
+    "attack": "1 spell +5",
+    "stats": {
+      "str": -1,
+      "dex": 1,
+      "con": 0,
+      "int": 3,
+      "wis": 1,
+      "cha": 0
+    },
+    "actions": [
+      {
+        "name": "Arcane Armor (INT Spell)",
+        "description": "Self. DC 12. AC 16 for 2d4 rounds."
+      },
+      {
+        "name": "Blast (INT Spell)",
+        "description": "DC 12. Far, one target. 2d6 damage."
+      },
+      {
+        "name": "Cancel (INT Spell)",
+        "description": "DC 13. End one spell affecting a target within near."
+      },
+      {
+        "name": "Levitate (INT Spell)",
+        "description": "DC 12. Close. Focus. Hover near for duration, vertical movement only."
+      },
+      {
+        "name": "Snare (INT Spell)",
+        "description": "DC 13. Focus. One humanoid target within near paralyzed for duration."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Mammoth",
+    "description": "Massive, shaggy elephants with tusks that reach the ground.",
+    "level": 9,
+    "alignment": "Neutral",
+    "ac": 15,
+    "armor_type": "",
+    "hp": 44,
+    "movement": "near",
+    "attack": "2 tusks +7 (1d12)",
+    "stats": {
+      "str": 5,
+      "dex": 0,
+      "con": 4,
+      "int": -2,
+      "wis": 1,
+      "cha": 0
+    },
+    "actions": [
+      {
+        "name": "Thick Fur",
+        "description": "Cold immune."
+      },
+      {
+        "name": "Charge",
+        "description": "Move up to double near in straight line and make 1 tusks attack. If hit, x3 damage."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Manta Ray, Giant",
+    "description": "Swooping manta rays as large as longboats. Gentle and intelligent enough to be trained.",
+    "level": 8,
+    "alignment": "Neutral",
+    "ac": 13,
+    "armor_type": "",
+    "hp": 37,
+    "movement": "double near (swim)",
+    "attack": "2 sting +5 (1d12 + poison)",
+    "stats": {
+      "str": 3,
+      "dex": 3,
+      "con": 1,
+      "int": -2,
+      "wis": 1,
+      "cha": -3
+    },
+    "actions": [
+      {
+        "name": "Poison",
+        "description": "DC 15 CON or drop to 0 hit points in 1d4 rounds."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Manticore",
+    "description": "Human-faced lions with bat wings and cruelly spiked tails. They speak halting Thanian and love devouring human flesh.",
+    "level": 6,
+    "alignment": "Chaotic",
+    "ac": 14,
+    "armor_type": "",
+    "hp": 29,
+    "movement": "double near (fly)",
+    "attack": "2 rend +6 (2d6) or 2 tail spike (far) +4 (1d8)",
+    "stats": {
+      "str": 4,
+      "dex": 2,
+      "con": 2,
+      "int": -2,
+      "wis": 1,
+      "cha": -2
+    },
+    "actions": [
+      {
+        "name": "Spikes",
+        "description": "Manticores have 4d6 tail spikes. They regrow each day."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Mastiff",
+    "description": "Muscled guard dogs with fierce loyalty to their pack or owners.",
+    "level": 1,
+    "alignment": "Neutral",
+    "ac": 11,
+    "armor_type": "",
+    "hp": 4,
+    "movement": "near",
+    "attack": "1 bite +1 (1d6)",
+    "stats": {
+      "str": 1,
+      "dex": 1,
+      "con": 0,
+      "int": -2,
+      "wis": 1,
+      "cha": -2
+    },
+    "actions": [],
+    "source": "Core"
+  },
+  {
+    "name": "Medusa",
+    "description": "Immortal women with coiling snakes for hair and scaled skin.",
+    "level": 8,
+    "alignment": "Chaotic",
+    "ac": 14,
+    "armor_type": "",
+    "hp": 38,
+    "movement": "near",
+    "attack": "1 snake bite +6 (1d6 + poison)",
+    "stats": {
+      "str": 2,
+      "dex": 1,
+      "con": 2,
+      "int": 2,
+      "wis": 3,
+      "cha": 4
+    },
+    "actions": [
+      {
+        "name": "Godborn",
+        "description": "Hostile spells targeting the medusa are DC 15 to cast."
+      },
+      {
+        "name": "Petrify",
+        "description": "Any creature (including medusa) who looks directly at medusa, DC 15 CON or petrified."
+      },
+      {
+        "name": "Poison",
+        "description": "DC 15 CON or go to 0 HP."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Merfolk",
+    "description": "Ocean dwellers with human upper bodies and long fish tails.",
+    "level": 2,
+    "alignment": "Lawful",
+    "ac": 11,
+    "armor_type": "",
+    "hp": 9,
+    "movement": "near (swim)",
+    "attack": "1 spear (close/ near) +2 (1d6)",
+    "stats": {
+      "str": 1,
+      "dex": 1,
+      "con": 0,
+      "int": 0,
+      "wis": 1,
+      "cha": 1
+    },
+    "actions": [],
+    "source": "Core"
+  },
+  {
+    "name": "Mimic",
+    "description": "Beasts that look like objects.",
+    "level": 5,
+    "alignment": "Neutral",
+    "ac": 12,
+    "armor_type": "",
+    "hp": 23,
+    "movement": "near",
+    "attack": "2 bite +5 (1d8 + stick)",
+    "stats": {
+      "str": 2,
+      "dex": 0,
+      "con": 1,
+      "int": -2,
+      "wis": 0,
+      "cha": -3
+    },
+    "actions": [
+      {
+        "name": "Stick",
+        "description": "DC 15 STR or adhere to target; auto-hit with bite. DC 15 STR on turn to remove."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Minotaur",
+    "description": "Ferocious bull-men with hooves and curved horns. They live in mazelike tunnels.",
+    "level": 7,
+    "alignment": "Chaotic",
+    "ac": 14,
+    "armor_type": "chainmail",
+    "hp": 34,
+    "movement": "near",
+    "attack": "2 greataxe +6 (1d10) and 1 horns +6 (1d12)",
+    "stats": {
+      "str": 4,
+      "dex": 1,
+      "con": 3,
+      "int": 1,
+      "wis": 2,
+      "cha": 1
+    },
+    "actions": [
+      {
+        "name": "Charge",
+        "description": "In place of attacks, move up to double near in a straight line and make 1 horn attack. If hit, x2 damage."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Moose",
+    "description": "A towering, brown-haired grazer with weighty, flat antlers.",
+    "level": 4,
+    "alignment": "Neutral",
+    "ac": 11,
+    "armor_type": "",
+    "hp": 19,
+    "movement": "double near",
+    "attack": "2 antler +3 (1d6)",
+    "stats": {
+      "str": 3,
+      "dex": 0,
+      "con": 1,
+      "int": -2,
+      "wis": 0,
+      "cha": -2
+    },
+    "actions": [],
+    "source": "Core"
+  },
+  {
+    "name": "Mordanticus The Flayed",
+    "description": "A skinless mummy-lich wearing a crown set with nine bright gems. Once the head of the ancient, wizardly order of Gehemna, Mordanticus now lives in secret within the sanctum of Gehemna's reigning archmage. He has served as an advisor and historian for centuries, but an enduring enchantment prevents him from speaking of two topics: his origins, and The Ten-Eyed Oracle.",
+    "level": 19,
+    "alignment": "Neutral",
+    "ac": 17,
+    "armor_type": "",
+    "hp": 89,
+    "movement": "near",
+    "attack": "1 rot touch +8 (1d10 + necrosis) and 3 spell +8",
+    "stats": {
+      "str": 4,
+      "dex": 4,
+      "con": 4,
+      "int": 5,
+      "wis": 4,
+      "cha": 5
+    },
+    "actions": [
+      {
+        "name": "Legendary Undead",
+        "description": "Immune to morale checks. Only damaged by magical sources. Hostile spells targeting Mordanticus are DC 18 to cast."
+      },
+      {
+        "name": "Crown of Gehemna",
+        "description": "3/day, cause a spell being cast within far to fail."
+      },
+      {
+        "name": "Necrosis",
+        "description": "DC 15 CON or go to 0 HP. Healing spells are DC 15 to cast on target while at 0 HP due to this effect."
+      },
+      {
+        "name": "Phylactery",
+        "description": "Cannot be killed while spirit vessel (a diamond) is intact."
+      },
+      {
+        "name": "Absorb (INT Spell)",
+        "description": "DC 13. Near, one target. Target loses the ability to cast one random spell until completing a rest, and Mordanticus regains a lost spell of the same tier or less."
+      },
+      {
+        "name": "Banish (INT Spell)",
+        "description": "DC 14. All extradimensional creatures within near DC 15 CHA or sent back to their home planes."
+      },
+      {
+        "name": "Bind (INT Spell)",
+        "description": "DC 12. One humanoid in far paralyzed 1d4 rounds."
+      },
+      {
+        "name": "Blast (INT Spell)",
+        "description": "DC 14. One creature in near takes 5d8 damage."
+      },
+      {
+        "name": "Phase (INT Spell)",
+        "description": "DC 13. Self. Teleport up to one mile."
+      },
+      {
+        "name": "True Name (INT Spell)",
+        "description": "DC 15. Near. Learn the True Name of target."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Mummy",
+    "description": "A desiccated, linen-wrapped zombie. It was created with an intricate embalming ritual used only upon the most worthy warriors or rulers.",
+    "level": 10,
+    "alignment": "Chaotic",
+    "ac": 13,
+    "armor_type": "",
+    "hp": 47,
+    "movement": "near",
+    "attack": "3 rot touch +8 (1d10 + necrosis)",
+    "stats": {
+      "str": 3,
+      "dex": 0,
+      "con": 2,
+      "int": 3,
+      "wis": 2,
+      "cha": 3
+    },
+    "actions": [
+      {
+        "name": "Supreme Undead",
+        "description": "Immune to morale checks. Only damaged by magical sources."
+      },
+      {
+        "name": "Desiccated",
+        "description": "Can be damaged by fire. Takes x2 damage from it."
+      },
+      {
+        "name": "Necrosis",
+        "description": "DC 15 CON or drop to 0 HP. Healing spells are DC 15 to cast on target while at 0 HP due to this effect."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Mushroomfolk",
+    "description": "Lumbering humanoids with spongy, elongated bodies and toadstools on their heads.",
+    "level": 3,
+    "alignment": "Neutral",
+    "ac": 13,
+    "armor_type": "",
+    "hp": 15,
+    "movement": "near",
+    "attack": "2 slam +2 (1d6)",
+    "stats": {
+      "str": 2,
+      "dex": -1,
+      "con": 2,
+      "int": 0,
+      "wis": 1,
+      "cha": 0
+    },
+    "actions": [
+      {
+        "name": "Sunblind",
+        "description": "Blinded in bright light."
+      },
+      {
+        "name": "Telepathic",
+        "description": "Speak mentally with creatures within double near."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Naga",
+    "description": "Magic-wielding cobras towering ten feet high. Once a dominant species, they are now rare and reclusive, bitter to the last.",
+    "level": 9,
+    "alignment": "Chaotic",
+    "ac": 16,
+    "armor_type": "",
+    "hp": 43,
+    "movement": "near (climb)",
+    "attack": "2 bite +7 (2d6 + poison) and 1 spell +7",
+    "stats": {
+      "str": 4,
+      "dex": 1,
+      "con": 3,
+      "int": 2,
+      "wis": 2,
+      "cha": 4
+    },
+    "actions": [
+      {
+        "name": "Poison",
+        "description": "DC 15 CON or paralyzed 1d4 rounds."
+      },
+      {
+        "name": "Agony (CHA Spell)",
+        "description": "DC 14. One target in near takes 3d8 damage."
+      },
+      {
+        "name": "Hypnotize (CHA Spell)",
+        "description": "DC 13. Focus. One target in near range who can see naga is helplessly stupefied for duration."
+      },
+      {
+        "name": "Whispers (CHA Spell)",
+        "description": "DC 12. Hostile spells cast on one target in near are DC 9 for 1d4 rounds."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Naga, Bone",
+    "description": "Mindless, skeletal husks of nagas reanimated by sorcery.",
+    "level": 6,
+    "alignment": "Chaotic",
+    "ac": 13,
+    "armor_type": "",
+    "hp": 31,
+    "movement": "near (burrow",
+    "attack": "2 bite +5 (2d6)",
+    "stats": {
+      "str": 3,
+      "dex": 2,
+      "con": 4,
+      "int": -3,
+      "wis": 0,
+      "cha": 4
+    },
+    "actions": [
+      {
+        "name": "Greater Undead",
+        "description": "Immune to morale checks. Only damaged by silver or magical sources."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Nightmare",
+    "description": "Black warhorses with flaming manes, hooves, and eyes.",
+    "level": 6,
+    "alignment": "Chaotic",
+    "ac": 13,
+    "armor_type": "",
+    "hp": 29,
+    "movement": "double near (fly)",
+    "attack": "2 hooves +5 (1d8)",
+    "stats": {
+      "str": 3,
+      "dex": 3,
+      "con": 2,
+      "int": -1,
+      "wis": 1,
+      "cha": -2
+    },
+    "actions": [
+      {
+        "name": "Impervious",
+        "description": "Nightmare and its rider immune to fire."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Obe-Ixx of Azarumme",
+    "description": "A pale, angular woman in translucent plate mail fashioned from giant scorpion chitin. Obe-Ixx, daughter of Azarumme, rose up from the prehistoric barbarian tribes of Tal-Yool to conquer all in her path. One day, she stood at the steps of an obsidian ziggurat deep within the trackless jungle. Forty nights later, Obe-Ixx emerged as the ur-vampire, bloodlust made flesh. Her dynasty would rise and fall again and again over the coming millennia.",
+    "level": 16,
+    "alignment": "Chaotic",
+    "ac": 18,
+    "armor_type": "+3 plate mail",
+    "hp": 76,
+    "movement": "near (climb, fly)",
+    "attack": "4 greatsword (near) +11 (1d12 + 2 + Moonbite properties) and 1 bite + 9 (1d8 + blood drain) and 1 charm",
+    "stats": {
+      "str": 5,
+      "dex": 3,
+      "con": 4,
+      "int": 3,
+      "wis": 4,
+      "cha": 5
+    },
+    "actions": [
+      {
+        "name": "Legendary Undead",
+        "description": "Immune to morale checks. Only damaged by magical sources. Hostile spells targeting Obe-Ixx are DC 18 to cast."
+      },
+      {
+        "name": "Blood Drain",
+        "description": "Obe-Ixx heals 2d8 HP, target permanently loses 1d6 CON. At 0 CON, target dies and rises as a loyal vampire or vampire spawn (Obe-Ixx chooses)."
+      },
+      {
+        "name": "Charm",
+        "description": "One humanoid target who can see Obe-Ixx within near, DC 15 CHA or under Obe-Ixx's control for 1d4 days."
+      },
+      {
+        "name": "Moonbite Properties",
+        "description": "+2 greatsword, thrown weapon, returns after being thrown. Spells to heal damage it inflicts are DC 15 to cast."
+      },
+      {
+        "name": "Shapechange",
+        "description": "In place of attacks, turn into a giant bat, dire wolf, or back into regular form."
+      },
+      {
+        "name": "Ur-Vampire",
+        "description": "Must sleep in sarcophagus at least once per moon cycle or loses 2d8 HP per day that cannot heal until sleeping in sarcophagus. Takes 3d8 damage each round while in direct sunlight. Cannot be killed unless pierced through heart while at 0 HP with a wooden stake carved from a tree from the Tal-Yool jungle."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Ochre Jelly",
+    "description": "An orange puddle of quivering slime.",
+    "level": 4,
+    "alignment": "Neutral",
+    "ac": 9,
+    "armor_type": "",
+    "hp": 20,
+    "movement": "near (climb)",
+    "attack": "2 tentacle +3 (1d6)",
+    "stats": {
+      "str": 2,
+      "dex": -1,
+      "con": 2,
+      "int": -4,
+      "wis": -3,
+      "cha": -4
+    },
+    "actions": [
+      {
+        "name": "Split",
+        "description": "If cut or chopped, split into two smaller oozes (divide remaining HP between both)."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Octopus, Giant",
+    "description": "Octopi as large as sailing skiffs.",
+    "level": 5,
+    "alignment": "Neutral",
+    "ac": 13,
+    "armor_type": "",
+    "hp": 23,
+    "movement": "near (swim)",
+    "attack": "2 tentacle (near) +4 (1d8 + grab)",
+    "stats": {
+      "str": 3,
+      "dex": 3,
+      "con": 1,
+      "int": -2,
+      "wis": 1,
+      "cha": -3
+    },
+    "actions": [
+      {
+        "name": "Grab",
+        "description": "DC 15 STR or immobilized."
+      },
+      {
+        "name": "Tentacle auto-hits each round",
+        "description": "DC 15 STR on turn to break free."
+      },
+      {
+        "name": "Ink",
+        "description": "In place of attacks, ink cloud blinds all in near for 1d4 rounds."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Ogre",
+    "description": "A massive, dim-witted brute with tusks and a heavy frame. Often lords over goblins or orcs.",
+    "level": 6,
+    "alignment": "Chaotic",
+    "ac": 9,
+    "armor_type": "",
+    "hp": 30,
+    "movement": "near",
+    "attack": "2 greatclub +6 (2d6)",
+    "stats": {
+      "str": 4,
+      "dex": -1,
+      "con": 3,
+      "int": -2,
+      "wis": -2,
+      "cha": -2
+    },
+    "actions": [],
+    "source": "Core"
+  },
+  {
+    "name": "Oni",
+    "description": "Cunning and sorcerous ogre-demons with shaggy white hair, blue skin, and yellow eyes.",
+    "level": 7,
+    "alignment": "Chaotic",
+    "ac": 11,
+    "armor_type": "",
+    "hp": 33,
+    "movement": "near",
+    "attack": "1 glaive (near) +6 (1d10) or 1 spell +5",
+    "stats": {
+      "str": 5,
+      "dex": 1,
+      "con": 2,
+      "int": 2,
+      "wis": 1,
+      "cha": 3
+    },
+    "actions": [
+      {
+        "name": "Shapeshift",
+        "description": "In place of attacks, turn into any humanoid or back into original form."
+      },
+      {
+        "name": "Fade (CHA Spell)",
+        "description": "DC 13. Self. Become invisible for 1d4 rounds."
+      },
+      {
+        "name": "Hellfrost (CHA Spell)",
+        "description": "DC 13. All within near-sized cube extending from oni 3d6 damage."
+      },
+      {
+        "name": "Mist (CHA Spell)",
+        "description": "DC 13. Self. Turn into mist that can fly double near. Lasts 2d4 rounds."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Orc",
+    "description": "A tusked, tall humanoid with gray skin and pointed ears.",
+    "level": 1,
+    "alignment": "Chaotic",
+    "ac": 15,
+    "armor_type": "",
+    "hp": 4,
+    "movement": "near",
+    "attack": "1 greataxe +2 (1d8)",
+    "stats": {
+      "str": 2,
+      "dex": 0,
+      "con": 0,
+      "int": -1,
+      "wis": 0,
+      "cha": -1
+    },
+    "actions": [
+      {
+        "name": "Rage",
+        "description": "1/day, immune to morale checks, +1d4 damage (3 rounds)."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Orc, Chieftain",
+    "description": "An imposing orc with scars crisscrossing its body.",
+    "level": 4,
+    "alignment": "Chaotic",
+    "ac": 14,
+    "armor_type": "chainmail",
+    "hp": 19,
+    "movement": "near",
+    "attack": "2 greataxe +4 (1d10)",
+    "stats": {
+      "str": 2,
+      "dex": 1,
+      "con": 1,
+      "int": -1,
+      "wis": 0,
+      "cha": -1
+    },
+    "actions": [
+      {
+        "name": "Rage",
+        "description": "1/day, immune to morale checks, +1d4 damage (3 rounds)."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Otyugh",
+    "description": "Stumpy, three-legged beasts with barbed tentacles and vast mouths. Drawn by rot and filth.",
+    "level": 7,
+    "alignment": "Neutral",
+    "ac": 13,
+    "armor_type": "",
+    "hp": 35,
+    "movement": "near",
+    "attack": "2 tentacle +5 (1d8) and 1 bite +5 (1d10 + disease)",
+    "stats": {
+      "str": 4,
+      "dex": -1,
+      "con": 4,
+      "int": -2,
+      "wis": 0,
+      "cha": -3
+    },
+    "actions": [
+      {
+        "name": "Disease",
+        "description": "DC 15 CON or infected. DC 15 CON each day or lose 1d6 HP (can't heal). Ends on success."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Owlbear",
+    "description": "Cantankerous bears with owl eyes, beaks, and feathers.",
+    "level": 6,
+    "alignment": "Neutral",
+    "ac": 13,
+    "armor_type": "",
+    "hp": 30,
+    "movement": "near (climb)",
+    "attack": "2 claw +5 (1d10)",
+    "stats": {
+      "str": 4,
+      "dex": 1,
+      "con": 3,
+      "int": -2,
+      "wis": 2,
+      "cha": -3
+    },
+    "actions": [
+      {
+        "name": "Crush",
+        "description": "Deals an extra die of damage if it hits the same target with both claws."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Panther",
+    "description": "Supple large cats with blue-black fur. Stealthy hunters.",
+    "level": 3,
+    "alignment": "Neutral",
+    "ac": 14,
+    "armor_type": "",
+    "hp": 14,
+    "movement": "near (climb)",
+    "attack": "2 rend +3 (1d6)",
+    "stats": {
+      "str": 3,
+      "dex": 4,
+      "con": 1,
+      "int": -2,
+      "wis": 1,
+      "cha": -3
+    },
+    "actions": [],
+    "source": "Core"
+  },
+  {
+    "name": "Peasant",
+    "description": "A commoner in worn clothes.",
+    "level": 1,
+    "alignment": "Lawful",
+    "ac": 10,
+    "armor_type": "",
+    "hp": 4,
+    "movement": "near",
+    "attack": "1 club +0 (1d4)",
+    "stats": {
+      "str": 0,
+      "dex": 0,
+      "con": 0,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+    },
+    "actions": [],
+    "source": "Core"
+  },
+  {
+    "name": "Pegasus",
+    "description": "Winged horses with noble bearings and pearly white coats.",
+    "level": 3,
+    "alignment": "Neutral",
+    "ac": 12,
+    "armor_type": "",
+    "hp": 15,
+    "movement": "double near (fly)",
+    "attack": "2 hooves +3 (1d6)",
+    "stats": {
+      "str": 3,
+      "dex": 2,
+      "con": 2,
+      "int": -3,
+      "wis": 1,
+      "cha": 0
+    },
+    "actions": [],
+    "source": "Core"
+  },
+  {
+    "name": "Phoenix",
+    "description": "Huge, soaring eagles made of searing flames. Intelligent and imbued with immortal magic.",
+    "level": 13,
+    "alignment": "Lawful",
+    "ac": 16,
+    "armor_type": "",
+    "hp": 60,
+    "movement": "double near (fly)",
+    "attack": "4 rend +8 (2d12)",
+    "stats": {
+      "str": 3,
+      "dex": 4,
+      "con": 2,
+      "int": 3,
+      "wis": 3,
+      "cha": 3
+    },
+    "actions": [
+      {
+        "name": "Impervious",
+        "description": "Immune to fire."
+      },
+      {
+        "name": "Explosion",
+        "description": "Upon death, creatures within double near of phoenix DC 18 DEX or 10d6 damage."
+      },
+      {
+        "name": "Heat Aura",
+        "description": "Creatures within near of phoenix at start of turn DC 15 CON or 2d6 damage."
+      },
+      {
+        "name": "Rebirth",
+        "description": "A red-hot egg remains after death. Phoenix hatches from it in 1d4 days."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Piranha, Swarm",
+    "description": "A school of flat, silvery fish with vicious fangs.",
+    "level": 3,
+    "alignment": "Neutral",
+    "ac": 12,
+    "armor_type": "",
+    "hp": 13,
+    "movement": "near (swim)",
+    "attack": "2 bite +2 (1d6)",
+    "stats": {
+      "str": -2,
+      "dex": 2,
+      "con": 0,
+      "int": -3,
+      "wis": 0,
+      "cha": -3
+    },
+    "actions": [
+      {
+        "name": "Savage",
+        "description": "ADV on attacks against creatures below half their HP."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Pirate",
+    "description": "Seafaring scoundrels who live to steal and hoard treasure.",
+    "level": 1,
+    "alignment": "Chaotic",
+    "ac": 12,
+    "armor_type": "leather",
+    "hp": 4,
+    "movement": "near",
+    "attack": "1 cutlass +1 (1d6) or 1 dagger (close/ near) +1 (1d4)",
+    "stats": {
+      "str": 1,
+      "dex": 1,
+      "con": 0,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+    },
+    "actions": [],
+    "source": "Core"
+  },
+  {
+    "name": "Plesiosaurus",
+    "description": "Aquatic reptiles as big as elephants. Flat flippers and narrow, toothy maws on long necks.",
+    "level": 6,
+    "alignment": "Neutral",
+    "ac": 13,
+    "armor_type": "",
+    "hp": 30,
+    "movement": "double near (swim)",
+    "attack": "2 bite +5 (2d8)",
+    "stats": {
+      "str": 4,
+      "dex": 3,
+      "con": 3,
+      "int": -3,
+      "wis": 1,
+      "cha": -3
+    },
+    "actions": [],
+    "source": "Core"
+  },
+  {
+    "name": "Priest",
+    "description": "A respected member of a clergy who leads holy rituals and rites.",
+    "level": 5,
+    "alignment": "Lawful",
+    "ac": 15,
+    "armor_type": "",
+    "hp": 23,
+    "movement": "near",
+    "attack": "2 mace +3 (1d6) or 1 spell +3",
+    "stats": {
+      "str": 1,
+      "dex": 0,
+      "con": 1,
+      "int": 0,
+      "wis": 2,
+      "cha": 1
+    },
+    "actions": [
+      {
+        "name": "Anoint (WIS Spell)",
+        "description": "DC 12. Close. One weapon or armor becomes a magic +2 version for 10 rounds."
+      },
+      {
+        "name": "Healing Touch (WIS Spell)",
+        "description": "DC 11. Heal one creature within close for 2d4 HP."
+      },
+      {
+        "name": "Holy Flame (WIS Spell)",
+        "description": "DC 13. Self. Weapons ignite in magic flames and deal an additional 1d6 damage for 5 rounds."
+      },
+      {
+        "name": "Rebuke (WIS Spell)",
+        "description": "DC 13. Focus. Chaotic creatures cannot attack priest or come within near range for duration."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Primordial Slime",
+    "description": "A mass of clear ooze strobing with sick pulses of violet light.",
+    "level": 6,
+    "alignment": "Chaotic",
+    "ac": 9,
+    "armor_type": "",
+    "hp": 30,
+    "movement": "near (climb)",
+    "attack": "2 tentacle +4 (1d10 + dissolve)",
+    "stats": {
+      "str": 3,
+      "dex": 2,
+      "con": 3,
+      "int": -4,
+      "wis": -3,
+      "cha": -4
+    },
+    "actions": [
+      {
+        "name": "Impervious",
+        "description": "Only harmed by fire."
+      },
+      {
+        "name": "Dissolve",
+        "description": "One random piece of non-magical gear the target carries is destroyed."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Pterodactyl",
+    "description": "Long-beaked beasts with wide, triangular wings. Large enough to carry off a human.",
+    "level": 4,
+    "alignment": "Neutral",
+    "ac": 14,
+    "armor_type": "",
+    "hp": 20,
+    "movement": "double near (fly)",
+    "attack": "2 beak +4 (1d8 + grab)",
+    "stats": {
+      "str": 2,
+      "dex": 4,
+      "con": 2,
+      "int": -2,
+      "wis": 1,
+      "cha": -3
+    },
+    "actions": [
+      {
+        "name": "Grab",
+        "description": "DC 15 STR or held. DC 15 STR on turn to break free."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Purple Worm",
+    "description": "A massive worm as tall as a castle keep. Has a rotating maw and is covered in purple chitin.",
+    "level": 12,
+    "alignment": "Neutral",
+    "ac": 18,
+    "armor_type": "",
+    "hp": 57,
+    "movement": "double near (burrow)",
+    "attack": "2 bite +9 (2d12 + swallow) and 1 sting +9 (1d10 + poison)",
+    "stats": {
+      "str": 5,
+      "dex": 1,
+      "con": 3,
+      "int": -3,
+      "wis": 1,
+      "cha": -3
+    },
+    "actions": [
+      {
+        "name": "Poison",
+        "description": "DC 15 CON or go to 0 HP."
+      },
+      {
+        "name": "Swallow",
+        "description": "On a natural attack roll of 18-20, target is swallowed."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Rakshasa",
+    "description": "Demonic illusionists whose true form is of a humanlike great cat with backwards hands.",
+    "level": 8,
+    "alignment": "Chaotic",
+    "ac": 16,
+    "armor_type": "",
+    "hp": 39,
+    "movement": "near",
+    "attack": "2 claw +6 (1d8)",
+    "stats": {
+      "str": 1,
+      "dex": 3,
+      "con": 3,
+      "int": 3,
+      "wis": 3,
+      "cha": 4
+    },
+    "actions": [
+      {
+        "name": "Impervious",
+        "description": "Only damaged by magical sources. Immune to hostile spells of 3rd tier or lower."
+      },
+      {
+        "name": "Mesmerism",
+        "description": "Can read the minds of all creatures within near. Can instantly take on the illusory appearance of any humanoid."
+      },
+      {
+        "name": "Weakness",
+        "description": "A crossbow bolt under the effects of the holy weapon spell kills the rakshasa."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Rat",
+    "description": "Rangy, plague-carrying rodents that infest underground places.",
+    "level": 0,
+    "alignment": "Neutral",
+    "ac": 10,
+    "armor_type": "",
+    "hp": 1,
+    "movement": "near",
+    "attack": "1 bite +0 (1 + disease)",
+    "stats": {
+      "str": -3,
+      "dex": 0,
+      "con": 1,
+      "int": -3,
+      "wis": 1,
+      "cha": -3
+    },
+    "actions": [
+      {
+        "name": "Disease",
+        "description": "DC 9 CON or 1d4 CON damage (can't heal while ill)."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Rat, Dire",
+    "description": "Child-sized, savage rats bristling with bony face and spine ridges.",
+    "level": 2,
+    "alignment": "Neutral",
+    "ac": 12,
+    "armor_type": "",
+    "hp": 10,
+    "movement": "near",
+    "attack": "1 bite +2 (1d6 + disease)",
+    "stats": {
+      "str": 1,
+      "dex": 2,
+      "con": 1,
+      "int": -2,
+      "wis": 1,
+      "cha": -2
+    },
+    "actions": [
+      {
+        "name": "Disease",
+        "description": "DC 12 CON or 1d4 CON damage (can't heal while ill)."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Rat, Giant",
+    "description": "Cunning rats as large as cats. Mangy fur and wormlike tails.",
+    "level": 1,
+    "alignment": "Neutral",
+    "ac": 11,
+    "armor_type": "",
+    "hp": 5,
+    "movement": "near",
+    "attack": "1 bite +1 (1d4 + disease)",
+    "stats": {
+      "str": -2,
+      "dex": 1,
+      "con": 1,
+      "int": -2,
+      "wis": 1,
+      "cha": -2
+    },
+    "actions": [
+      {
+        "name": "Disease",
+        "description": "DC 12 CON or 1d4 CON damage (can't heal while ill)."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Rat, Swarm",
+    "description": "A screeching tidal wave of clawing and biting rats.",
+    "level": 6,
+    "alignment": "Neutral",
+    "ac": 10,
+    "armor_type": "",
+    "hp": 28,
+    "movement": "near",
+    "attack": "4 bite +0 (1 + disease)",
+    "stats": {
+      "str": -3,
+      "dex": 0,
+      "con": 1,
+      "int": -3,
+      "wis": 1,
+      "cha": -3
+    },
+    "actions": [
+      {
+        "name": "Disease",
+        "description": "DC 9 CON or 1d4 CON damage (can't heal while ill)."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Rathgamnon",
+    "description": "A pearl-white lion with feathered wings that stands twenty feet tall. Rathgamnon is Madeera the Covenant's mightiest servant; his blank eyes see far into the depths of time and space. He spends all eternity watching the whirl of the stars from the highest mountain in the realm of mortals, waiting for the celestial alignments that prophesy epochs of weal and woe, titanic changes to the balance of power in the cosmos, or threats to the laws of reality itself.",
+    "level": 19,
+    "alignment": "Lawful",
+    "ac": 17,
+    "armor_type": "",
+    "hp": 89,
+    "movement": "double near (fly)",
+    "attack": "2 rend (near) +9 (2d10) and 2 spell +8",
+    "stats": {
+      "str": 5,
+      "dex": 3,
+      "con": 4,
+      "int": 5,
+      "wis": 6,
+      "cha": 5
+    },
+    "actions": [
+      {
+        "name": "Legendary",
+        "description": "Only damaged by magical sources. Hostile spells targeting Rathgamnon are DC 18 to cast."
+      },
+      {
+        "name": "Roar",
+        "description": "In place of attacks, all creatures who can hear within far DC 18 CHA or be rendered blind and speechless for 1d4 days."
+      },
+      {
+        "name": "Abjure (WIS Spell)",
+        "description": "DC 13. Self. End any hostile magical effects affecting Rathgamnon."
+      },
+      {
+        "name": "Abolish (WIS Spell)",
+        "description": "DC 13. One target in far takes 5d8 damage."
+      },
+      {
+        "name": "Anchor (WIS Spell)",
+        "description": "DC 14. One target in far DC 18 STR or bound and anchored by chains of golden runes for 1d4 rounds."
+      },
+      {
+        "name": "Gate (WIS Spell)",
+        "description": "DC 14. Open a portal at a point within near to another location on any plane. Lasts 1d6 rounds or until dismissed."
+      },
+      {
+        "name": "Portent (WIS Spell)",
+        "description": "DC 14. Lasts 2d4 rounds. One target in near has advantage or disadvantage on all attack rolls and checks."
+      },
+      {
+        "name": "Time Stop (WIS Spell)",
+        "description": "DC 15. Self. Time freezes for everyone except Rathgamnon for 1d4 rounds. Everything that occurs during the time freeze happens simultaneously when the spell ends."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Reaver",
+    "description": "A knight in blackened armor riddled with cruel barbs.",
+    "level": 6,
+    "alignment": "Chaotic",
+    "ac": 17,
+    "armor_type": "",
+    "hp": 28,
+    "movement": "near",
+    "attack": "3 bastard sword +4 (1d8 + 2)",
+    "stats": {
+      "str": 3,
+      "dex": 0,
+      "con": 1,
+      "int": 0,
+      "wis": 0,
+      "cha": 2
+    },
+    "actions": [
+      {
+        "name": "Bloodlust",
+        "description": "+2 damage with melee weapons (included)."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Remorhaz",
+    "description": "Massive, blue centipedes with neck hoods and red-hot spine spikes. Dwell in arctic climates.",
+    "level": 10,
+    "alignment": "Neutral",
+    "ac": 16,
+    "armor_type": "",
+    "hp": 47,
+    "movement": "near (burrow)",
+    "attack": "3 bite +7 (2d6 + swallow)",
+    "stats": {
+      "str": 5,
+      "dex": 1,
+      "con": 2,
+      "int": -3,
+      "wis": 1,
+      "cha": -3
+    },
+    "actions": [
+      {
+        "name": "Impervious",
+        "description": "Immune to cold and fire."
+      },
+      {
+        "name": "Melt",
+        "description": "Non-magical metal objects that touch the remorhaz melt on a d6 roll of 1-3."
+      },
+      {
+        "name": "Swallow",
+        "description": "On a natural attack roll of 18-20, target is swallowed."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Rhinoceros",
+    "description": "Gray-skinned bulls with single nose horns. Dwell in grasslands.",
+    "level": 5,
+    "alignment": "Neutral",
+    "ac": 14,
+    "armor_type": "",
+    "hp": 25,
+    "movement": "near",
+    "attack": "2 horn +4 (1d8)",
+    "stats": {
+      "str": 4,
+      "dex": -1,
+      "con": 3,
+      "int": -3,
+      "wis": 0,
+      "cha": -3
+    },
+    "actions": [
+      {
+        "name": "Charge",
+        "description": "Move up to double near in straight line and make 1 horn attack. If hit, x3 damage."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Rime Walker",
+    "description": "Human-shaped beings formed from black space ice. Their eyes are two flickering, white lights.",
+    "level": 9,
+    "alignment": "Chaotic",
+    "ac": 16,
+    "armor_type": "",
+    "hp": 43,
+    "movement": "near (fly)",
+    "attack": "4 claw +8 (1d12)",
+    "stats": {
+      "str": 4,
+      "dex": 4,
+      "con": 3,
+      "int": 2,
+      "wis": 2,
+      "cha": 2
+    },
+    "actions": [
+      {
+        "name": "Impervious",
+        "description": "Immune to cold."
+      },
+      {
+        "name": "Ice Aura",
+        "description": "Enemies within near of rime walker DC 12 CON at start of turn or lose action."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Roc",
+    "description": "Dragon-sized hawks that nest in remote mountains.",
+    "level": 15,
+    "alignment": "Neutral",
+    "ac": 15,
+    "armor_type": "",
+    "hp": 69,
+    "movement": "double near (fly)",
+    "attack": "4 rend +9 (2d10 + grab)",
+    "stats": {
+      "str": 5,
+      "dex": 3,
+      "con": 2,
+      "int": -2,
+      "wis": 2,
+      "cha": -2
+    },
+    "actions": [
+      {
+        "name": "Grab",
+        "description": "DC 18 STR or target held. DC 18 STR on turn to break free."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Roper",
+    "description": "Ravenous monstrosities that look like cave rocks when their single eye and maw are closed.",
+    "level": 6,
+    "alignment": "Neutral",
+    "ac": 14,
+    "armor_type": "",
+    "hp": 31,
+    "movement": "close (climb)",
+    "attack": "4 tendril (double near) +4 (1d6 + grab) and 1 bite +4 (2d8)",
+    "stats": {
+      "str": 3,
+      "dex": -2,
+      "con": 4,
+      "int": -1,
+      "wis": 2,
+      "cha": 1
+    },
+    "actions": [
+      {
+        "name": "Impervious",
+        "description": "Can only be damaged by magical sources."
+      },
+      {
+        "name": "Grab",
+        "description": "DC 15 STR or target trapped in tendril. Tendril auto-hits target next round. DC 15 STR on turn to break free."
+      },
+      {
+        "name": "Pull",
+        "description": "In place of a tendril attack, pull a grabbed target a near distance."
+      },
+      {
+        "name": "Tendrils",
+        "description": "Four total. AC 18 each. 4+ damage to one severs it."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Rot Flower",
+    "description": "Carnivorous flowers as large as a human. They reek of carrion.",
+    "level": 2,
+    "alignment": "Neutral",
+    "ac": 9,
+    "armor_type": "",
+    "hp": 10,
+    "movement": "none",
+    "attack": "1 bite +1 (1d4 + toxin)",
+    "stats": {
+      "str": 1,
+      "dex": -3,
+      "con": 1,
+      "int": -4,
+      "wis": -3,
+      "cha": -4
+    },
+    "actions": [
+      {
+        "name": "Toxin",
+        "description": "DC 12 CON or unconscious for 1d4 rounds."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Rust Monster",
+    "description": "A mud-brown insect as big as a wolf with two feathery antennae. Consumes metal.",
+    "level": 4,
+    "alignment": "Neutral",
+    "ac": 13,
+    "armor_type": "",
+    "hp": 19,
+    "movement": "near (climb)",
+    "attack": "2 claw +3 (1d6)",
+    "stats": {
+      "str": 2,
+      "dex": 3,
+      "con": 1,
+      "int": -3,
+      "wis": 1,
+      "cha": -3
+    },
+    "actions": [
+      {
+        "name": "Corrosive",
+        "description": "Metal that touches the rust monster is destroyed on a d6 roll of 1-3."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Sahuagin",
+    "description": "Humanoids with sea-green skin, webbed limbs, and shark teeth. Vicious hunters.",
+    "level": 2,
+    "alignment": "Chaotic",
+    "ac": 14,
+    "armor_type": "",
+    "hp": 9,
+    "movement": "near (swim)",
+    "attack": "2 trident (near) +1 (1d6)",
+    "stats": {
+      "str": 1,
+      "dex": 1,
+      "con": 0,
+      "int": -1,
+      "wis": 0,
+      "cha": -1
+    },
+    "actions": [
+      {
+        "name": "Half-Amphibious",
+        "description": "Must be submerged in water every 4 hours or suffocates."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Salamander",
+    "description": "Fire-colored lizardfolk with long tails. Flame-like frills run down their backs.",
+    "level": 5,
+    "alignment": "Chaotic",
+    "ac": 13,
+    "armor_type": "",
+    "hp": 24,
+    "movement": "near",
+    "attack": "2 flaming spear (close/near) +4 (1d6 + ignites flammables) or 1 iron longbow (far) +2 (1d8)",
+    "stats": {
+      "str": 2,
+      "dex": 0,
+      "con": 2,
+      "int": -1,
+      "wis": 1,
+      "cha": -1
+    },
+    "actions": [
+      {
+        "name": "Impervious",
+        "description": "Fire immune."
+      },
+      {
+        "name": "Heat Aura",
+        "description": "Creatures in close DC 12 CON on turn or 1d8 damage."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Scarab, Swarm",
+    "description": "A chittering cloud of iridescent, oval-shaped beetles.",
+    "level": 3,
+    "alignment": "Neutral",
+    "ac": 13,
+    "armor_type": "",
+    "hp": 14,
+    "movement": "near (fly)",
+    "attack": "2 bite +3 (1d6)",
+    "stats": {
+      "str": -1,
+      "dex": 3,
+      "con": 1,
+      "int": -3,
+      "wis": 0,
+      "cha": -3
+    },
+    "actions": [],
+    "source": "Core"
+  },
+  {
+    "name": "Scarecrow",
+    "description": "Ragged clothes and a painted burlap head stuffed with straw. Possessed by a malicious spirit.",
+    "level": 3,
+    "alignment": "Chaotic",
+    "ac": 12,
+    "armor_type": "",
+    "hp": 15,
+    "movement": "near",
+    "attack": "2 claws +2 (1d6) or 1 scream",
+    "stats": {
+      "str": 2,
+      "dex": 2,
+      "con": 2,
+      "int": 0,
+      "wis": 0,
+      "cha": 2
+    },
+    "actions": [
+      {
+        "name": "Scream",
+        "description": "Creatures who hear in double near DC 12 CHA or paralyzed for 1d4 rounds."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Scorpion",
+    "description": "Desert-dwelling arachnids with pincers and curved tail stingers.",
+    "level": 0,
+    "alignment": "Neutral",
+    "ac": 11,
+    "armor_type": "",
+    "hp": 1,
+    "movement": "near (climb)",
+    "attack": "1 sting +1 (1 + poison)",
+    "stats": {
+      "str": -4,
+      "dex": 1,
+      "con": 0,
+      "int": -4,
+      "wis": 0,
+      "cha": -4
+    },
+    "actions": [
+      {
+        "name": "Poison",
+        "description": "DC 9 CON or go to 0 HP."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Scorpion, Giant",
+    "description": "Chitin-plated scorpions as big as camels.",
+    "level": 3,
+    "alignment": "Neutral",
+    "ac": 14,
+    "armor_type": "",
+    "hp": 13,
+    "movement": "near (climb)",
+    "attack": "1 claw +2 (1d6 + grab) and 1 sting +2 (1d4 + poison)",
+    "stats": {
+      "str": 2,
+      "dex": 2,
+      "con": 0,
+      "int": -4,
+      "wis": 0,
+      "cha": -4
+    },
+    "actions": [
+      {
+        "name": "Grab",
+        "description": "DC 12 STR or target held. DC 12 STR on turn to break free."
+      },
+      {
+        "name": "Poison",
+        "description": "DC 12 CON or go to 0 HP."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Shadow",
+    "description": "Flitting, sentient shadows in the vague shape of a human.",
+    "level": 3,
+    "alignment": "Chaotic",
+    "ac": 12,
+    "armor_type": "",
+    "hp": 15,
+    "movement": "near (fly)",
+    "attack": "2 touch +2 (1d4 + drain)",
+    "stats": {
+      "str": -4,
+      "dex": 2,
+      "con": 2,
+      "int": -2,
+      "wis": 0,
+      "cha": -1
+    },
+    "actions": [
+      {
+        "name": "Drain",
+        "description": "Target takes 1 STR damage. At 0 STR, target dies and becomes a shadow."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Shambling Mound",
+    "description": "Fetid piles of slimy vegetation animated to life by lightning.",
+    "level": 4,
+    "alignment": "Neutral",
+    "ac": 14,
+    "armor_type": "",
+    "hp": 20,
+    "movement": "near",
+    "attack": "2 slam +3 (1d6 + engulf)",
+    "stats": {
+      "str": 3,
+      "dex": -2,
+      "con": 2,
+      "int": -3,
+      "wis": 0,
+      "cha": -3
+    },
+    "actions": [
+      {
+        "name": "Impervious",
+        "description": "Fire immune."
+      },
+      {
+        "name": "Engulf",
+        "description": "If a target is hit by both slams in same round, it is pulled into shambling mound's body and suffocates in 2d4 rounds. DC 15 STR on turn to escape."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Shark",
+    "description": "Bloodthirsty apex predators of the sea. Gray, torpedo-like body.",
+    "level": 3,
+    "alignment": "Neutral",
+    "ac": 11,
+    "armor_type": "",
+    "hp": 15,
+    "movement": "near (swim)",
+    "attack": "1 bite +3 (1d10)",
+    "stats": {
+      "str": 3,
+      "dex": 1,
+      "con": 2,
+      "int": -3,
+      "wis": 1,
+      "cha": -3
+    },
+    "actions": [],
+    "source": "Core"
+  },
+  {
+    "name": "Shark, Megalodon",
+    "description": "Primordial sharks the size of whales. Savage hunters.",
+    "level": 8,
+    "alignment": "Neutral",
+    "ac": 13,
+    "armor_type": "",
+    "hp": 38,
+    "movement": "double near (swim)",
+    "attack": "3 bite +7 (2d8)",
+    "stats": {
+      "str": 5,
+      "dex": 1,
+      "con": 2,
+      "int": -3,
+      "wis": 1,
+      "cha": -3
+    },
+    "actions": [
+      {
+        "name": "Fearless",
+        "description": "Immune to morale checks."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Siren",
+    "description": "Baleful fey with dove wings and iridescent fish scales. Their singing entrances listeners.",
+    "level": 4,
+    "alignment": "Chaotic",
+    "ac": 12,
+    "armor_type": "",
+    "hp": 18,
+    "movement": "near (swim",
+    "attack": "2 claw +2 (1d6) or 1 song",
+    "stats": {
+      "str": 0,
+      "dex": 2,
+      "con": 0,
+      "int": 2,
+      "wis": 2,
+      "cha": 4
+    },
+    "actions": [
+      {
+        "name": "Song",
+        "description": "Enemies who can hear within double near DC 15 CHA or paralyzed 1d4 rounds. Immune for 1 day if passed check."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Skeleton",
+    "description": "A bleach-boned skeleton with red pinpoints of light in its eyes.",
+    "level": 2,
+    "alignment": "Chaotic",
+    "ac": 13,
+    "armor_type": "chainmail",
+    "hp": 11,
+    "movement": "near",
+    "attack": "1 shortsword +1 (1d6) or 1 shortbow (far) +0 (1d4)",
+    "stats": {
+      "str": 1,
+      "dex": 0,
+      "con": 2,
+      "int": -2,
+      "wis": 0,
+      "cha": -1
+    },
+    "actions": [
+      {
+        "name": "Undead",
+        "description": "Immune to morale checks."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Smilodon",
+    "description": "Prehistoric tigers with long canine fangs. They hunt in grasslands and ice fields.",
+    "level": 3,
+    "alignment": "Neutral",
+    "ac": 12,
+    "armor_type": "",
+    "hp": 14,
+    "movement": "near",
+    "attack": "2 bite +3 (1d6)",
+    "stats": {
+      "str": 3,
+      "dex": 2,
+      "con": 1,
+      "int": -3,
+      "wis": 1,
+      "cha": -3
+    },
+    "actions": [],
+    "source": "Core"
+  },
+  {
+    "name": "Snake, Cobra",
+    "description": "A weaving serpent with a neck hood and lethal venom.",
+    "level": 1,
+    "alignment": "Neutral",
+    "ac": 12,
+    "armor_type": "",
+    "hp": 4,
+    "movement": "near",
+    "attack": "1 bite +2 (1 + poison)",
+    "stats": {
+      "str": -3,
+      "dex": 2,
+      "con": 0,
+      "int": -3,
+      "wis": 0,
+      "cha": -3
+    },
+    "actions": [
+      {
+        "name": "Poison",
+        "description": "DC 18 CON or go to 0 HP with a death timer of 1."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Snake, Giant",
+    "description": "An enormous, mottled serpent that can swallow a cow whole.",
+    "level": 5,
+    "alignment": "Neutral",
+    "ac": 12,
+    "armor_type": "",
+    "hp": 23,
+    "movement": "near (climb)",
+    "attack": "2 bite +4 (1d6) and 1 constrict (near)",
+    "stats": {
+      "str": 3,
+      "dex": 2,
+      "con": 1,
+      "int": -2,
+      "wis": 0,
+      "cha": -2
+    },
+    "actions": [
+      {
+        "name": "Constrict",
+        "description": "Contested STR to hold target immobile for one round."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Snake, Swarm",
+    "description": "A roiling wave of snakes darting and flowing across the ground.",
+    "level": 4,
+    "alignment": "Neutral",
+    "ac": 12,
+    "armor_type": "",
+    "hp": 19,
+    "movement": "near",
+    "attack": "3 bite +2 (1d4 + poison)",
+    "stats": {
+      "str": -3,
+      "dex": 2,
+      "con": 1,
+      "int": -3,
+      "wis": 0,
+      "cha": -3
+    },
+    "actions": [
+      {
+        "name": "Poison",
+        "description": "DC 12 CON or go to 0 HP in 1d4 rounds."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Soldier",
+    "description": "An armed footsoldier trained in the ways of battlefield combat.",
+    "level": 2,
+    "alignment": "Lawful",
+    "ac": 15,
+    "armor_type": "",
+    "hp": 10,
+    "movement": "near",
+    "attack": "1 longsword +2 (1d8) or 1 crossbow (far) +1 (1d6)",
+    "stats": {
+      "str": 1,
+      "dex": 0,
+      "con": 1,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+    },
+    "actions": [],
+    "source": "Core"
+  },
+  {
+    "name": "Sphinx",
+    "description": "A winged, leonine oracle who can see into time and space and often speaks in riddles. Lives in isolated mountains.",
+    "level": 9,
+    "alignment": "Lawful",
+    "ac": 16,
+    "armor_type": "",
+    "hp": 42,
+    "movement": "double near (fly)",
+    "attack": "3 claw +7 (1d10) or 2 spell +5",
+    "stats": {
+      "str": 4,
+      "dex": 1,
+      "con": 2,
+      "int": 4,
+      "wis": 4,
+      "cha": 3
+    },
+    "actions": [
+      {
+        "name": "Roar",
+        "description": "In place of attacks, all creatures who can hear within far DC 18 CHA or paralyzed 1d4 rounds."
+      },
+      {
+        "name": "Gate (WIS Spell)",
+        "description": "DC 14. Open a portal at a point within near to another location on any plane. Lasts 1d6 rounds or until dismissed."
+      },
+      {
+        "name": "Omens (WIS Spell)",
+        "description": "DC 12. Self. ADV on all actions for 1d4 rounds."
+      },
+      {
+        "name": "Riddle (WIS Spell)",
+        "description": "DC 12. One target in far DC 15 INT or stupefied 1d4 rounds."
+      },
+      {
+        "name": "Time Bend (WIS Spell)",
+        "description": "DC 14. One target in near frozen in time for 1d4 rounds."
+      },
+      {
+        "name": "Unmake (WIS Spell)",
+        "description": "DC 13. One target in far takes 3d8 damage."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Spider",
+    "description": "Silent, web-weaving arachnids with a flesh-dissolving venom.",
+    "level": 0,
+    "alignment": "Neutral",
+    "ac": 11,
+    "armor_type": "",
+    "hp": 1,
+    "movement": "near (climb)",
+    "attack": "2 bite +1 (1 + poison)",
+    "stats": {
+      "str": -4,
+      "dex": 1,
+      "con": 0,
+      "int": -4,
+      "wis": 0,
+      "cha": -4
+    },
+    "actions": [
+      {
+        "name": "Poison",
+        "description": "DC 9 CON or take 1d4 damage."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Spider, Giant",
+    "description": "Bulbous abdomen and eight, spindly legs. Dwells high in trees or caves and ambushes prey, capturing them to eat later.",
+    "level": 3,
+    "alignment": "Neutral",
+    "ac": 13,
+    "armor_type": "",
+    "hp": 13,
+    "movement": "near (climb)",
+    "attack": "1 bite +3 (1d4 + poison)",
+    "stats": {
+      "str": 2,
+      "dex": 3,
+      "con": 0,
+      "int": -2,
+      "wis": 1,
+      "cha": -2
+    },
+    "actions": [
+      {
+        "name": "Poison",
+        "description": "DC 12 CON or paralyzed 1d4 hours."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Spider, Swarm",
+    "description": "A scurrying carpet of spiders.",
+    "level": 2,
+    "alignment": "Neutral",
+    "ac": 13,
+    "armor_type": "",
+    "hp": 9,
+    "movement": "near (climb)",
+    "attack": "1 bite +3 (1d4 + poison)",
+    "stats": {
+      "str": -1,
+      "dex": 3,
+      "con": 0,
+      "int": -3,
+      "wis": 1,
+      "cha": -3
+    },
+    "actions": [
+      {
+        "name": "Poison",
+        "description": "DC 12 CON or paralyzed 1d4 rounds."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Stingbat",
+    "description": "Darting, orange insect-bat with four wings and needlelike beak.",
+    "level": 1,
+    "alignment": "Neutral",
+    "ac": 12,
+    "armor_type": "",
+    "hp": 4,
+    "movement": "near (fly)",
+    "attack": "1 beak +2 (1d4 + blood drain)",
+    "stats": {
+      "str": -2,
+      "dex": 2,
+      "con": 0,
+      "int": -2,
+      "wis": 0,
+      "cha": -2
+    },
+    "actions": [
+      {
+        "name": "Blood Drain",
+        "description": "Attach to bitten target; auto-hit the next round. DC 9 STR on turn to remove."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Strangler",
+    "description": "A gray-skinned, gaunt creature with four ropy limbs tipped in sucker-lined claws.",
+    "level": 3,
+    "alignment": "Chaotic",
+    "ac": 12,
+    "armor_type": "",
+    "hp": 14,
+    "movement": "near (climb)",
+    "attack": "2 claws +2 (1d6)",
+    "stats": {
+      "str": -2,
+      "dex": 2,
+      "con": 1,
+      "int": -2,
+      "wis": 0,
+      "cha": -2
+    },
+    "actions": [
+      {
+        "name": "Stealthy",
+        "description": "ADV on DEX checks to sneak and hide."
+      },
+      {
+        "name": "Strangle",
+        "description": "Deals x2 damage against surprised creatures. THE TEN-EYED ORACLE"
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "The Tarrasque",
+    "description": "A colossal, four-legged reptile with crocodilian jaws, amber scales, and a diamond-hard, spiked carapace. It towers overhead like a mountain, able to swallow entire villages in one gulp. The tarrasque hibernates deep in the earth or at the bottom of the sea for centuries, only awakening long enough to fill its vast belly in an indiscriminate rampage of terror and destruction. There is only one tarrasque, and it is the most dreaded creature to walk the earth.",
+    "level": 30,
+    "alignment": "Neutral",
+    "ac": 22,
+    "armor_type": "",
+    "hp": 140,
+    "movement": "triple near (burrow",
+    "attack": "4 thrash (near) +13 (3d10 + sever) and 1 bite (near) +13 (5d10 + sever + swallow)",
+    "stats": {
+      "str": 7,
+      "dex": 2,
+      "con": 5,
+      "int": -3,
+      "wis": 1,
+      "cha": -3
+    },
+    "actions": [
+      {
+        "name": "Legendary",
+        "description": "Only damaged by magical sources. Hostile spells targeting the tarrasque are DC 18 to cast."
+      },
+      {
+        "name": "Deep Dweller",
+        "description": "Immune to harm from fire and cold. Amphibious."
+      },
+      {
+        "name": "Permanent Death",
+        "description": "Cannot be permanently killed unless a wish spell is cast on it while it is at 0 HP."
+      },
+      {
+        "name": "Rampage",
+        "description": "In place of attacks, move far in a straight line and make one bite attack. On a hit, triple damage."
+      },
+      {
+        "name": "Reflective Carapace",
+        "description": "Immune to rays, blasts, or bolts of energy. 1:6 chance these are reflected back at their originator."
+      },
+      {
+        "name": "Regeneration",
+        "description": "Regains 4d10 lost HP at the beginning of its turn."
+      },
+      {
+        "name": "Sever",
+        "description": "On a natural attack roll of 18+, the attack also severs a random limb. 1d6: 1. Head, 2-4. Arm, 5-6. Leg."
+      },
+      {
+        "name": "Swallow",
+        "description": "DC 18 STR or swallowed whole. Total darkness inside and 4d10 damage per round. Tarrasque regurgitates all swallowed if dealt at least 30 damage in one round to the inside of its gullet."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "The Ten-Eyed Oracle",
+    "description": "A floating mass of rubbery skin crusted with barnacles. Its ten eyestalks writhe like snakes, and a deep, circular scar mars its central body,linding what was once a large eye above a lipless maw. The Ten-Eyed Oracle stalks the Shadowdark, burbling mad ,prophesies and somehow moving freely between the lightless fathoms of the earth. The keepers of the deep lore suspect The Ten-Eyed Oracle was once a benevolent ally of mankind, but an unknown calamity drove it to insanity and reckless hatred.",
+    "level": 3,
+    "alignment": "Chaotic",
+    "ac": 12,
+    "armor_type": "",
+    "hp": 14,
+    "movement": "near (climb)",
+    "attack": "2 claws +2 (1d6)",
+    "stats": {
+      "str": -2,
+      "dex": 2,
+      "con": 1,
+      "int": -2,
+      "wis": 0,
+      "cha": -2
+    },
+    "actions": [
+      {
+        "name": "Legendary",
+        "description": "Only damaged by magical sources. Hostile spells targeting The Ten-Eyed Oracle are DC 18 to cast."
+      },
+      {
+        "name": "Eyestalk Ray",
+        "description": "Each ray can shoot once per round and target one creature or an object up to 1,000 pounds (up to four on same target).\n\n1. Charm. DC 15 CHA or become ally for 1d4 rounds.\n2. Hold. DC 15 STR or paralyzed 1d4 rounds.\n3. Sleep. DC 15 WIS or asleep 1d4 rounds.\n4. Polymorph. DC 15 INT or turned into vermin for 1d4 rounds.\n5. Cancel. DC 15 DEX or all magical effects on target end.\n6. Confusion. DC 15 WIS or attack a random ally within near.\n7. Telekinesis. DC 15 STR or hover target up to double near.\n8. Disintegrate. DC 15 DEX or 5d8 damage (object destroyed).\n9. Petrify. DC 15 CON or petrified.\n10. Death. DC 15 CON or drop to 0 HP with a death timer of 1."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "The Wandering Merchant",
+    "description": "A cheerful merchant who appears to be a hale, middle-aged human man with a handlebar mustache. He wears a white shirt, breeches, and leather apron, and he hauls a towering backpack bursting at the seams. Few know the merchant's true nature and origins, though some theorize he is an immortal being or a god (they are not entirely incorrect). The Wandering Merchant always has something useful, far-flung, or incredible to sell at a reasonable price, and there's no telling when or where he'll show up next...",
+    "level": 15,
+    "alignment": "Lawful",
+    "ac": 16,
+    "armor_type": "mithral chainmail",
+    "hp": 71,
+    "movement": "near",
+    "attack": "4 +3 vorpal bastard sword +9 (1d10 + lop)",
+    "stats": {
+      "str": 3,
+      "dex": 3,
+      "con": 4,
+      "int": 3,
+      "wis": 4,
+      "cha": 5
+    },
+    "actions": [
+      {
+        "name": "Legendary",
+        "description": "Only damaged by magical sources. Hostile spells targeting The Wandering Merchant are DC 18 to cast."
+      },
+      {
+        "name": "Amulet of Rahm-Hotep",
+        "description": "In place of attacks, teleport to a random location in the multiverse."
+      },
+      {
+        "name": "Bottomless Bag",
+        "description": "Contains 200 gear slots in magical sub-pockets."
+      },
+      {
+        "name": "Weighs as much as a normal backpack",
+        "description": "The Wandering Merchant can summon it to himself from anywhere by snapping his fingers."
+      },
+      {
+        "name": "Dice of Truth",
+        "description": "A set of three six-sided dice whose rolls cannot be magically or mundanely altered in any way."
+      },
+      {
+        "name": "Lop",
+        "description": "On a natural attack roll of 18-20, behead the target."
+      },
+      {
+        "name": "Reckoning",
+        "description": "Any creature who steals from The Wandering Merchant develops a curse. Over the next 2d8 days, that creature turns into a cockatrice. This curse can only be lifted by a wish spell or by returning the stolen goods."
+      },
+      {
+        "name": "Strange Lands",
+        "description": "The Wandering Merchant does not suffer any ill effects from the natural environment he does not wish to suffer."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Thief",
+    "description": "A cat burglar in a black cloak.",
+    "level": 3,
+    "alignment": "Neutral",
+    "ac": 13,
+    "armor_type": "leather",
+    "hp": 13,
+    "movement": "near",
+    "attack": "1 dagger (close/near) +2 (1d4) or 1 shortsword +0 (1d6)",
+    "stats": {
+      "str": 0,
+      "dex": 2,
+      "con": 0,
+      "int": 0,
+      "wis": 0,
+      "cha": 1
+    },
+    "actions": [
+      {
+        "name": "Stealthy",
+        "description": "ADV on DEX checks to sneak and hide."
+      },
+      {
+        "name": "Backstab",
+        "description": "Deal x2 damage against surprised creatures."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Thug",
+    "description": "A bruised and boorish ruffian.",
+    "level": 1,
+    "alignment": "Chaotic",
+    "ac": 13,
+    "armor_type": "",
+    "hp": 4,
+    "movement": "near",
+    "attack": "1 shortsword +1 (1d6)",
+    "stats": {
+      "str": 1,
+      "dex": 0,
+      "con": 0,
+      "int": -1,
+      "wis": 1,
+      "cha": -1
+    },
+    "actions": [],
+    "source": "Core"
+  },
+  {
+    "name": "Treant",
+    "description": "Peaceful, slow-moving trees with merry eyes and tremulous voices. They protect the forest.",
+    "level": 8,
+    "alignment": "Neutral",
+    "ac": 14,
+    "armor_type": "",
+    "hp": 38,
+    "movement": "near",
+    "attack": "3 slam +8 (1d10) or 1 rock (far) +8 (2d12)",
+    "stats": {
+      "str": 4,
+      "dex": -1,
+      "con": 2,
+      "int": 2,
+      "wis": 3,
+      "cha": 1
+    },
+    "actions": [
+      {
+        "name": "Animate Tree",
+        "description": "2/day. In place of attacks, one tree within near awakens as a treant ally without this ability. Reverts back in 1 day."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Triceratops",
+    "description": "Plodding herbivores with a wide, bony skull frill and three horns.",
+    "level": 7,
+    "alignment": "Neutral",
+    "ac": 17,
+    "armor_type": "",
+    "hp": 35,
+    "movement": "near",
+    "attack": "2 horns +6 (1d10) or 1 charge",
+    "stats": {
+      "str": 4,
+      "dex": -1,
+      "con": 4,
+      "int": -3,
+      "wis": 1,
+      "cha": -3
+    },
+    "actions": [
+      {
+        "name": "Charge",
+        "description": "Move up to double near in straight line and make 1 horn attack. If hit, x3 damage."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Troll",
+    "description": "Green, lanky giants with warty skin and territorial rage. Lair in deep forests and swamps.",
+    "level": 5,
+    "alignment": "Chaotic",
+    "ac": 12,
+    "armor_type": "",
+    "hp": 24,
+    "movement": "near",
+    "attack": "2 claw +4 (1d6) and 1 bite +4 (1d10)",
+    "stats": {
+      "str": 3,
+      "dex": 2,
+      "con": 2,
+      "int": -1,
+      "wis": 0,
+      "cha": -1
+    },
+    "actions": [
+      {
+        "name": "Regenerate",
+        "description": "Regains 2d6 HP on its turn unless its wounds are cauterized with fire or acid."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Troll, Frost",
+    "description": "Rime-covered trolls with blue skin and flinty, black eyes. They stalk arctic lands and frozen boreal forests.",
+    "level": 7,
+    "alignment": "Chaotic",
+    "ac": 13,
+    "armor_type": "",
+    "hp": 34,
+    "movement": "near",
+    "attack": "2 claw +5 (1d8) and 1 bite +5 (1d12)",
+    "stats": {
+      "str": 3,
+      "dex": 2,
+      "con": 3,
+      "int": -1,
+      "wis": 0,
+      "cha": -1
+    },
+    "actions": [
+      {
+        "name": "Impervious",
+        "description": "Cold and fire immune."
+      },
+      {
+        "name": "Regenerate",
+        "description": "Regains 2d6 HP on its turn unless its wounds are cauterized with acid."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Tyrannosaurus",
+    "description": "Towering, bipedal lizards with a massive head, jaws, and neck.",
+    "level": 9,
+    "alignment": "Neutral",
+    "ac": 13,
+    "armor_type": "",
+    "hp": 44,
+    "movement": "double near",
+    "attack": "3 bite +8 (2d12)",
+    "stats": {
+      "str": 5,
+      "dex": 1,
+      "con": 4,
+      "int": -3,
+      "wis": 1,
+      "cha": -3
+    },
+    "actions": [],
+    "source": "Core"
+  },
+  {
+    "name": "Unicorn",
+    "description": "A silvery horse with a flowing mane and a single spiral horn.",
+    "level": 4,
+    "alignment": "Lawful",
+    "ac": 12,
+    "armor_type": "",
+    "hp": 20,
+    "movement": "double near",
+    "attack": "1 hooves +3 (1d6)",
+    "stats": {
+      "str": 3,
+      "dex": 2,
+      "con": 2,
+      "int": 1,
+      "wis": 2,
+      "cha": 3
+    },
+    "actions": [
+      {
+        "name": "Healing Horn",
+        "description": "A touch heals 2d6 HP or ends one curse or disease."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Vampire",
+    "description": "Pale, blood-drinking undead of supreme power and wickedness. They loathe sunlight and protect their coffins at all costs.",
+    "level": 11,
+    "alignment": "Chaotic",
+    "ac": 15,
+    "armor_type": "",
+    "hp": 52,
+    "movement": "near (climb)",
+    "attack": "3 bite +7 (1d8 + blood drain) or 1 charm",
+    "stats": {
+      "str": 4,
+      "dex": 3,
+      "con": 3,
+      "int": 1,
+      "wis": 3,
+      "cha": 4
+    },
+    "actions": [
+      {
+        "name": "Supreme Undead",
+        "description": "Immune to morale checks. Only damaged by magical sources."
+      },
+      {
+        "name": "Blood Drain",
+        "description": "Vampire heals 2d6 HP and target permanently loses 1d4 CON. At 0 CON, target dies and rises as vampire or vampire spawn (vampire chooses)."
+      },
+      {
+        "name": "Charm",
+        "description": "One humanoid target who can see vampire within near, DC 15 CHA or under vampire's control for 1d4 days."
+      },
+      {
+        "name": "Shapechange",
+        "description": "In place of attacks, turn into a bat, wolf, or back into regular form."
+      },
+      {
+        "name": "Vampire",
+        "description": "Must sleep in a coffin daily or loses 2d6 HP each day that can't be healed until resting in coffin. Takes 3d8 damage each round while in direct sunlight. Cannot be killed unless pierced through heart with a wooden stake while at 0 HP."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Vampire Spawn",
+    "description": "Lesser, feral vampires born from the bite of their vampiric sires. Bloodthirsty and savage. They rarely leave a victim alive.",
+    "level": 5,
+    "alignment": "Chaotic",
+    "ac": 13,
+    "armor_type": "leather",
+    "hp": 25,
+    "movement": "near (climb)",
+    "attack": "2 bite +4 (1d8 + blood drain)",
+    "stats": {
+      "str": 3,
+      "dex": 2,
+      "con": 3,
+      "int": -1,
+      "wis": 1,
+      "cha": 2
+    },
+    "actions": [
+      {
+        "name": "Greater Undead",
+        "description": "Immune to morale checks. Only damaged by silver or magical sources."
+      },
+      {
+        "name": "Blood Drain",
+        "description": "Vampire heals 2d6 HP and target permanently loses 1d4 CON. At 0 CON, target dies and rises as a vampire spawn."
+      },
+      {
+        "name": "Vampire",
+        "description": "Must sleep in a coffin daily or loses 2d6 HP each day that can't be healed until resting in coffin. Takes 3d8 damage each round while in direct sunlight. Cannot be killed unless pierced through heart with a wooden stake while at 0 HP."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Velociraptor",
+    "description": "Fast, turkey-sized raptors with vicious toe claws. Pack hunters.",
+    "level": 2,
+    "alignment": "Neutral",
+    "ac": 13,
+    "armor_type": "",
+    "hp": 10,
+    "movement": "double near",
+    "attack": "1 claw +3 (1d6)",
+    "stats": {
+      "str": -1,
+      "dex": 3,
+      "con": 1,
+      "int": -2,
+      "wis": 1,
+      "cha": -3
+    },
+    "actions": [
+      {
+        "name": "Clever",
+        "description": "+1d4 damage when attacking with surprise."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Violet Fungus",
+    "description": "Child-sized, creeping fungi with neon purple caps. Their whiplike roots decompose living flesh.",
+    "level": 2,
+    "alignment": "Neutral",
+    "ac": 7,
+    "armor_type": "",
+    "hp": 9,
+    "movement": "close",
+    "attack": "2 tendril (near) +0 (1d4)",
+    "stats": {
+      "str": -3,
+      "dex": -2,
+      "con": 0,
+      "int": -4,
+      "wis": -3,
+      "cha": -4
+    },
+    "actions": [],
+    "source": "Core"
+  },
+  {
+    "name": "Viperian",
+    "description": "Lithe, snake-headed people with cobra hoods and emerald green scales covering their bodies.",
+    "level": 3,
+    "alignment": "Chaotic",
+    "ac": 13,
+    "armor_type": "",
+    "hp": 13,
+    "movement": "near",
+    "attack": "2 scimitar +2 (1d6) or 1 javelin (close/far) +2 (1d4)",
+    "stats": {
+      "str": 1,
+      "dex": 1,
+      "con": 0,
+      "int": 0,
+      "wis": 1,
+      "cha": 0
+    },
+    "actions": [],
+    "source": "Core"
+  },
+  {
+    "name": "Viperian, Ophid",
+    "description": "A giant anaconda body merges into a humanoid torso with a large snake head. It wears golden torcs and strings of glittering moonstones.",
+    "level": 6,
+    "alignment": "Chaotic",
+    "ac": 14,
+    "armor_type": "",
+    "hp": 28,
+    "movement": "near (climb)",
+    "attack": "3 falchion +5 (1d10) or 2 longbow (far) +3 (1d8)",
+    "stats": {
+      "str": 4,
+      "dex": 2,
+      "con": 1,
+      "int": 1,
+      "wis": 1,
+      "cha": 1
+    },
+    "actions": [
+      {
+        "name": "Impervious",
+        "description": "Can only be harmed by magical sources."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Viperian, Wizard",
+    "description": "Thin viperians with scales tinged in black. They wear silk robes and silver, serpentine jewelry.",
+    "level": 8,
+    "alignment": "Chaotic",
+    "ac": 13,
+    "armor_type": "",
+    "hp": 37,
+    "movement": "near",
+    "attack": "1 dagger (close/ near) +2 (1d4) or 2 spell +5",
+    "stats": {
+      "str": 0,
+      "dex": 1,
+      "con": 0,
+      "int": 3,
+      "wis": 1,
+      "cha": 1
+    },
+    "actions": [
+      {
+        "name": "Hiss (INT Spell)",
+        "description": "DC 12. End one spell within far."
+      },
+      {
+        "name": "Summon Cobra (INT Spell)",
+        "description": "DC 13. Summon 1d4 loyal cobras that appear within near. They leave in 1d4 rounds."
+      },
+      {
+        "name": "Venom (INT Spell)",
+        "description": "DC 12. One target in far takes 2d8 damage."
+      },
+      {
+        "name": "Whispers (INT Spell)",
+        "description": "DC 14. Focus. All enemies within near of viperian wizard have DISADV on spellcasting checks for the duration."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Void Spawn",
+    "description": "Scythe-like limbs jut from a purple bulb as big as an ogre. Its lower half is a nest of tentacles.",
+    "level": 7,
+    "alignment": "Chaotic",
+    "ac": 13,
+    "armor_type": "",
+    "hp": 34,
+    "movement": "near (fly)",
+    "attack": "2 scythe +6 (1d10) and 1 tentacles +6 (1d12 + toxin)",
+    "stats": {
+      "str": 4,
+      "dex": 1,
+      "con": 3,
+      "int": 0,
+      "wis": 1,
+      "cha": -1
+    },
+    "actions": [
+      {
+        "name": "Impervious",
+        "description": "Immune to cold."
+      },
+      {
+        "name": "Toxin",
+        "description": "DC 12 CON or paralyzed for 1d4 rounds."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Void Spider",
+    "description": "Pale, horse-sized arachnids that become ghostly and intangible.",
+    "level": 5,
+    "alignment": "Chaotic",
+    "ac": 13,
+    "armor_type": "",
+    "hp": 23,
+    "movement": "near (climb)",
+    "attack": "2 bite +4 (1d8 + poison)",
+    "stats": {
+      "str": 3,
+      "dex": 3,
+      "con": 1,
+      "int": -1,
+      "wis": 1,
+      "cha": -2
+    },
+    "actions": [
+      {
+        "name": "Impervious",
+        "description": "Immune to cold."
+      },
+      {
+        "name": "Phase",
+        "description": "Once per round, become corporeal or incorporeal."
+      },
+      {
+        "name": "Poison",
+        "description": "DC 12 CON or drop to 0 HP in 1d4 rounds."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Vulture",
+    "description": "Scavenger birds with black feathers, hunched backs, and bald heads.",
+    "level": 1,
+    "alignment": "Neutral",
+    "ac": 10,
+    "armor_type": "",
+    "hp": 5,
+    "movement": "near (fly)",
+    "attack": "1 tear +1 (1d4)",
+    "stats": {
+      "str": 1,
+      "dex": 0,
+      "con": 1,
+      "int": -3,
+      "wis": 1,
+      "cha": -3
+    },
+    "actions": [
+      {
+        "name": "Carrion Tracker",
+        "description": "Can track dead flesh unerringly within a mile."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Wasp, Giant",
+    "description": "Man-sized wasps with glossy, yellow-striped abdomens.",
+    "level": 2,
+    "alignment": "Neutral",
+    "ac": 13,
+    "armor_type": "",
+    "hp": 9,
+    "movement": "near (fly)",
+    "attack": "1 sting +3 (1d6 + venom)",
+    "stats": {
+      "str": 1,
+      "dex": 3,
+      "con": 0,
+      "int": -3,
+      "wis": 0,
+      "cha": -3
+    },
+    "actions": [
+      {
+        "name": "Venom",
+        "description": "DC 9 CON or go to 0 HP."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Wererat",
+    "description": "A slinking, rat-faced humanoid covered in mangy fur.",
+    "level": 3,
+    "alignment": "Chaotic",
+    "ac": 13,
+    "armor_type": "leather",
+    "hp": 14,
+    "movement": "near (climb)",
+    "attack": "2 bite +2 (1d6)",
+    "stats": {
+      "str": 1,
+      "dex": 2,
+      "con": 1,
+      "int": -1,
+      "wis": 1,
+      "cha": -1
+    },
+    "actions": [
+      {
+        "name": "Impervious",
+        "description": "Only damaged by silver or magic sources."
+      },
+      {
+        "name": "Lycanthropy",
+        "description": "If 12 or more damage from the same wererat, contract lycanthropy."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Werewolf",
+    "description": "A bipedal, wolf-faced humanoid covered in brown fur.",
+    "level": 4,
+    "alignment": "Chaotic",
+    "ac": 12,
+    "armor_type": "",
+    "hp": 20,
+    "movement": "double near",
+    "attack": "2 rend +3 (1d6)",
+    "stats": {
+      "str": 3,
+      "dex": 2,
+      "con": 2,
+      "int": 0,
+      "wis": 1,
+      "cha": 0
+    },
+    "actions": [
+      {
+        "name": "Impervious",
+        "description": "Only damaged by silver or magic sources."
+      },
+      {
+        "name": "Lycanthropy",
+        "description": "If 12 or more damage from the same werewolf, contract lycanthropy."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Wight",
+    "description": "A pale, armored undead warrior with sinister intelligence.",
+    "level": 3,
+    "alignment": "Chaotic",
+    "ac": 14,
+    "armor_type": "chainmail",
+    "hp": 15,
+    "movement": "near",
+    "attack": "1 bastard sword +3 (1d10) and 1 life drain +3",
+    "stats": {
+      "str": 3,
+      "dex": 1,
+      "con": 2,
+      "int": 1,
+      "wis": 0,
+      "cha": 3
+    },
+    "actions": [
+      {
+        "name": "Greater Undead",
+        "description": "Immune to morale checks. Only damaged by silver or magical sources."
+      },
+      {
+        "name": "Life Drain",
+        "description": "1d4 CON damage. Death if reduced to 0 CON."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Will-O'-Wisp",
+    "description": "A bobbing marsh light animated by an evil spirit. It tries to lead the living into danger.",
+    "level": 2,
+    "alignment": "Chaotic",
+    "ac": 13,
+    "armor_type": "",
+    "hp": 10,
+    "movement": "near (fly)",
+    "attack": "1 life drain +3",
+    "stats": {
+      "str": -3,
+      "dex": 3,
+      "con": 1,
+      "int": -1,
+      "wis": -1,
+      "cha": -2
+    },
+    "actions": [
+      {
+        "name": "Life Drain",
+        "description": "1d4 CON damage. Death if reduced to 0 CON."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Wolf",
+    "description": "A giant canine with a gray pelt, yellow eyes, and dripping jaws.",
+    "level": 2,
+    "alignment": "Neutral",
+    "ac": 12,
+    "armor_type": "",
+    "hp": 10,
+    "movement": "double near",
+    "attack": "1 bite +2 (1d6)",
+    "stats": {
+      "str": 2,
+      "dex": 2,
+      "con": 1,
+      "int": -2,
+      "wis": 1,
+      "cha": 0
+    },
+    "actions": [
+      {
+        "name": "Pack Hunter",
+        "description": "Deals +1 damage while an ally is close."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Wolf, Dire",
+    "description": "A massive wolf with spines of black bone along its brow ridge and back.",
+    "level": 4,
+    "alignment": "Neutral",
+    "ac": 12,
+    "armor_type": "",
+    "hp": 19,
+    "movement": "double near",
+    "attack": "2 bite +4 (1d8)",
+    "stats": {
+      "str": 3,
+      "dex": 2,
+      "con": 1,
+      "int": -1,
+      "wis": 1,
+      "cha": 0
+    },
+    "actions": [
+      {
+        "name": "Pack Hunter",
+        "description": "Deals +1 damage while an ally is close."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Wolf, Winter",
+    "description": "Sinister, white-pelted wolves with piercing blue eyes. From the fey realms of eternal winter.",
+    "level": 5,
+    "alignment": "Chaotic",
+    "ac": 12,
+    "armor_type": "",
+    "hp": 23,
+    "movement": "double near",
+    "attack": "2 bite +4 (1d6) or 1 frost breath",
+    "stats": {
+      "str": 3,
+      "dex": 2,
+      "con": 1,
+      "int": 0,
+      "wis": 1,
+      "cha": 0
+    },
+    "actions": [
+      {
+        "name": "Impervious",
+        "description": "Cold immune."
+      },
+      {
+        "name": "Frost Breath",
+        "description": "Fills a near-sized cube extending from winter wolf. DC 15 DEX or 3d8 damage."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Worg",
+    "description": "Bat-faced wolves that speak Goblin and often serve as war mounts for goblinkind.",
+    "level": 3,
+    "alignment": "Chaotic",
+    "ac": 11,
+    "armor_type": "",
+    "hp": 14,
+    "movement": "double near",
+    "attack": "1 bite +3 (1d6)",
+    "stats": {
+      "str": 2,
+      "dex": 1,
+      "con": 1,
+      "int": -2,
+      "wis": 1,
+      "cha": -2
+    },
+    "actions": [],
+    "source": "Core"
+  },
+  {
+    "name": "Wraith",
+    "description": "A shadowy spirit seething with anger and malice. Its presence is unsettling to animals.",
+    "level": 8,
+    "alignment": "Chaotic",
+    "ac": 14,
+    "armor_type": "",
+    "hp": 36,
+    "movement": "near (fly)",
+    "attack": "3 death touch +6 (1d10 + life drain)",
+    "stats": {
+      "str": -4,
+      "dex": 4,
+      "con": 0,
+      "int": 0,
+      "wis": 0,
+      "cha": 3
+    },
+    "actions": [
+      {
+        "name": "Greater Undead",
+        "description": "Immune to morale checks. Only damaged by silver or magical sources."
+      },
+      {
+        "name": "Incorporeal",
+        "description": "In place of attacks, become corporeal or incorporeal."
+      },
+      {
+        "name": "Life Drain",
+        "description": "1d4 CON damage. Death if reduced to 0 CON."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Wyvern",
+    "description": "Dragon-cousins with a large tail stinger, mottled lizard skin, and leathery wings.",
+    "level": 8,
+    "alignment": "Neutral",
+    "ac": 15,
+    "armor_type": "",
+    "hp": 37,
+    "movement": "double near (fly)",
+    "attack": "2 rend +6 (1d8) and 1 stinger +6 (1d6 + poison)",
+    "stats": {
+      "str": 4,
+      "dex": 2,
+      "con": 1,
+      "int": -3,
+      "wis": 1,
+      "cha": -3
+    },
+    "actions": [
+      {
+        "name": "Poison",
+        "description": "DC 15 CON or take 2d10 damage."
+      }
+    ],
+    "source": "Core"
+  },
+  {
+    "name": "Zombie",
+    "description": "Lurching and decomposed undead that hunt in mobs.",
+    "level": 2,
+    "alignment": "Chaotic",
+    "ac": 8,
+    "armor_type": "",
+    "hp": 11,
+    "movement": "near",
+    "attack": "1 slam +2 (1d6)",
+    "stats": {
+      "str": 2,
+      "dex": -2,
+      "con": 2,
+      "int": -2,
+      "wis": -2,
+      "cha": -3
+    },
+    "actions": [
+      {
+        "name": "Undead",
+        "description": "Immune to morale checks."
+      },
+      {
+        "name": "Relentless",
+        "description": "If zombie reduced to 0 HP by a non-magical source, DC 15 CON to go to 1 HP instead"
+      }
+    ],
+    "source": "Core"
+  }
+]

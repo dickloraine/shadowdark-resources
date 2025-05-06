@@ -1,0 +1,255 @@
+% ------------------------------------------------------------------------------------- %
+%                                        PACKAGES                                       %
+% ------------------------------------------------------------------------------------- %
+\usepackage[$spacing$]{setspace}
+\usepackage{etoolbox}
+\usepackage[most]{tcolorbox}
+\tcbset{beforeafter skip balanced = 0.5\baselineskip plus 2pt}
+\usepackage{calc}
+\usepackage{xparse}
+\usepackage{tikz}
+\usetikzlibrary{positioning,calc}
+\usepackage{tikzpagenodes}
+\usepackage{enumitem}
+\usepackage[explicit]{titlesec}
+\usepackage{eso-pic}
+\usepackage{multicol}
+$if(toc)$
+\usepackage[toc]{multitoc}
+$endif$
+\usepackage{dblfloatfix}
+\usepackage{scrlayer-scrpage}
+\usepackage{wrapfig}
+\usepackage{tabularray}
+
+% ------------------------------------------------------------------------------------- %
+%                                        GEOMETRY                                       %
+% ------------------------------------------------------------------------------------- %
+\newlength{\sdBleed}
+\newlength{\sdLeftAdjust}
+\newlength{\sdRightAdjust}
+\newlength{\sdTop}
+\newlength{\sdBottom}
+\newlength{\sdLeft}
+\newlength{\sdRight}
+$if(print-publish)$
+\setlength\sdBleed{$pagesizes.bleed$}
+\setlength\sdLeftAdjust{$pagesizes.bcor$}
+\setlength\sdRightAdjust{$pagesizes.bleed$}
+$else$
+\setlength\sdBleed{0cm}
+\setlength\sdLeftAdjust{$pagesizes.bcor$/2}
+\setlength\sdRightAdjust{$pagesizes.bcor$/2}
+$endif$
+\setlength\sdTop{$pagesizes.top$+\sdBleed}
+\setlength\sdBottom{$pagesizes.bottom$+\sdBleed}
+\setlength\sdLeft{$pagesizes.left$+\sdLeftAdjust}
+\setlength\sdRight{$pagesizes.right$+\sdRightAdjust}
+\usepackage[%
+  paperwidth=$pagesizes.width$+\sdBleed,
+  paperheight=$pagesizes.height$+\sdBleed+\sdBleed,
+  top=\sdTop,
+  bottom=\sdBottom,
+  left=\sdLeft,
+  right=\sdRight
+]{geometry}
+
+% ------------------------------------------------------------------------------------- %
+%                                         BASICS                                        %
+% ------------------------------------------------------------------------------------- %
+% ------------------------------------ Text Layout ------------------------------------ %
+$if(justified)$
+$else$
+\usepackage[document]{ragged2e}
+$endif$
+
+% --------------------------------------- Fonts --------------------------------------- %
+\newfontfamily{\displayfont}{$displayfont$}
+
+\usepackage{lettrine}
+\renewcommand\LettrineFontHook{\displayfont}
+
+% -------------------------------------- Spacing -------------------------------------- %
+$if(columnsep)$
+\setlength{\columnsep}{$columnsep$}
+$endif$
+\setlength{\intextsep}{0pt}
+
+% --------------------------------------- Lists --------------------------------------- %
+\setlist[description]{
+  font=\normalfont\bfseries,
+}
+\renewcommand{\labelitemi}{$$\bullet$$}
+\renewcommand{\labelitemii}{\textbullet}
+\renewcommand{\labelitemiii}{\textbullet}
+
+% ------------------------------------ Toc Entries ------------------------------------ %
+\setkomafont{partentry}{\normalfont\large\bfseries}
+\setkomafont{chapterentry}{\normalfont\bfseries}
+
+% ------------------------------------- No Labels ------------------------------------- %
+\renewcommand*{\figureformat}{}
+\renewcommand*{\tableformat}{}
+\renewcommand*{\captionformat}{}
+
+% ------------------------------------ Table Rules ------------------------------------ %
+\renewcommand{\toprule}[2]{}
+\renewcommand{\bottomrule}[2]{}
+
+% --------------------------------------- Footer -------------------------------------- %
+\clearscrheadfoot
+\ofoot*{%
+  \ifthispageodd{%
+    \begin{tikzpicture}[overlay,remember picture]
+      \node[black] at ($$(current page text area.south east)+(0,$page-number-adjustment$)$$) {\pagemark};
+    \end{tikzpicture}%
+  }{%
+    \begin{tikzpicture}[overlay,remember picture]
+      \node[black] at ($$(current page text area.south west)+(0.15,$page-number-adjustment$)$$) {\pagemark};
+    \end{tikzpicture}%
+  }
+}
+
+
+% ------------------------------------------------------------------------------------- %
+%                                       SECTIONING                                      %
+% ------------------------------------------------------------------------------------- %
+\titleclass{\part}{top}
+\titlespacing*{\part}{0pt}{0cm}{0pt}
+\titleformat{\part}[block]%
+  {\fontsize{46}{30}\selectfont\displayfont}%format
+  {}%label
+  {0pt}%sep
+  {%
+    \vspace{-1cm}
+    \begin{center}
+    #1
+  }%before
+  [{%
+    \vspace{-6mm}
+    \includegraphics[width=\linewidth]{$title-line$}
+    \end{center}
+  }]%after
+
+\titleformat{\chapter}[block]
+{}
+{}%label
+{0pt}%sep
+{\begin{tikzpicture}[overlay,remember picture]
+  \fill[black] (current page.north west) rectangle ($$(current page.north east)+(0,-3)-(0,\sdBleed)$$);
+  \node[white] at ($$(current page.north)+(0,-1.5)-(0,\sdBleed)$$) {\fontsize{33}{30} \selectfont\sffamily{#1}};
+\end{tikzpicture}}
+[]%after
+\titlespacing*{\chapter}{0pt}{0pt}{4mm}
+
+\titleformat{\section}[block]%
+  {\Large\bfseries}%format
+  {}%label
+  {0pt}%sep
+  {#1}%before
+  [{\titlerule[1pt]}]%after
+\titlespacing*{\section}{0pt}{0pt}{0pt}
+
+\titleformat{\subsection}[display]%
+{}%format
+{}%label
+{0pt}%sep
+{\colorbox{black}{\parbox{\dimexpr\columnwidth}{\vspace{4pt}\centering\Large\normalfont\bfseries\color{white}#1\vspace{4pt}}}}
+[]%after
+\titlespacing*{\subsection}{0pt}{2pt}{-2pt}
+
+\titleformat{\subsubsection}[display]%
+{\Large\bfseries}%format
+{}%label
+{0pt}%sep
+{#1}%before
+[]%after
+\titlespacing*{\subsubsection}{0pt}{0pt}{-4pt}
+
+\titleformat{\paragraph}[display]%
+{}%format
+{}%label
+{0pt}%sep
+{\colorbox{black}{\parbox{\dimexpr\columnwidth}{\vspace{4pt}\centering\Large\normalfont\bfseries\color{white}#1\vspace{4pt}}}}
+[]%after
+\titlespacing*{\paragraph}{0pt}{2pt}{-8pt}
+
+\titleformat{\subparagraph}[runin]%
+{\large\bfseries}%format
+{}%label
+{0pt}%sep
+{#1}%before
+[{\:}]%after
+\titlespacing*{\subparagraph}{0pt}{0pt}{0pt}
+
+% ------------------------------------------------------------------------------------- %
+%                                         TITLE                                         %
+% ------------------------------------------------------------------------------------- %
+
+% --------------------------------- Titlepage is Cover -------------------------------- %
+\newcommand{\shadowdarkTitlePageAsCover}{%
+  \clearpage
+  \thispagestyle{empty}
+  \begin{center}
+  \vspace*{$title-top-spacing$}
+  \color{black}%
+  \fontsize{46}{30}\selectfont\displayfont{$title$}
+  
+  \vspace{-5mm}
+  $if(subtitle)$
+  \sffamily\normalsize\bfseries{$subtitle$}
+  $endif$
+
+  $if(subtitle)$
+  \vspace{-4mm}
+  $else$
+  \vspace{-2mm}
+  $endif$
+  
+  $if(author)$
+  \sffamily\LARGE\bfseries{$author$}
+  $else$
+  \vspace{4mm}
+  $endif$
+
+  \vfill
+  \end{center}
+
+  \clearpage
+  \normalsize
+}
+
+% -------------------------------------- Backside ------------------------------------- %
+\newcommand{\makelegalback}{%
+  \clearpage
+  \thispagestyle{empty}
+  \begin{center}
+  $if(legal.shadowdark-license)$
+    \small{$legal.shadowdark-license$}
+  
+  $endif$
+  $if(legal.art)$
+    \small{$legal.art$}
+  
+  $endif$
+  $if(legal.fonts)$
+    \small{$legal.fonts$}
+  $endif$
+
+  $if(legal.license)$
+    \phantom{Copyright}
+    \vfill
+    \small{$legal.license$}
+  $endif$
+  \end{center}
+}
+
+% ------------------------------------- Maketitle ------------------------------------- %
+\NewCommandCopy{\oldmaketitle}{\maketitle}
+\renewcommand{\maketitle}{%
+  \shadowdarkTitlePageAsCover
+  $if(legal)$
+    \makelegalback
+  $endif$
+}
+

@@ -1,0 +1,22 @@
+{
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"dev": "vite",
+		"build": "tsc && vite build",
+		"preview": "vite preview",
+		"deploy": "gh-pages -d dist"
+	},
+	"dependencies": {
+		"@tabler/icons-preact": "^3.31.0",
+		"preact": "^10.25.3",
+		"wouter-preact": "^3.7.0"
+	},
+	"devDependencies": {
+		"@preact/preset-vite": "^2.9.3",
+		"gh-pages": "^6.3.0",
+		"typescript": "^5.8.3",
+		"vite": "^6.0.4",
+		"vite-plugin-singlefile": "^2.2.0"
+	}
+}
