@@ -76,7 +76,7 @@ export const Items = () => (
 
 const Item = ({ el }: { el: Item }) => {
   const effects = Object.entries(el).filter(
-    ([k, v]) => k !== 'name' && k !== 'description' && k !== 'item_type'
+    ([k, _]) => k === 'Benefit' || k === 'Curse' || k === 'Bonus' || k === 'Personality'
   );
   return (
     <div class="dataview-entry dataview-entry-item">
