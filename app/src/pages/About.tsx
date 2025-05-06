@@ -15,7 +15,10 @@ export const About = () => {
         <p>
           You can find the source code, a standalone version and the informations
           presented here in different formats in{' '}
-          <a href="https://www.github.com/">this github repository</a>.
+          <a href="https://github.com/dickloraine/shadowdark-resources">
+            this github repository
+          </a>
+          .
         </p>
 
         <h2>Usage</h2>
