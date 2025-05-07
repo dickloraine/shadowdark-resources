@@ -24,10 +24,13 @@ export const About = () => {
         <h2>Usage</h2>
         <p>
           Each page has a filter menu at the top with various options to filter and sort
-          the data. With the rightmost button in this menu you can toggle the display
-          between a single column, two columns and a table view of the data. The button
-          to its left on the bestiary page lets you toggle between showing and hiding
-          the images.
+          the data. On range inputs any of this works: "3", "3-5", "4-", "5+".
+        </p>
+        <p>
+          With the rightmost button in this menu you can toggle the display between a
+          single column, two columns and a table view of the data. The button to its
+          left on the bestiary page lets you toggle between showing and hiding the
+          images.
           <br />
           Clicking on the name of an entry opens its page.
         </p>
