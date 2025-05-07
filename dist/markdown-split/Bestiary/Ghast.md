@@ -2,7 +2,7 @@
 
 _Greater ghouls who retain the intelligence they had in life._
 
-**AC** 11, **HP** 20, **ATK** 2 claw +4 (1d8 + paralyze), **MV** near, **S** 3 **D** 1 **C** 2 **I** 0 **W** 0 **Ch** 2, **AL** C, **LV** 4
+**AC** 11, **HP** 20, **ATK** 2 claw +4 (1d8 + paralyze), **MV** near, **S** +3 **D** +1 **C** +2 **I** +0 **W** +0 **Ch** +2, **AL** C, **LV** 4
 
 **Undead:** Immune to morale checks.
 

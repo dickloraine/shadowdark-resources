@@ -8,7 +8,7 @@ ac: 17
 hp: 61
 ATK: "3 rend +9 (2d10) or 1 lightning breath"
 MV: "double near (fly)"
-Stats: [5, 3, 3, 4, 5, 5]
+Stats: [+5, +3, +3, +4, +5, +5]
 AL: L
 LV: 13
 Source: "Core"
@@ -31,7 +31,7 @@ _The smell of ozone precedes this desert-dwelling dragon. Its dazzling scales of
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 5 | 3 | 3 | 4 | 5 | 5 |
+| +5 | +3 | +3 | +4 | +5 | +5 |
 
 **Stormblood:** Electricity immune.
 

@@ -2,7 +2,7 @@
 
 _A green, sunken-faced woman. Seaweed hair and oozing flesh._
 
-**AC** 15, **HP** 28, **ATK** 2 claw +4 (1d8), **MV** near (swim), **S** 2 **D** 3 **C** 1 **I** 1 **W** 2 **Ch** 2, **AL** C, **LV** 6
+**AC** 15, **HP** 28, **ATK** 2 claw +4 (1d8), **MV** near (swim), **S** +2 **D** +3 **C** +1 **I** +1 **W** +2 **Ch** +2, **AL** C, **LV** 6
 
 **Shapechange:** Instantly change to look like any other humanoid.
 

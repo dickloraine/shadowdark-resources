@@ -8,7 +8,7 @@ ac: 11
 hp: 15
 ATK: "1 bite +3 (1d10)"
 MV: "near (swim)"
-Stats: [3, 1, 2, -3, 1, -3]
+Stats: [+3, +1, +2, -3, +1, -3]
 AL: N
 LV: 3
 Source: "Core"
@@ -25,5 +25,5 @@ _Bloodthirsty apex predators of the sea. Gray, torpedo-like body._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 1 | 2 | -3 | 1 | -3 |
+| +3 | +1 | +2 | -3 | +1 | -3 |
 

@@ -8,7 +8,7 @@ ac: 16
 hp: 42
 ATK: "3 bite +6 (2d6 + poison)"
 MV: "near (fly)"
-Stats: [2, 3, 2, 4, 4, 5]
+Stats: [+2, +3, +2, +4, +4, +5]
 AL: L
 LV: 9
 Source: "Core"
@@ -31,7 +31,7 @@ _A human-sized snake with scales made of jewels and a corona of iridescent feath
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 3 | 2 | 4 | 4 | 5 |
+| +2 | +3 | +2 | +4 | +4 | +5 |
 
 **Change Shape:** In place of attacks, transform into any similarly-sized creature.
 

@@ -8,7 +8,7 @@ ac: 19
 hp: 76
 ATK: "4 iron scepter +10 (3d10) or 1 soulbind"
 MV: "far (teleport)"
-Stats: [5, 4, 4, 5, 4, 7]
+Stats: [+5, +4, +4, +5, +4, +7]
 AL: C
 LV: 16
 Source: "Core"
@@ -31,7 +31,7 @@ _A stunningly beautiful, horned human with burning, red eyes and a halo of seven
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 5 | 4 | 4 | 5 | 4 | 7 |
+| +5 | +4 | +4 | +5 | +4 | +7 |
 
 **Impervious:** Fire immune. Only damaged by magical sources.
 

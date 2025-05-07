@@ -8,7 +8,7 @@ ac: 16
 hp: 39
 ATK: "2 claw +6 (1d8)"
 MV: "near"
-Stats: [1, 3, 3, 3, 3, 4]
+Stats: [+1, +3, +3, +3, +3, +4]
 AL: C
 LV: 8
 Source: "Core"
@@ -33,7 +33,7 @@ _Demonic illusionists whose true form is of a humanlike great cat with backwards
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 1 | 3 | 3 | 3 | 3 | 4 |
+| +1 | +3 | +3 | +3 | +3 | +4 |
 
 **Impervious:** Only damaged by magical sources. Immune to hostile spells of 3rd tier or lower.
 

@@ -8,7 +8,7 @@ ac: 9
 hp: 20
 ATK: "2 tentacle +3 (1d6)"
 MV: "near (climb)"
-Stats: [2, -1, 2, -4, -3, -4]
+Stats: [+2, -1, +2, -4, -3, -4]
 AL: N
 LV: 4
 Source: "Core"
@@ -29,7 +29,7 @@ _An orange puddle of quivering slime._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | -1 | 2 | -4 | -3 | -4 |
+| +2 | -1 | +2 | -4 | -3 | -4 |
 
 **Split:** If cut or chopped, split into two smaller oozes (divide remaining HP between both).
 

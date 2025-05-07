@@ -8,7 +8,7 @@ ac: 13 (chainmail)
 hp: 11
 ATK: "1 shortsword +1 (1d6) or 1 shortbow (far) +0 (1d4)"
 MV: "near"
-Stats: [1, 0, 2, -2, 0, -1]
+Stats: [+1, +0, +2, -2, +0, -1]
 AL: C
 LV: 2
 Source: "Core"
@@ -29,7 +29,7 @@ _A bleach-boned skeleton with red pinpoints of light in its eyes._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 1 | 0 | 2 | -2 | 0 | -1 |
+| +1 | +0 | +2 | -2 | +0 | -1 |
 
 **Undead:** Immune to morale checks.
 

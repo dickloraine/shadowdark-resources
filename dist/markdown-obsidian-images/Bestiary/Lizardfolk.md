@@ -8,7 +8,7 @@ ac: 14
 hp: 11
 ATK: "1 spear (close/near) +2 (1d6)"
 MV: "near (swim)"
-Stats: [1, 1, 2, -1, 1, -2]
+Stats: [+1, +1, +2, -1, +1, -2]
 AL: C
 LV: 2
 Source: "Core"
@@ -27,5 +27,5 @@ _Crocodilian humanoids with scaly faces, claws, and tails. They dwell in swamps 
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 1 | 1 | 2 | -1 | 1 | -2 |
+| +1 | +1 | +2 | -1 | +1 | -2 |
 

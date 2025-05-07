@@ -4,7 +4,7 @@
 
 _Thin viperians with scales tinged in black. They wear silk robes and silver, serpentine jewelry._
 
-**AC** 13, **HP** 37, **ATK** 1 dagger (close/ near) +2 (1d4) or 2 spell +5, **MV** near, **S** 0 **D** 1 **C** 0 **I** 3 **W** 1 **Ch** 1, **AL** C, **LV** 8
+**AC** 13, **HP** 37, **ATK** 1 dagger (close/ near) +2 (1d4) or 2 spell +5, **MV** near, **S** +0 **D** +1 **C** +0 **I** +3 **W** +1 **Ch** +1, **AL** C, **LV** 8
 
 **Hiss (INT Spell):** DC 12. End one spell within far.
 

@@ -8,7 +8,7 @@ ac: 16 (mithral chainmail)
 hp: 28
 ATK: "3 snake whip (near) +4 (1d8 + poison) or 1 spell +4"
 MV: "near"
-Stats: [2, 3, 1, 3, 4, 3]
+Stats: [+2, +3, +1, +3, +4, +3]
 AL: C
 LV: 6
 Source: "Core"
@@ -35,7 +35,7 @@ _A statuesque female drow with a crown of metal spider webs and an imperious gaz
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 3 | 1 | 3 | 4 | 3 |
+| +2 | +3 | +1 | +3 | +4 | +3 |
 
 **Poison:** DC 15 CON or paralyzed 1d4 rounds.
 

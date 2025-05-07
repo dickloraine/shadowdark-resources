@@ -8,7 +8,7 @@ ac: 12
 hp: 4
 ATK: "1 bite +2 (1 + poison)"
 MV: "near"
-Stats: [-3, 2, 0, -3, 0, -3]
+Stats: [-3, +2, +0, -3, +0, -3]
 AL: N
 LV: 1
 Source: "Core"
@@ -27,7 +27,7 @@ _A weaving serpent with a neck hood and lethal venom._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| -3 | 2 | 0 | -3 | 0 | -3 |
+| -3 | +2 | +0 | -3 | +0 | -3 |
 
 **Poison:** DC 18 CON or go to 0 HP with a death timer of 1.
 

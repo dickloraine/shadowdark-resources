@@ -8,7 +8,7 @@ ac: 14
 hp: 37
 ATK: "2 bite +6 (1d10) and 1 blind"
 MV: "near"
-Stats: [4, 2, 1, 2, 3, 3]
+Stats: [+4, +2, +1, +2, +3, +3]
 AL: C
 LV: 8
 Source: "Core"
@@ -29,7 +29,7 @@ _A purple-skinned, stooped woman with stringy, white hair and a mouth full of ir
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 2 | 1 | 2 | 3 | 3 |
+| +4 | +2 | +1 | +2 | +3 | +3 |
 
 **Blind:** One target within near DC 15 CHA or blinded for 1d4 days.
 

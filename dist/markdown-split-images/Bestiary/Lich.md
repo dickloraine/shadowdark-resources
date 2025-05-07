@@ -4,7 +4,7 @@
 
 _A wizard who has completed a necromantic ritual to become a mighty, undead sorcerer. Its withered body is draped in moldering, silk robes, and red marshlights burn in its eyes._
 
-**AC** 16, **HP** 62, **ATK** 2 touch +6 (2d8 + paralysis) and 2 spell +7, **MV** near, **S** 3 **D** 1 **C** 4 **I** 4 **W** 3 **Ch** 3, **AL** C, **LV** 13
+**AC** 16, **HP** 62, **ATK** 2 touch +6 (2d8 + paralysis) and 2 spell +7, **MV** near, **S** +3 **D** +1 **C** +4 **I** +4 **W** +3 **Ch** +3, **AL** C, **LV** 13
 
 **Supreme Undead:** Immune to morale checks. Only damaged by magical sources.
 

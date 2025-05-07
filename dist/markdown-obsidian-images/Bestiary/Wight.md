@@ -8,7 +8,7 @@ ac: 14 (chainmail)
 hp: 15
 ATK: "1 bastard sword +3 (1d10) and 1 life drain +3"
 MV: "near"
-Stats: [3, 1, 2, 1, 0, 3]
+Stats: [+3, +1, +2, +1, +0, +3]
 AL: C
 LV: 3
 Source: "Core"
@@ -31,7 +31,7 @@ _A pale, armored undead warrior with sinister intelligence._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 1 | 2 | 1 | 0 | 3 |
+| +3 | +1 | +2 | +1 | +0 | +3 |
 
 **Greater Undead:** Immune to morale checks. Only damaged by silver or magical sources.
 

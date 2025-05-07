@@ -8,7 +8,7 @@ ac: 17
 hp: 43
 ATK: "3 greatsword +8 (1d12) or 2 longbow (far) +8 (1d8 + poison)"
 MV: "double near (fly)"
-Stats: [4, 4, 3, 4, 4, 5]
+Stats: [+4, +4, +3, +4, +4, +5]
 AL: C
 LV: 9
 Source: "Core"
@@ -27,7 +27,7 @@ _Raven-winged, resplendent beings in polished, black armor and helms with curved
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 4 | 3 | 4 | 4 | 5 |
+| +4 | +4 | +3 | +4 | +4 | +5 |
 
 **Poison:** DC 15 CON or target's eyes go jet black and it turns on its allies for 1d4 rounds. DC 15 WIS on turn to end effect.
 

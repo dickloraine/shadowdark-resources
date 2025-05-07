@@ -8,7 +8,7 @@ ac: 12
 hp: 23
 ATK: "2 bite +5 (1d8 + stick)"
 MV: "near"
-Stats: [2, 0, 1, -2, 0, -3]
+Stats: [+2, +0, +1, -2, +0, -3]
 AL: N
 LV: 5
 Source: "Core"
@@ -27,7 +27,7 @@ _Beasts that look like objects._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 0 | 1 | -2 | 0 | -3 |
+| +2 | +0 | +1 | -2 | +0 | -3 |
 
 **Stick:** DC 15 STR or adhere to target; auto-hit with bite. DC 15 STR on turn to remove.
 

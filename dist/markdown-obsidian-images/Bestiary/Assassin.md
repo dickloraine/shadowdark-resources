@@ -8,7 +8,7 @@ ac: 15 (leather)
 hp: 38
 ATK: "2 poisoned dagger (close/near) +6 (2d4)"
 MV: "near (climb)"
-Stats: [2, 4, 2, 2, 3, 3]
+Stats: [+2, +4, +2, +2, +3, +3]
 AL: C
 LV: 8
 Source: "Core"
@@ -29,7 +29,7 @@ _A black-cloaked, skulking killer._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 4 | 2 | 2 | 3 | 3 |
+| +2 | +4 | +2 | +2 | +3 | +3 |
 
 **Execute:** Deals x3 damage against surprised targets.
 

@@ -8,7 +8,7 @@ ac: 16
 hp: 20
 ATK: "2 claw +3 (1d6)"
 MV: "near (fly)"
-Stats: [3, 1, 2, 0, 1, -1]
+Stats: [+3, +1, +2, +0, +1, -1]
 AL: C
 LV: 4
 Source: "Core"
@@ -27,7 +27,7 @@ _Leering, winged fiends that look like stone statues. They can hold perfectly st
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 1 | 2 | 0 | 1 | -1 |
+| +3 | +1 | +2 | +0 | +1 | -1 |
 
 **Impervious:** Only damaged by magical sources.
 

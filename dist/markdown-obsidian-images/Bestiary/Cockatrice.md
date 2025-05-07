@@ -8,7 +8,7 @@ ac: 11
 hp: 14
 ATK: "1 bite +1 (1d4 + petrify)"
 MV: "near (fly)"
-Stats: [-2, 1, 1, -3, 1, -3]
+Stats: [-2, +1, +1, -3, +1, -3]
 AL: N
 LV: 3
 Source: "Core"
@@ -29,7 +29,7 @@ _A molting, lizard-chicken hybrid with a crimson, razorlike crest._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| -2 | 1 | 1 | -3 | 1 | -3 |
+| -2 | +1 | +1 | -3 | +1 | -3 |
 
 **Petrify:** DC 12 CON or petrified.
 

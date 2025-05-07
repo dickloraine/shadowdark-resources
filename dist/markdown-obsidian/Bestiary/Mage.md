@@ -8,7 +8,7 @@ ac: 11
 hp: 27
 ATK: "1 spell +5"
 MV: "near"
-Stats: [-1, 1, 0, 3, 1, 0]
+Stats: [-1, +1, +0, +3, +1, +0]
 AL: L
 LV: 6
 Source: "Core"
@@ -35,7 +35,7 @@ _Trained wizards who are often members of a sorcerous order._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| -1 | 1 | 0 | 3 | 1 | 0 |
+| -1 | +1 | +0 | +3 | +1 | +0 |
 
 **Arcane Armor (INT Spell):** Self. DC 12. AC 16 for 2d4 rounds.
 

@@ -8,7 +8,7 @@ ac: 13
 hp: 19
 ATK: "2 fist +4 (1d6) or 1 rock (far) +4 (2d6)"
 MV: "near (climb)"
-Stats: [3, 1, 1, -2, 1, 0]
+Stats: [+3, +1, +1, -2, +1, +0]
 AL: N
 LV: 4
 Source: "Core"
@@ -29,7 +29,7 @@ _White-haired, carnivorous gorillas that stalk the high mountains and live in ca
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 1 | 1 | -2 | 1 | 0 |
+| +3 | +1 | +1 | -2 | +1 | +0 |
 
 **Thick Fur:** Cold immune.
 

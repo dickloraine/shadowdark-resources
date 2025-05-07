@@ -8,7 +8,7 @@ ac: 17
 hp: 68
 ATK: "4 rend +9 (2d10) or 1 ice breath"
 MV: "double near (fly)"
-Stats: [4, 3, 5, 3, 4, 3]
+Stats: [+4, +3, +5, +3, +4, +3]
 AL: N
 LV: 14
 Source: "Core"
@@ -31,7 +31,7 @@ _Prismatic ice lines the horns, spines, and wings of this pearly dragon. Clouds 
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 3 | 5 | 3 | 4 | 3 |
+| +4 | +3 | +5 | +3 | +4 | +3 |
 
 **Frostblood:** Cold immune.
 

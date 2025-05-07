@@ -8,7 +8,7 @@ ac: 13
 hp: 38
 ATK: "3 bite +7 (2d8)"
 MV: "double near (swim)"
-Stats: [5, 1, 2, -3, 1, -3]
+Stats: [+5, +1, +2, -3, +1, -3]
 AL: N
 LV: 8
 Source: "Core"
@@ -27,7 +27,7 @@ _Primordial sharks the size of whales. Savage hunters._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 5 | 1 | 2 | -3 | 1 | -3 |
+| +5 | +1 | +2 | -3 | +1 | -3 |
 
 **Fearless:** Immune to morale checks.
 

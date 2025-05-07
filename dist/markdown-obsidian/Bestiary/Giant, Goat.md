@@ -8,7 +8,7 @@ ac: 12 (leather)
 hp: 39
 ATK: "2 greatclub +7 (2d8) or 1 boulder (far) +7 (2d10)"
 MV: "double near (climb)"
-Stats: [4, 1, 3, -2, 0, -2]
+Stats: [+4, +1, +3, -2, +0, -2]
 AL: C
 LV: 8
 Source: "Core"
@@ -25,5 +25,5 @@ _Highland-dwelling, barbaric giants with goatlike legs, horns, and horizontal pu
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 1 | 3 | -2 | 0 | -2 |
+| +4 | +1 | +3 | -2 | +0 | -2 |
 

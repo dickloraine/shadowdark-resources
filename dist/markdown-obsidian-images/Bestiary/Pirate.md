@@ -8,7 +8,7 @@ ac: 12 (leather)
 hp: 4
 ATK: "1 cutlass +1 (1d6) or 1 dagger (close/ near) +1 (1d4)"
 MV: "near"
-Stats: [1, 1, 0, 0, 0, 0]
+Stats: [+1, +1, +0, +0, +0, +0]
 AL: C
 LV: 1
 Source: "Core"
@@ -27,5 +27,5 @@ _Seafaring scoundrels who live to steal and hoard treasure._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 1 | 1 | 0 | 0 | 0 | 0 |
+| +1 | +1 | +0 | +0 | +0 | +0 |
 

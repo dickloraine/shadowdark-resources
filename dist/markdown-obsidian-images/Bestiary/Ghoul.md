@@ -8,7 +8,7 @@ ac: 11
 hp: 11
 ATK: "1 claw +2 (1d6 + paralyze)"
 MV: "near"
-Stats: [2, 1, 2, -3, -1, 0]
+Stats: [+2, +1, +2, -3, -1, +0]
 AL: C
 LV: 2
 Source: "Core"
@@ -31,7 +31,7 @@ _Gray-skinned, slavering undead with whipping tongues and flat, reptilian faces.
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 1 | 2 | -3 | -1 | 0 |
+| +2 | +1 | +2 | -3 | -1 | +0 |
 
 **Undead:** Immune to morale checks.
 

@@ -8,7 +8,7 @@ ac: 12
 hp: 20
 ATK: "2 rend +5 (2d6)"
 MV: "near (climb)"
-Stats: [4, 2, 2, -1, 1, -1]
+Stats: [+4, +2, +2, -1, +1, -1]
 AL: N
 LV: 4
 Source: "Core"
@@ -27,5 +27,5 @@ _Mighty, jungle-dwelling apes._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 2 | 2 | -1 | 1 | -1 |
+| +4 | +2 | +2 | -1 | +1 | -1 |
 

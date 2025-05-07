@@ -8,7 +8,7 @@ ac: 16
 hp: 58
 ATK: "3 rend +8 (2d8) or 1 poison breath"
 MV: "double near (fly)"
-Stats: [4, 3, 4, 3, 3, 4]
+Stats: [+4, +3, +4, +3, +3, +4]
 AL: N
 LV: 12
 Source: "Core"
@@ -31,7 +31,7 @@ _The smell of wet loam follows this dragon. Its jade scales bristle with barbed 
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 3 | 4 | 3 | 3 | 4 |
+| +4 | +3 | +4 | +3 | +3 | +4 |
 
 **Animate Plants:** 1/day, in place of attacks. Vines grab at all enemies within double near of dragon. DC 15 DEX or unable to move 1d4 rounds.
 

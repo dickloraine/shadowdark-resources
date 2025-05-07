@@ -8,7 +8,7 @@ ac: 14
 hp: 9
 ATK: "1 longsword +1 (1d8) or 1 spell +2"
 MV: "near"
-Stats: [1, -1, 0, -1, 2, 0]
+Stats: [+1, -1, +0, -1, +2, +0]
 AL: C
 LV: 2
 Source: "Core"
@@ -31,7 +31,7 @@ _A cloaked, wild-eyed zealot chanting the guttural prayers of a dark god._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 1 | -1 | 0 | -1 | 2 | 0 |
+| +1 | -1 | +0 | -1 | +2 | +0 |
 
 **Fearless:** Immune to morale checks.
 

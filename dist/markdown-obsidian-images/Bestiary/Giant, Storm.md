@@ -8,7 +8,7 @@ ac: 15 (mithral chainmail)
 hp: 58
 ATK: "3 greatsword +10 (2d12) or 1 lightning bolt"
 MV: "double near (swim)"
-Stats: [6, 2, 4, 3, 4, 4]
+Stats: [+6, +2, +4, +3, +4, +4]
 AL: L
 LV: 12
 Source: "Core"
@@ -31,7 +31,7 @@ _Regal titans with sea-green skin, flowing white hair, and thundering voices. Th
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 6 | 2 | 4 | 3 | 4 | 4 |
+| +6 | +2 | +4 | +3 | +4 | +4 |
 
 **Stormblood:** Electricity immune.
 

@@ -4,7 +4,7 @@
 
 _Huge, soaring eagles made of searing flames. Intelligent and imbued with immortal magic._
 
-**AC** 16, **HP** 60, **ATK** 4 rend +8 (2d12), **MV** double near (fly), **S** 3 **D** 4 **C** 2 **I** 3 **W** 3 **Ch** 3, **AL** L, **LV** 13
+**AC** 16, **HP** 60, **ATK** 4 rend +8 (2d12), **MV** double near (fly), **S** +3 **D** +4 **C** +2 **I** +3 **W** +3 **Ch** +3, **AL** L, **LV** 13
 
 **Impervious:** Immune to fire.
 

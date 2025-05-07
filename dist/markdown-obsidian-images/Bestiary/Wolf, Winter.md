@@ -8,7 +8,7 @@ ac: 12
 hp: 23
 ATK: "2 bite +4 (1d6) or 1 frost breath"
 MV: "double near"
-Stats: [3, 2, 1, 0, 1, 0]
+Stats: [+3, +2, +1, +0, +1, +0]
 AL: C
 LV: 5
 Source: "Core"
@@ -31,7 +31,7 @@ _Sinister, white-pelted wolves with piercing blue eyes. From the fey realms of e
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 2 | 1 | 0 | 1 | 0 |
+| +3 | +2 | +1 | +0 | +1 | +0 |
 
 **Impervious:** Cold immune.
 

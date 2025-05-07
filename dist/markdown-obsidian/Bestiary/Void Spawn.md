@@ -8,7 +8,7 @@ ac: 13
 hp: 34
 ATK: "2 scythe +6 (1d10) and 1 tentacles +6 (1d12 + toxin)"
 MV: "near (fly)"
-Stats: [4, 1, 3, 0, 1, -1]
+Stats: [+4, +1, +3, +0, +1, -1]
 AL: C
 LV: 7
 Source: "Core"
@@ -29,7 +29,7 @@ _Scythe-like limbs jut from a purple bulb as big as an ogre. Its lower half is a
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 1 | 3 | 0 | 1 | -1 |
+| +4 | +1 | +3 | +0 | +1 | -1 |
 
 **Impervious:** Immune to cold.
 

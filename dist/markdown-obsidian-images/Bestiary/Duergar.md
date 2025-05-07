@@ -8,7 +8,7 @@ ac: 15
 hp: 12
 ATK: "1 war pick +2 (1d6)"
 MV: "near"
-Stats: [2, 0, 3, 0, -1, -1]
+Stats: [+2, +0, +3, +0, -1, -1]
 AL: C
 LV: 2
 Source: "Core"
@@ -33,7 +33,7 @@ _Gray-skinned, greedy dwarves with bald pates and white beards. They dwell in so
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 0 | 3 | 0 | -1 | -1 |
+| +2 | +0 | +3 | +0 | -1 | -1 |
 
 **Enlarge:** 1/day, +1d6 damage on melee attacks and ADV on STR checks for 3 rounds.
 

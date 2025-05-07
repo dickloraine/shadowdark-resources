@@ -8,7 +8,7 @@ ac: 13
 hp: 23
 ATK: "2 tentacle (near) +4 (1d8 + grab)"
 MV: "near (swim)"
-Stats: [3, 3, 1, -2, 1, -3]
+Stats: [+3, +3, +1, -2, +1, -3]
 AL: N
 LV: 5
 Source: "Core"
@@ -31,7 +31,7 @@ _Octopi as large as sailing skiffs._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 3 | 1 | -2 | 1 | -3 |
+| +3 | +3 | +1 | -2 | +1 | -3 |
 
 **Grab:** DC 15 STR or immobilized.
 

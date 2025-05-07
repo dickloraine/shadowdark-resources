@@ -8,7 +8,7 @@ ac: 15
 hp: 4
 ATK: "1 greataxe +2 (1d8)"
 MV: "near"
-Stats: [2, 0, 0, -1, 0, -1]
+Stats: [+2, +0, +0, -1, +0, -1]
 AL: C
 LV: 1
 Source: "Core"
@@ -29,7 +29,7 @@ _A tusked, tall humanoid with gray skin and pointed ears._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 0 | 0 | -1 | 0 | -1 |
+| +2 | +0 | +0 | -1 | +0 | -1 |
 
 **Rage:** 1/day, immune to morale checks, +1d4 damage (3 rounds).
 

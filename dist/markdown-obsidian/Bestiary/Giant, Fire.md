@@ -8,7 +8,7 @@ ac: 15 (plate mail)
 hp: 44
 ATK: "3 greatsword +9 (2d12)"
 MV: "double near"
-Stats: [6, 0, 4, 1, 2, 1]
+Stats: [+6, +0, +4, +1, +2, +1]
 AL: C
 LV: 9
 Source: "Core"
@@ -27,7 +27,7 @@ _Bulky, muscled giants with coppery skin and red hair. Heavily armored in iron p
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 6 | 0 | 4 | 1 | 2 | 1 |
+| +6 | +0 | +4 | +1 | +2 | +1 |
 
 **Fireblood:** Fire immune.
 

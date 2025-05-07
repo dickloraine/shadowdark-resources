@@ -4,7 +4,7 @@
 
 _Pale, blood-drinking undead of supreme power and wickedness. They loathe sunlight and protect their coffins at all costs._
 
-**AC** 15, **HP** 52, **ATK** 3 bite +7 (1d8 + blood drain) or 1 charm, **MV** near (climb), **S** 4 **D** 3 **C** 3 **I** 1 **W** 3 **Ch** 4, **AL** C, **LV** 11
+**AC** 15, **HP** 52, **ATK** 3 bite +7 (1d8 + blood drain) or 1 charm, **MV** near (climb), **S** +4 **D** +3 **C** +3 **I** +1 **W** +3 **Ch** +4, **AL** C, **LV** 11
 
 **Supreme Undead:** Immune to morale checks. Only damaged by magical sources.
 

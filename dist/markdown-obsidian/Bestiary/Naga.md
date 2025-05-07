@@ -8,7 +8,7 @@ ac: 16
 hp: 43
 ATK: "2 bite +7 (2d6 + poison) and 1 spell +7"
 MV: "near (climb)"
-Stats: [4, 1, 3, 2, 2, 4]
+Stats: [+4, +1, +3, +2, +2, +4]
 AL: C
 LV: 9
 Source: "Core"
@@ -33,7 +33,7 @@ _Magic-wielding cobras towering ten feet high. Once a dominant species, they are
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 1 | 3 | 2 | 2 | 4 |
+| +4 | +1 | +3 | +2 | +2 | +4 |
 
 **Poison:** DC 15 CON or paralyzed 1d4 rounds.
 

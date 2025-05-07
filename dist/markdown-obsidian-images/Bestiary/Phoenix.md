@@ -8,7 +8,7 @@ ac: 16
 hp: 60
 ATK: "4 rend +8 (2d12)"
 MV: "double near (fly)"
-Stats: [3, 4, 2, 3, 3, 3]
+Stats: [+3, +4, +2, +3, +3, +3]
 AL: L
 LV: 13
 Source: "Core"
@@ -35,7 +35,7 @@ _Huge, soaring eagles made of searing flames. Intelligent and imbued with immort
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 4 | 2 | 3 | 3 | 3 |
+| +3 | +4 | +2 | +3 | +3 | +3 |
 
 **Impervious:** Immune to fire.
 

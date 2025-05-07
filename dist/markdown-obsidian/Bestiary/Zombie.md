@@ -8,7 +8,7 @@ ac: 8
 hp: 11
 ATK: "1 slam +2 (1d6)"
 MV: "near"
-Stats: [2, -2, 2, -2, -2, -3]
+Stats: [+2, -2, +2, -2, -2, -3]
 AL: C
 LV: 2
 Source: "Core"
@@ -29,7 +29,7 @@ _Lurching and decomposed undead that hunt in mobs._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | -2 | 2 | -2 | -2 | -3 |
+| +2 | -2 | +2 | -2 | -2 | -3 |
 
 **Undead:** Immune to morale checks.
 

@@ -8,7 +8,7 @@ ac: 10
 hp: 1
 ATK: "1 bite +0 (1 + disease)"
 MV: "near"
-Stats: [-3, 0, 1, -3, 1, -3]
+Stats: [-3, +0, +1, -3, +1, -3]
 AL: N
 LV: 0
 Source: "Core"
@@ -27,7 +27,7 @@ _Rangy, plague-carrying rodents that infest underground places._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| -3 | 0 | 1 | -3 | 1 | -3 |
+| -3 | +0 | +1 | -3 | +1 | -3 |
 
 **Disease:** DC 9 CON or 1d4 CON damage (can't heal while ill).
 

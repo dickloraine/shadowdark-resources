@@ -8,7 +8,7 @@ ac: 15 (leather)
 hp: 48
 ATK: "3 morningstar +9 (2d10)"
 MV: "double near"
-Stats: [5, 4, 3, 3, 3, 3]
+Stats: [+5, +4, +3, +3, +3, +3]
 AL: N
 LV: 10
 Source: "Core"
@@ -29,7 +29,7 @@ _Pale, angular giants with blue-gray hair, light eyes, and silk robes. They do n
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 5 | 4 | 3 | 3 | 3 | 3 |
+| +5 | +4 | +3 | +3 | +3 | +3 |
 
 **Alert:** ADV on checks to detect sneaking or hiding creatures.
 

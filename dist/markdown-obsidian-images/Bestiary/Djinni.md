@@ -8,7 +8,7 @@ ac: 14
 hp: 48
 ATK: "3 scimitar +7 (1d12) or 1 whirlwind"
 MV: "double near (fly)"
-Stats: [4, 4, 3, 4, 3, 3]
+Stats: [+4, +4, +3, +4, +3, +3]
 AL: N
 LV: 10
 Source: "Core"
@@ -33,7 +33,7 @@ _Azure-blue, jovial humanoids made of air and roiling wind. Infused with potent 
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 4 | 3 | 4 | 3 | 3 |
+| +4 | +4 | +3 | +4 | +3 | +3 |
 
 **Impervious:** Only damaged by magical sources.
 

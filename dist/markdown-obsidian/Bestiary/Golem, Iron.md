@@ -8,7 +8,7 @@ ac: 19
 hp: 49
 ATK: "3 slam +8 (2d8) or 1 poison breath"
 MV: "near"
-Stats: [5, -1, 4, -2, 0, -2]
+Stats: [+5, -1, +4, -2, +0, -2]
 AL: N
 LV: 10
 Source: "Core"
@@ -29,7 +29,7 @@ _A bulky iron suit that squeals and sparks with each step._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 5 | -1 | 4 | -2 | 0 | -2 |
+| +5 | -1 | +4 | -2 | +0 | -2 |
 
 **Golem:** Immune to damage from cold or non-magical sources. Healed by fire.
 

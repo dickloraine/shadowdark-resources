@@ -2,7 +2,7 @@
 
 _A statuesque female drow with a crown of metal spider webs and an imperious gaze._
 
-**AC** 16 (mithral chainmail), **HP** 28, **ATK** 3 snake whip (near) +4 (1d8 + poison) or 1 spell +4, **MV** near, **S** 2 **D** 3 **C** 1 **I** 3 **W** 4 **Ch** 3, **AL** C, **LV** 6
+**AC** 16 (mithral chainmail), **HP** 28, **ATK** 3 snake whip (near) +4 (1d8 + poison) or 1 spell +4, **MV** near, **S** +2 **D** +3 **C** +1 **I** +3 **W** +4 **Ch** +3, **AL** C, **LV** 6
 
 **Poison:** DC 15 CON or paralyzed 1d4 rounds.
 

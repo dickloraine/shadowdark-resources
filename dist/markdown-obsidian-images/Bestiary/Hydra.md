@@ -8,7 +8,7 @@ ac: 15
 hp: 55
 ATK: "1 bite (near) +6 (1d8)"
 MV: "near (swim)"
-Stats: [5, 1, 2, -2, 1, -2]
+Stats: [+5, +1, +2, -2, +1, -2]
 AL: N
 LV: 10
 Source: "Core"
@@ -29,7 +29,7 @@ _A towering, amphibious reptile with a bouquet of snake heads writhing on long n
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 5 | 1 | 2 | -2 | 1 | -2 |
+| +5 | +1 | +2 | -2 | +1 | -2 |
 
 **Heads:** Choose how many heads the hydra has. Each is LV 2, AC 15, HP 11, and can make 1 bite attack. A killed head sprouts into two new heads at the start of the hydra's turn unless cauterized beforehand. The hydra's LV is all the heads combined.
 

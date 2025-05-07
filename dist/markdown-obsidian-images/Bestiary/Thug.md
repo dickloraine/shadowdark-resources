@@ -8,7 +8,7 @@ ac: 13
 hp: 4
 ATK: "1 shortsword +1 (1d6)"
 MV: "near"
-Stats: [1, 0, 0, -1, 1, -1]
+Stats: [+1, +0, +0, -1, +1, -1]
 AL: C
 LV: 1
 Source: "Core"
@@ -27,5 +27,5 @@ _A bruised and boorish ruffian._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 1 | 0 | 0 | -1 | 1 | -1 |
+| +1 | +0 | +0 | -1 | +1 | -1 |
 

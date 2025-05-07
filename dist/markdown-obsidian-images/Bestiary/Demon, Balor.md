@@ -8,7 +8,7 @@ ac: 19
 hp: 77
 ATK: "3 greatsword +10 (2d12 + hellfire) and 1 fire whip (near) +10 (2d6 + grab)"
 MV: "double near (fly)"
-Stats: [6, 2, 5, 4, 3, 4]
+Stats: [+6, +2, +5, +4, +3, +4]
 AL: C
 LV: 16
 Source: "Core"
@@ -33,7 +33,7 @@ _Colossal, horned bat-beasts wreathed in the flames of hell itself. Their mighty
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 6 | 2 | 5 | 4 | 3 | 4 |
+| +6 | +2 | +5 | +4 | +3 | +4 |
 
 **Impervious:** Fire immune. Only damaged by magical sources.
 

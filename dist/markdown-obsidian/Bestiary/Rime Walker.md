@@ -8,7 +8,7 @@ ac: 16
 hp: 43
 ATK: "4 claw +8 (1d12)"
 MV: "near (fly)"
-Stats: [4, 4, 3, 2, 2, 2]
+Stats: [+4, +4, +3, +2, +2, +2]
 AL: C
 LV: 9
 Source: "Core"
@@ -29,7 +29,7 @@ _Human-shaped beings formed from black space ice. Their eyes are two flickering,
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 4 | 3 | 2 | 2 | 2 |
+| +4 | +4 | +3 | +2 | +2 | +2 |
 
 **Impervious:** Immune to cold.
 

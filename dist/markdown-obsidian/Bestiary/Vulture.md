@@ -8,7 +8,7 @@ ac: 10
 hp: 5
 ATK: "1 tear +1 (1d4)"
 MV: "near (fly)"
-Stats: [1, 0, 1, -3, 1, -3]
+Stats: [+1, +0, +1, -3, +1, -3]
 AL: N
 LV: 1
 Source: "Core"
@@ -27,7 +27,7 @@ _Scavenger birds with black feathers, hunched backs, and bald heads._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 1 | 0 | 1 | -3 | 1 | -3 |
+| +1 | +0 | +1 | -3 | +1 | -3 |
 
 **Carrion Tracker:** Can track dead flesh unerringly within a mile.
 

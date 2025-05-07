@@ -8,7 +8,7 @@ ac: 13
 hp: 14
 ATK: "2 spine (near) +3 (1d6 + barb) or 1 fire blast (far) +3 (1d8)"
 MV: "near"
-Stats: [2, 3, 1, 1, 1, 1]
+Stats: [+2, +3, +1, +1, +1, +1]
 AL: C
 LV: 3
 Source: "Core"
@@ -29,7 +29,7 @@ _Lanky, green-mottled fiends bristling with hooked spines._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 3 | 1 | 1 | 1 | 1 |
+| +2 | +3 | +1 | +1 | +1 | +1 |
 
 **Barb:** Each spine sticks, dealing 1d4 damage each round. DC 12 STR check on turn to remove.
 

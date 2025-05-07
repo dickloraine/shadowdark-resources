@@ -8,7 +8,7 @@ ac: 13
 hp: 14
 ATK: "2 bite +3 (1d6)"
 MV: "near (fly)"
-Stats: [-1, 3, 1, -3, 0, -3]
+Stats: [-1, +3, +1, -3, +0, -3]
 AL: N
 LV: 3
 Source: "Core"
@@ -27,5 +27,5 @@ _A chittering cloud of iridescent, oval-shaped beetles._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| -1 | 3 | 1 | -3 | 0 | -3 |
+| -1 | +3 | +1 | -3 | +0 | -3 |
 

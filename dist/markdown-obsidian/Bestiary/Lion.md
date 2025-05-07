@@ -8,7 +8,7 @@ ac: 12
 hp: 15
 ATK: "2 rend +4 (1d8)"
 MV: "near"
-Stats: [4, 2, 2, -3, 1, -3]
+Stats: [+4, +2, +2, -3, +1, -3]
 AL: N
 LV: 3
 Source: "Core"
@@ -25,5 +25,5 @@ _Tawny great cats that hunt in open plains. Males have manes._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 2 | 2 | -3 | 1 | -3 |
+| +4 | +2 | +2 | -3 | +1 | -3 |
 

@@ -8,7 +8,7 @@ ac: 12
 hp: 19
 ATK: "2 bite +4 (1d8)"
 MV: "double near"
-Stats: [3, 2, 1, -1, 1, 0]
+Stats: [+3, +2, +1, -1, +1, +0]
 AL: N
 LV: 4
 Source: "Core"
@@ -27,7 +27,7 @@ _A massive wolf with spines of black bone along its brow ridge and back._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 2 | 1 | -1 | 1 | 0 |
+| +3 | +2 | +1 | -1 | +1 | +0 |
 
 **Pack Hunter:** Deals +1 damage while an ally is close.
 

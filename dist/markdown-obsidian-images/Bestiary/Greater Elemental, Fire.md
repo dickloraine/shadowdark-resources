@@ -8,7 +8,7 @@ ac: 15
 hp: 43
 ATK: "3 slam +6 (3d10) or 1 inferno"
 MV: "near (fly)"
-Stats: [4, 3, 3, -2, 1, -2]
+Stats: [+4, +3, +3, -2, +1, -2]
 AL: N
 LV: 9
 Source: "Core"
@@ -31,7 +31,7 @@ _A roaring column of flames._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 3 | 3 | -2 | 1 | -2 |
+| +4 | +3 | +3 | -2 | +1 | -2 |
 
 **Impervious:** Only damaged by magical sources. Fire immune.
 

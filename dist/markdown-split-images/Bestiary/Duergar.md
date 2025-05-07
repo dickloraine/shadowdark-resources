@@ -4,7 +4,7 @@
 
 _Gray-skinned, greedy dwarves with bald pates and white beards. They dwell in somber castles deep within the earth filled with stolen treasures and enslaved prisoners._
 
-**AC** 15, **HP** 12, **ATK** 1 war pick +2 (1d6), **MV** near, **S** 2 **D** 0 **C** 3 **I** 0 **W** -1 **Ch** -1, **AL** C, **LV** 2
+**AC** 15, **HP** 12, **ATK** 1 war pick +2 (1d6), **MV** near, **S** +2 **D** +0 **C** +3 **I** +0 **W** -1 **Ch** -1, **AL** C, **LV** 2
 
 **Enlarge:** 1/day, +1d6 damage on melee attacks and ADV on STR checks for 3 rounds.
 

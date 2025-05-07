@@ -8,7 +8,7 @@ ac: 12
 hp: 14
 ATK: "2 claws +2 (1d6)"
 MV: "near (climb)"
-Stats: [-2, 2, 1, -2, 0, -2]
+Stats: [-2, +2, +1, -2, +0, -2]
 AL: C
 LV: 3
 Source: "Core"
@@ -42,7 +42,7 @@ _A floating mass of rubbery skin crusted with barnacles. Its ten eyestalks writh
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| -2 | 2 | 1 | -2 | 0 | -2 |
+| -2 | +2 | +1 | -2 | +0 | -2 |
 
 **Legendary:** Only damaged by magical sources. Hostile spells targeting The Ten-Eyed Oracle are DC 18 to cast.
 

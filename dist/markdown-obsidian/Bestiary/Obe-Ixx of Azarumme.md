@@ -8,7 +8,7 @@ ac: 18 (+3 plate mail)
 hp: 76
 ATK: "4 greatsword (near) +11 (1d12 + 2 + Moonbite properties) and 1 bite + 9 (1d8 + blood drain) and 1 charm"
 MV: "near (climb, fly)"
-Stats: [5, 3, 4, 3, 4, 5]
+Stats: [+5, +3, +4, +3, +4, +5]
 AL: C
 LV: 16
 Source: "Core"
@@ -37,7 +37,7 @@ _A pale, angular woman in translucent plate mail fashioned from giant scorpion c
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 5 | 3 | 4 | 3 | 4 | 5 |
+| +5 | +3 | +4 | +3 | +4 | +5 |
 
 **Legendary Undead:** Immune to morale checks. Only damaged by magical sources. Hostile spells targeting Obe-Ixx are DC 18 to cast.
 

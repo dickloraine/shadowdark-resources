@@ -8,7 +8,7 @@ ac: 17
 hp: 14
 ATK: "2 bastard sword +3 (1d8)"
 MV: "near"
-Stats: [3, 0, 1, 0, 0, 1]
+Stats: [+3, +0, +1, +0, +0, +1]
 AL: L
 LV: 3
 Source: "Core"
@@ -27,7 +27,7 @@ _A warrior in shining plate mail and the surcoat of a knightly order._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 0 | 1 | 0 | 0 | 1 |
+| +3 | +0 | +1 | +0 | +0 | +1 |
 
 **Oath:** 3/day, ADV on a roll made in service of knight's order.
 

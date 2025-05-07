@@ -8,7 +8,7 @@ ac: 9
 hp: 30
 ATK: "2 greatclub +6 (2d6)"
 MV: "near"
-Stats: [4, -1, 3, -2, -2, -2]
+Stats: [+4, -1, +3, -2, -2, -2]
 AL: C
 LV: 6
 Source: "Core"
@@ -25,5 +25,5 @@ _A massive, dim-witted brute with tusks and a heavy frame. Often lords over gobl
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | -1 | 3 | -2 | -2 | -2 |
+| +4 | -1 | +3 | -2 | -2 | -2 |
 

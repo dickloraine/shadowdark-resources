@@ -8,7 +8,7 @@ ac: 13
 hp: 34
 ATK: "2 claw +6 (2d6)"
 MV: "near (climb)"
-Stats: [4, 1, 3, -2, 1, -2]
+Stats: [+4, +1, +3, -2, +1, -2]
 AL: N
 LV: 7
 Source: "Core"
@@ -29,7 +29,7 @@ _A mighty, white bear that thrives in arctic environments._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 1 | 3 | -2 | 1 | -2 |
+| +4 | +1 | +3 | -2 | +1 | -2 |
 
 **Crush:** Deals an extra die of damage if it hits the same target with both claws.
 

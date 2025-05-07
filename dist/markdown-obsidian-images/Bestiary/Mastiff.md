@@ -8,7 +8,7 @@ ac: 11
 hp: 4
 ATK: "1 bite +1 (1d6)"
 MV: "near"
-Stats: [1, 1, 0, -2, 1, -2]
+Stats: [+1, +1, +0, -2, +1, -2]
 AL: N
 LV: 1
 Source: "Core"
@@ -27,5 +27,5 @@ _Muscled guard dogs with fierce loyalty to their pack or owners._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 1 | 1 | 0 | -2 | 1 | -2 |
+| +1 | +1 | +0 | -2 | +1 | -2 |
 

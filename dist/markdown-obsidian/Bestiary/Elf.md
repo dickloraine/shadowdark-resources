@@ -8,7 +8,7 @@ ac: 13
 hp: 9
 ATK: "1 longbow (far) +3 (1d8) or 1 longsword +1 (1d8)"
 MV: "near"
-Stats: [0, 3, 0, 1, 1, 1]
+Stats: [+0, +3, +0, +1, +1, +1]
 AL: L
 LV: 2
 Source: "Core"
@@ -27,7 +27,7 @@ _Ethereal, ageless fey-people infused with ancient magic._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 0 | 3 | 0 | 1 | 1 | 1 |
+| +0 | +3 | +0 | +1 | +1 | +1 |
 
 **Feyblood:** ADV on DEX checks while in the natural wilds.
 

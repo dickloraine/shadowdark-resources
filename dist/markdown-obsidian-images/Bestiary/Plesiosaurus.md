@@ -8,7 +8,7 @@ ac: 13
 hp: 30
 ATK: "2 bite +5 (2d8)"
 MV: "double near (swim)"
-Stats: [4, 3, 3, -3, 1, -3]
+Stats: [+4, +3, +3, -3, +1, -3]
 AL: N
 LV: 6
 Source: "Core"
@@ -27,5 +27,5 @@ _Aquatic reptiles as big as elephants. Flat flippers and narrow, toothy maws on 
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 3 | 3 | -3 | 1 | -3 |
+| +4 | +3 | +3 | -3 | +1 | -3 |
 

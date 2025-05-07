@@ -8,7 +8,7 @@ ac: 14
 hp: 20
 ATK: "2 beak +4 (1d8 + grab)"
 MV: "double near (fly)"
-Stats: [2, 4, 2, -2, 1, -3]
+Stats: [+2, +4, +2, -2, +1, -3]
 AL: N
 LV: 4
 Source: "Core"
@@ -29,7 +29,7 @@ _Long-beaked beasts with wide, triangular wings. Large enough to carry off a hum
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 4 | 2 | -2 | 1 | -3 |
+| +2 | +4 | +2 | -2 | +1 | -3 |
 
 **Grab:** DC 15 STR or held. DC 15 STR on turn to break free.
 

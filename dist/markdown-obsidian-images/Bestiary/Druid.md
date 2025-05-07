@@ -8,7 +8,7 @@ ac: 11
 hp: 31
 ATK: "1 staff +0 (1d4) or 2 spell +5"
 MV: "near"
-Stats: [0, 1, 0, 4, 3, 0]
+Stats: [+0, +1, +0, +4, +3, +0]
 AL: N
 LV: 7
 Source: "Core"
@@ -37,7 +37,7 @@ _A wizard of the wilds holding a knotted staff and wearing a mossy cloak of deep
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 0 | 1 | 0 | 4 | 3 | 0 |
+| +0 | +1 | +0 | +4 | +3 | +0 |
 
 **Barkskin (INT Spell):** Self. DC 13. AC becomes 15 for 5 rounds.
 

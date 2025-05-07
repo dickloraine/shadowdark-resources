@@ -8,7 +8,7 @@ ac: 13 (leather)
 hp: 25
 ATK: "2 bite +4 (1d8 + blood drain)"
 MV: "near (climb)"
-Stats: [3, 2, 3, -1, 1, 2]
+Stats: [+3, +2, +3, -1, +1, +2]
 AL: C
 LV: 5
 Source: "Core"
@@ -31,7 +31,7 @@ _Lesser, feral vampires born from the bite of their vampiric sires. Bloodthirsty
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 2 | 3 | -1 | 1 | 2 |
+| +3 | +2 | +3 | -1 | +1 | +2 |
 
 **Greater Undead:** Immune to morale checks. Only damaged by silver or magical sources.
 

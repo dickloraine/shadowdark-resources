@@ -4,7 +4,7 @@
 
 _A wizard of the wilds holding a knotted staff and wearing a mossy cloak of deep viridian._
 
-**AC** 11, **HP** 31, **ATK** 1 staff +0 (1d4) or 2 spell +5, **MV** near, **S** 0 **D** 1 **C** 0 **I** 4 **W** 3 **Ch** 0, **AL** N, **LV** 7
+**AC** 11, **HP** 31, **ATK** 1 staff +0 (1d4) or 2 spell +5, **MV** near, **S** +0 **D** +1 **C** +0 **I** +4 **W** +3 **Ch** +0, **AL** N, **LV** 7
 
 **Barkskin (INT Spell):** Self. DC 13. AC becomes 15 for 5 rounds.
 

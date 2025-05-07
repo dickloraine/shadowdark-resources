@@ -8,7 +8,7 @@ ac: 17
 hp: 35
 ATK: "2 horns +6 (1d10) or 1 charge"
 MV: "near"
-Stats: [4, -1, 4, -3, 1, -3]
+Stats: [+4, -1, +4, -3, +1, -3]
 AL: N
 LV: 7
 Source: "Core"
@@ -27,7 +27,7 @@ _Plodding herbivores with a wide, bony skull frill and three horns._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | -1 | 4 | -3 | 1 | -3 |
+| +4 | -1 | +4 | -3 | +1 | -3 |
 
 **Charge:** Move up to double near in straight line and make 1 horn attack. If hit, x3 damage.
 

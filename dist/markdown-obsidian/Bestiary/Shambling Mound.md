@@ -8,7 +8,7 @@ ac: 14
 hp: 20
 ATK: "2 slam +3 (1d6 + engulf)"
 MV: "near"
-Stats: [3, -2, 2, -3, 0, -3]
+Stats: [+3, -2, +2, -3, +0, -3]
 AL: N
 LV: 4
 Source: "Core"
@@ -29,7 +29,7 @@ _Fetid piles of slimy vegetation animated to life by lightning._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | -2 | 2 | -3 | 0 | -3 |
+| +3 | -2 | +2 | -3 | +0 | -3 |
 
 **Impervious:** Fire immune.
 

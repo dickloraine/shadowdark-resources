@@ -2,7 +2,7 @@
 
 _Colossal, horned bat-beasts wreathed in the flames of hell itself. Their mighty swords and cracking whips of fire can slice through stone._
 
-**AC** 19, **HP** 77, **ATK** 3 greatsword +10 (2d12 + hellfire) and 1 fire whip (near) +10 (2d6 + grab), **MV** double near (fly), **S** 6 **D** 2 **C** 5 **I** 4 **W** 3 **Ch** 4, **AL** C, **LV** 16
+**AC** 19, **HP** 77, **ATK** 3 greatsword +10 (2d12 + hellfire) and 1 fire whip (near) +10 (2d6 + grab), **MV** double near (fly), **S** +6 **D** +2 **C** +5 **I** +4 **W** +3 **Ch** +4, **AL** C, **LV** 16
 
 **Impervious:** Fire immune. Only damaged by magical sources.
 

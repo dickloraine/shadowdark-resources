@@ -4,7 +4,7 @@
 
 _A respected member of a clergy who leads holy rituals and rites._
 
-**AC** 15, **HP** 23, **ATK** 2 mace +3 (1d6) or 1 spell +3, **MV** near, **S** 1 **D** 0 **C** 1 **I** 0 **W** 2 **Ch** 1, **AL** L, **LV** 5
+**AC** 15, **HP** 23, **ATK** 2 mace +3 (1d6) or 1 spell +3, **MV** near, **S** +1 **D** +0 **C** +1 **I** +0 **W** +2 **Ch** +1, **AL** L, **LV** 5
 
 **Anoint (WIS Spell):** DC 12. Close. One weapon or armor becomes a magic +2 version for 10 rounds.
 

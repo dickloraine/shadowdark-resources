@@ -8,7 +8,7 @@ ac: 11
 hp: 3
 ATK: "1 dagger (close/ near) +1 (1d4) or 1 spell +2"
 MV: "near"
-Stats: [-1, 1, -1, 2, 0, 0]
+Stats: [-1, +1, -1, +2, +0, +0]
 AL: N
 LV: 1
 Source: "Core"
@@ -31,7 +31,7 @@ _A cloaked magician with a thin, freshly bound spellbook._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| -1 | 1 | -1 | 2 | 0 | 0 |
+| -1 | +1 | -1 | +2 | +0 | +0 |
 
 **Beguile (INT Spell):** DC 11. Focus. One target in near of LV 2 or less is stupefied for the duration.
 

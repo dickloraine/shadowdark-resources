@@ -8,7 +8,7 @@ ac: 16
 hp: 35
 ATK: "2 burning trident (near) +7 (2d6) or 1 fire blast (far) +4 (2d8)"
 MV: "double near (fly)"
-Stats: [5, 2, 4, 2, 1, 2]
+Stats: [+5, +2, +4, +2, +1, +2]
 AL: C
 LV: 7
 Source: "Core"
@@ -29,7 +29,7 @@ _Iron-scaled hellions as big as ogres with weighty ram horns, lashing tails, and
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 5 | 2 | 4 | 2 | 1 | 2 |
+| +5 | +2 | +4 | +2 | +1 | +2 |
 
 **Iron Hide:** Half damage from non-magical weapons.
 

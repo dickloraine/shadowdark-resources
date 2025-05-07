@@ -8,7 +8,7 @@ ac: 11
 hp: 20
 ATK: "2 claw +4 (1d8 + paralyze)"
 MV: "near"
-Stats: [3, 1, 2, 0, 0, 2]
+Stats: [+3, +1, +2, +0, +0, +2]
 AL: C
 LV: 4
 Source: "Core"
@@ -31,7 +31,7 @@ _Greater ghouls who retain the intelligence they had in life._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 1 | 2 | 0 | 0 | 2 |
+| +3 | +1 | +2 | +0 | +0 | +2 |
 
 **Undead:** Immune to morale checks.
 

@@ -8,7 +8,7 @@ ac: 14 (chainmail)
 hp: 44
 ATK: "3 greataxe +8 (2d10)"
 MV: "double near"
-Stats: [5, 1, 4, 2, 3, 2]
+Stats: [+5, +1, +4, +2, +3, +2]
 AL: C
 LV: 9
 Source: "Core"
@@ -29,7 +29,7 @@ _Blue-skinned warriors with broad shoulders and braided hair. They sound war hor
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 5 | 1 | 4 | 2 | 3 | 2 |
+| +5 | +1 | +4 | +2 | +3 | +2 |
 
 **Frostblood:** Cold immune.
 

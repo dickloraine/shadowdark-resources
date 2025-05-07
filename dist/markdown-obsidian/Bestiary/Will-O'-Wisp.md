@@ -8,7 +8,7 @@ ac: 13
 hp: 10
 ATK: "1 life drain +3"
 MV: "near (fly)"
-Stats: [-3, 3, 1, -1, -1, -2]
+Stats: [-3, +3, +1, -1, -1, -2]
 AL: C
 LV: 2
 Source: "Core"
@@ -27,7 +27,7 @@ _A bobbing marsh light animated by an evil spirit. It tries to lead the living i
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| -3 | 3 | 1 | -1 | -1 | -2 |
+| -3 | +3 | +1 | -1 | -1 | -2 |
 
 **Life Drain:** 1d4 CON damage. Death if reduced to 0 CON.
 

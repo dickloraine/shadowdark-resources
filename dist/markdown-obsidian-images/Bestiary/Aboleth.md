@@ -8,7 +8,7 @@ ac: 16
 hp: 39
 ATK: "2 tentacle (near) +5 (1d8 + curse) or 1 tail +5 (3d6)"
 MV: "near (swim)"
-Stats: [4, -1, 3, 4, 2, 2]
+Stats: [+4, -1, +3, +4, +2, +2]
 AL: C
 LV: 8
 Source: "Core"
@@ -33,7 +33,7 @@ _Enormous, antediluvian catfish covered in slime and tentacles. They hate all in
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | -1 | 3 | 4 | 2 | 2 |
+| +4 | -1 | +3 | +4 | +2 | +2 |
 
 **Curse:** DC 15 CON or target gains a magical curse, turning into a deep one over 2d10 days.
 

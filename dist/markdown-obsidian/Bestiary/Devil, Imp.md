@@ -8,7 +8,7 @@ ac: 13
 hp: 9
 ATK: "1 stinger +3 (1d4 + poison)"
 MV: "near (fly)"
-Stats: [-2, 3, 0, 1, 0, 2]
+Stats: [-2, +3, +0, +1, +0, +2]
 AL: C
 LV: 2
 Source: "Core"
@@ -31,7 +31,7 @@ _Cat-sized, red devils with oversized wings and tail, tiny horns, and cowardly d
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| -2 | 3 | 0 | 1 | 0 | 2 |
+| -2 | +3 | +0 | +1 | +0 | +2 |
 
 **Impervious:** Fire immune.
 

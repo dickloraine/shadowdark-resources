@@ -8,7 +8,7 @@ ac: 16
 hp: 15
 ATK: "2 longsword +3 (1d8) or 1 spear (close/near) +3 (1d6)"
 MV: "near"
-Stats: [2, 1, 2, 0, 0, 1]
+Stats: [+2, +1, +2, +0, +0, +1]
 AL: N
 LV: 3
 Source: "Core"
@@ -25,5 +25,5 @@ _Veteran warriors seasoned in arena fights to the death._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 1 | 2 | 0 | 0 | 1 |
+| +2 | +1 | +2 | +0 | +0 | +1 |
 

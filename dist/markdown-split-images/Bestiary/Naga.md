@@ -4,7 +4,7 @@
 
 _Magic-wielding cobras towering ten feet high. Once a dominant species, they are now rare and reclusive, bitter to the last._
 
-**AC** 16, **HP** 43, **ATK** 2 bite +7 (2d6 + poison) and 1 spell +7, **MV** near (climb), **S** 4 **D** 1 **C** 3 **I** 2 **W** 2 **Ch** 4, **AL** C, **LV** 9
+**AC** 16, **HP** 43, **ATK** 2 bite +7 (2d6 + poison) and 1 spell +7, **MV** near (climb), **S** +4 **D** +1 **C** +3 **I** +2 **W** +2 **Ch** +4, **AL** C, **LV** 9
 
 **Poison:** DC 15 CON or paralyzed 1d4 rounds.
 

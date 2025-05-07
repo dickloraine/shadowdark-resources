@@ -8,7 +8,7 @@ ac: 16
 hp: 49
 ATK: "4 rend +7 (2d8) and 1 fire breath"
 MV: "double near (fly)"
-Stats: [5, 4, 4, -3, 2, -1]
+Stats: [+5, +4, +4, -3, +2, -1]
 AL: C
 LV: 10
 Source: "Core"
@@ -27,7 +27,7 @@ _A monstrous beast with a half-goat, half-lion body, wide dragon wings, and the 
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 5 | 4 | 4 | -3 | 2 | -1 |
+| +5 | +4 | +4 | -3 | +2 | -1 |
 
 **Fire Breath:** Fills a near-sized cube extending from chimera. DC 15 DEX or 4d6 damage.
 

@@ -4,7 +4,7 @@
 
 _A crashing vortex of water._
 
-**AC** 15, **HP** 29, **ATK** 3 slam +6 (2d6) or 1 whirlpool, **MV** double near (swim), **S** 4 **D** 2 **C** 2 **I** -2 **W** 1 **Ch** -2, **AL** N, **LV** 6
+**AC** 15, **HP** 29, **ATK** 3 slam +6 (2d6) or 1 whirlpool, **MV** double near (swim), **S** +4 **D** +2 **C** +2 **I** -2 **W** +1 **Ch** -2, **AL** N, **LV** 6
 
 **Impervious:** Only damaged by magical sources.
 

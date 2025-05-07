@@ -8,7 +8,7 @@ ac: 10
 hp: 12
 ATK: "1 hoof +3 (1d6) or 1 spit (near) +0 (1d4)"
 MV: "double near"
-Stats: [3, 0, 3, -2, 1, -3]
+Stats: [+3, +0, +3, -2, +1, -3]
 AL: N
 LV: 2
 Source: "Core"
@@ -25,5 +25,5 @@ _Ornery, tan-furred desert beasts._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 0 | 3 | -2 | 1 | -3 |
+| +3 | +0 | +3 | -2 | +1 | -3 |
 

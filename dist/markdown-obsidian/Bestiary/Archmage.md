@@ -8,7 +8,7 @@ ac: 12
 hp: 44
 ATK: "2 spell +7"
 MV: "near"
-Stats: [-1, 2, -1, 4, 2, 1]
+Stats: [-1, +2, -1, +4, +2, +1]
 AL: L
 LV: 10
 Source: "Core"
@@ -37,7 +37,7 @@ _A wizened magic-user crackling with arcane power._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| -1 | 2 | -1 | 4 | 2 | 1 |
+| -1 | +2 | -1 | +4 | +2 | +1 |
 
 **Death Bolt (INT Spell):** DC 15. One target of LV 9 or less within near DC 15 CON or go to 0 HP.
 

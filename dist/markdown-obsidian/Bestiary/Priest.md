@@ -8,7 +8,7 @@ ac: 15
 hp: 23
 ATK: "2 mace +3 (1d6) or 1 spell +3"
 MV: "near"
-Stats: [1, 0, 1, 0, 2, 1]
+Stats: [+1, +0, +1, +0, +2, +1]
 AL: L
 LV: 5
 Source: "Core"
@@ -33,7 +33,7 @@ _A respected member of a clergy who leads holy rituals and rites._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 1 | 0 | 1 | 0 | 2 | 1 |
+| +1 | +0 | +1 | +0 | +2 | +1 |
 
 **Anoint (WIS Spell):** DC 12. Close. One weapon or armor becomes a magic +2 version for 10 rounds.
 

@@ -8,7 +8,7 @@ ac: 14
 hp: 25
 ATK: "2 bite +4 (2d6 + petrify)"
 MV: "near"
-Stats: [3, 1, 3, -3, 1, -3]
+Stats: [+3, +1, +3, -3, +1, -3]
 AL: N
 LV: 5
 Source: "Core"
@@ -27,7 +27,7 @@ _Massive, muscled lizards with six legs and gray, tough hide._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 1 | 3 | -3 | 1 | -3 |
+| +3 | +1 | +3 | -3 | +1 | -3 |
 
 **Petrify:** Any creature that touches the basilisk or meets its gaze, DC 15 CON or petrified.
 

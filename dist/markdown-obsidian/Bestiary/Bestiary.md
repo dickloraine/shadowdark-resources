@@ -10,7 +10,7 @@ _Enormous, antediluvian catfish covered in slime and tentacles. They hate all in
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | -1 | 3 | 4 | 2 | 2 |
+| +4 | -1 | +3 | +4 | +2 | +2 |
 
 **Curse:** DC 15 CON or target gains a magical curse, turning into a deep one over 2d10 days.
 
@@ -28,7 +28,7 @@ _A religious trainee who knows basic rites and rituals._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 1 | -1 | 0 | -1 | 2 | 0 |
+| +1 | -1 | +0 | -1 | +2 | +0 |
 
 **Healing Touch (WIS Spell):** DC 11. Heal one creature within close for 1d4 HP.
 
@@ -42,7 +42,7 @@ _Winged, flawless humans glowing with bronze sunlight._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 1 | 2 | 3 | 4 | 4 |
+| +4 | +1 | +2 | +3 | +4 | +4 |
 
 **Horn:** All enemies in near DC 15 CHA or paralyzed 1d4 rounds.
 
@@ -56,7 +56,7 @@ _Serene humans sculpted from alabaster. Golden orbs for eyes._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 2 | 4 | 4 | 4 | 4 |
+| +4 | +2 | +4 | +4 | +4 | +4 |
 
 **Moonlight Aura:** Hostile spells targeting the principi are DC 15.
 
@@ -72,7 +72,7 @@ _Beautiful, luminous humanoids with white-feathered wings._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 1 | 1 | 2 | 3 | 3 |
+| +3 | +1 | +1 | +2 | +3 | +3 |
 
 **Bless:** 3/day, touch one target to give it a luck token.
 
@@ -86,7 +86,7 @@ _An old suit of armor magically animated by a vengeful spirit._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | -1 | 2 | -1 | 1 | 0 |
+| +3 | -1 | +2 | -1 | +1 | +0 |
 
 **Statue:** When standing still, looks exactly like a suit of armor.
 
@@ -100,7 +100,7 @@ _Horse-sized, rust-brown insects. They burrow vast, underground warrens into the
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 2 | 1 | -2 | 1 | -2 |
+| +2 | +2 | +1 | -2 | +1 | -2 |
 
 ### Ape
 
@@ -112,7 +112,7 @@ _Hooting, omnivorous apes that live in trees._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 2 | 1 | -2 | 1 | 0 |
+| +2 | +2 | +1 | -2 | +1 | +0 |
 
 ### Ape, Snow
 
@@ -124,7 +124,7 @@ _White-haired, carnivorous gorillas that stalk the high mountains and live in ca
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 1 | 1 | -2 | 1 | 0 |
+| +3 | +1 | +1 | -2 | +1 | +0 |
 
 **Thick Fur:** Cold immune.
 
@@ -138,7 +138,7 @@ _A cloaked magician with a thin, freshly bound spellbook._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| -1 | 1 | -1 | 2 | 0 | 0 |
+| -1 | +1 | -1 | +2 | +0 | +0 |
 
 **Beguile (INT Spell):** DC 11. Focus. One target in near of LV 2 or less is stupefied for the duration.
 
@@ -154,7 +154,7 @@ _A radiant being with a crown of fire, snowy wings, golden armor, and a blazing 
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 5 | 2 | 4 | 4 | 5 | 5 |
+| +5 | +2 | +4 | +4 | +5 | +5 |
 
 **Command:** DC 18 CHA to resist an archangel's command.
 
@@ -170,7 +170,7 @@ _A stunningly beautiful, horned human with burning, red eyes and a halo of seven
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 5 | 4 | 4 | 5 | 4 | 7 |
+| +5 | +4 | +4 | +5 | +4 | +7 |
 
 **Impervious:** Fire immune. Only damaged by magical sources.
 
@@ -188,7 +188,7 @@ _A wizened magic-user crackling with arcane power._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| -1 | 2 | -1 | 4 | 2 | 1 |
+| -1 | +2 | -1 | +4 | +2 | +1 |
 
 **Death Bolt (INT Spell):** DC 15. One target of LV 9 or less within near DC 15 CON or go to 0 HP.
 
@@ -212,7 +212,7 @@ _A black-cloaked, skulking killer._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 4 | 2 | 2 | 3 | 3 |
+| +2 | +4 | +2 | +2 | +3 | +3 |
 
 **Execute:** Deals x3 damage against surprised targets.
 
@@ -226,7 +226,7 @@ _Dwarves with bronze, metallic skin and flames in place of hair. Gifted blacksmi
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 0 | 2 | 0 | 0 | 0 |
+| +3 | +0 | +2 | +0 | +0 | +0 |
 
 **Impervious:** Fire immune.
 
@@ -240,7 +240,7 @@ _Fierce, clawed burrowers with black-and-white face stripes._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 0 | 1 | -3 | 1 | -2 |
+| +2 | +0 | +1 | -3 | +1 | -2 |
 
 **Rage:** 1/day, immune to morale checks, +1d4 damage (3 rounds).
 
@@ -254,7 +254,7 @@ _Hard-bitten rogue in tattered leathers and a hooded cloak._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 1 | 0 | 0 | -1 | 0 | -1 |
+| +1 | +0 | +0 | -1 | +0 | -1 |
 
 **Ambush:** Deal an extra die of damage when undetected.
 
@@ -268,7 +268,7 @@ _Massive, muscled lizards with six legs and gray, tough hide._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 1 | 3 | -3 | 1 | -3 |
+| +3 | +1 | +3 | -3 | +1 | -3 |
 
 **Petrify:** Any creature that touches the basilisk or meets its gaze, DC 15 CON or petrified.
 
@@ -282,7 +282,7 @@ _Leathery, eagle-sized mammal with a taste for flesh._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| -1 | 2 | 0 | -3 | 1 | -3 |
+| -1 | +2 | +0 | -3 | +1 | -3 |
 
 ### Bat, Swarm
 
@@ -294,7 +294,7 @@ _A whirling cloud of screeching, bloodthirsty bats._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| -3 | 2 | 0 | -3 | 1 | -3 |
+| -3 | +2 | +0 | -3 | +1 | -3 |
 
 ### Bear, Brown
 
@@ -306,7 +306,7 @@ _A hulking, swaying brute with claws as long as a finger._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 1 | 3 | -2 | 1 | -2 |
+| +4 | +1 | +3 | -2 | +1 | -2 |
 
 **Crush:** Deals an extra die of damage if it hits the same target with both claws.
 
@@ -320,7 +320,7 @@ _A mighty, white bear that thrives in arctic environments._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 1 | 3 | -2 | 1 | -2 |
+| +4 | +1 | +3 | -2 | +1 | -2 |
 
 **Crush:** Deals an extra die of damage if it hits the same target with both claws.
 
@@ -336,7 +336,7 @@ _A cave hominid with scraggly fur and a stone-tipped spear._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 1 | 1 | -2 | 1 | -1 |
+| +2 | +1 | +1 | -2 | +1 | -1 |
 
 **Brutal:** +1 damage with melee weapons (included).
 
@@ -350,7 +350,7 @@ _Howling, battleraging warriors._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 1 | 1 | 0 | 1 | 0 |
+| +2 | +1 | +1 | +0 | +1 | +0 |
 
 **Rage:** 1/day, immune to morale checks, +1d4 damage (3 rounds).
 
@@ -364,7 +364,7 @@ _A black, ice-cold mass of sludge._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | -1 | 3 | -4 | -3 | -4 |
+| +2 | -1 | +3 | -4 | -3 | -4 |
 
 **Impervious:** Only damaged by fire.
 
@@ -380,7 +380,7 @@ _Ornery wild pig with bristly, russet hair and yellowed tusks._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 0 | 1 | -2 | 1 | -2 |
+| +3 | +0 | +1 | -2 | +1 | -2 |
 
 **Gore:** Deals an extra die of damage if it hits the same target with both tusks.
 
@@ -394,7 +394,7 @@ _Colossal, long-necked tree grazers. Slow and peaceful._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 6 | -1 | 3 | -3 | 1 | -3 |
+| +6 | -1 | +3 | -3 | +1 | -3 |
 
 ### Brain Eater
 
@@ -406,7 +406,7 @@ _Purple, gaunt humanoids with squidlike heads and four face tentacles. They live
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 3 | 0 | 4 | 2 | 4 |
+| +2 | +3 | +0 | +4 | +2 | +4 |
 
 **Hear Thoughts:** Can hear the surface thoughts of all intelligent creatures within near.
 
@@ -426,7 +426,7 @@ _Brutish, bat-eared goblinoids covered in brown fur._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 0 | 1 | -1 | 0 | -2 |
+| +3 | +0 | +1 | -1 | +0 | -2 |
 
 **Stealthy:** ADV on checks to sneak and hide.
 
@@ -440,7 +440,7 @@ _A hulking, shark-sized lizard with a steely, arrow-shaped carapace and a massiv
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 5 | 1 | 4 | -3 | 1 | -2 |
+| +5 | +1 | +4 | -3 | +1 | -2 |
 
 **Leap:** Jump up to near in height and double near in distance, then make 2 bite attacks.
 
@@ -454,7 +454,7 @@ _Ornery, tan-furred desert beasts._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 0 | 3 | -2 | 1 | -3 |
+| +3 | +0 | +3 | -2 | +1 | -3 |
 
 ### Cave Brute
 
@@ -466,7 +466,7 @@ _A hulking, insectoid beast with long mandibles, four eyes, and thick arms cover
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 1 | 1 | -3 | 1 | -3 |
+| +4 | +1 | +1 | -3 | +1 | -3 |
 
 **Bewilder:** Creatures within near that see the cave brute's eyes, DC 12 CHA at start of their turn or dazed and no action.
 
@@ -480,7 +480,7 @@ _Chittering, green centipedes the size of horses. Their grasping tentacles are c
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 2 | 0 | -3 | 1 | -3 |
+| +2 | +2 | +0 | -3 | +1 | -3 |
 
 **Toxin:** DC 12 CON or paralyzed 1d4 rounds.
 
@@ -494,7 +494,7 @@ _Herd-dwelling beings with the upper body of a human and lower body of a horse._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 1 | 1 | 0 | 2 | 1 |
+| +2 | +1 | +1 | +0 | +2 | +1 |
 
 ### Centipede, Giant
 
@@ -506,7 +506,7 @@ _Blood-red, feathery centipedes the size of a human arm. Their bite injects a bu
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| -3 | 1 | 0 | -4 | -3 | -4 |
+| -3 | +1 | +0 | -4 | -3 | -4 |
 
 **Poison:** DC 12 CON or paralyzed 1d4 rounds.
 
@@ -520,7 +520,7 @@ _A crawling mass of weaving, sinuous centipedes._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| -3 | 1 | 0 | -4 | -3 | -4 |
+| -3 | +1 | +0 | -4 | -3 | -4 |
 
 **Poison:** DC 12 CON or paralyzed 1d4 rounds.
 
@@ -534,7 +534,7 @@ _A monstrous beast with a half-goat, half-lion body, wide dragon wings, and the 
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 5 | 4 | 4 | -3 | 2 | -1 |
+| +5 | +4 | +4 | -3 | +2 | -1 |
 
 **Fire Breath:** Fills a near-sized cube extending from chimera. DC 15 DEX or 4d6 damage.
 
@@ -548,7 +548,7 @@ _Brown, horse-sized lobster bugs with tentacles and pincers._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | -1 | 3 | -1 | 1 | -2 |
+| +3 | -1 | +3 | -1 | +1 | -2 |
 
 **Grab:** DC 15 STR or held in pincer. DC 15 STR on turn to break free.
 
@@ -562,7 +562,7 @@ _A midnight blue manta ray with a bony tail and crescent-shaped maw above its be
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 3 | 1 | 1 | 1 | 0 |
+| +2 | +3 | +1 | +1 | +1 | +0 |
 
 **Phantoms:** 1/day, in place of attacks. Create 3 illusory duplicates that disappear when hit. Determine randomly if an attack hits cloaker or illusions.
 
@@ -578,7 +578,7 @@ _A molting, lizard-chicken hybrid with a crimson, razorlike crest._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| -2 | 1 | 1 | -3 | 1 | -3 |
+| -2 | +1 | +1 | -3 | +1 | -3 |
 
 **Petrify:** DC 12 CON or petrified.
 
@@ -592,7 +592,7 @@ _A human-sized snake with scales made of jewels and a corona of iridescent feath
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 3 | 2 | 4 | 4 | 5 |
+| +2 | +3 | +2 | +4 | +4 | +5 |
 
 **Change Shape:** In place of attacks, transform into any similarly-sized creature.
 
@@ -610,7 +610,7 @@ _A wagon-sized, armored crab with two crushing pincers._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 0 | 2 | -3 | 0 | -3 |
+| +3 | +0 | +2 | -3 | +0 | -3 |
 
 **Crush:** DC 15 STR or target takes 1d8 damage.
 
@@ -624,7 +624,7 @@ _Fat, scaly reptiles with stumpy legs and long, thrashing tails._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 1 | 2 | -2 | 1 | -2 |
+| +3 | +1 | +2 | -2 | +1 | -2 |
 
 ### Cultist
 
@@ -636,7 +636,7 @@ _A cloaked, wild-eyed zealot chanting the guttural prayers of a dark god._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 1 | -1 | 0 | -1 | 2 | 0 |
+| +1 | -1 | +0 | -1 | +2 | +0 |
 
 **Fearless:** Immune to morale checks.
 
@@ -652,7 +652,7 @@ _Reclusive, one-eyed giants towering 20' high. They live simply on remote farmla
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 5 | 0 | 2 | -1 | -2 | 0 |
+| +5 | +0 | +2 | -1 | -2 | +0 |
 
 ### Darkmantle
 
@@ -664,7 +664,7 @@ _A floating, black octopus with rows of red eyes and a webbed skirt of tentacles
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| -2 | 3 | 0 | -3 | 0 | -3 |
+| -2 | +3 | +0 | -3 | +0 | -3 |
 
 **Darkness:** Extinguish all light sources in near.
 
@@ -678,7 +678,7 @@ _Cultish, amphibious fish-people with bulbous eyes. They lurk in deep water and 
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 1 | 1 | -2 | 0 | -2 |
+| +2 | +1 | +1 | -2 | +0 | -2 |
 
 **Sunblind:** Blinded in bright light.
 
@@ -692,7 +692,7 @@ _Colossal, horned bat-beasts wreathed in the flames of hell itself. Their mighty
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 6 | 2 | 5 | 4 | 3 | 4 |
+| +6 | +2 | +5 | +4 | +3 | +4 |
 
 **Impervious:** Fire immune. Only damaged by magical sources.
 
@@ -710,7 +710,7 @@ _Green, pig-faced demons with thick claws and an oily stench._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 0 | 2 | -2 | -1 | -3 |
+| +2 | +0 | +2 | -2 | -1 | -3 |
 
 **Gas:** All in near DC 12 CON or blinded for 1d4 rounds.
 
@@ -724,7 +724,7 @@ _Horse-headed, fanged creatures who walk upright and have four arms; two shrivel
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 1 | 4 | 3 | 2 | 2 |
+| +4 | +1 | +4 | +3 | +2 | +2 |
 
 **Crush:** DC 15 STR or target takes 2d8 damage.
 
@@ -738,7 +738,7 @@ _Hissing, armored women with six limbs and the lower bodies of giant snakes. Six
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 5 | 4 | 3 | 3 | 3 | 4 |
+| +5 | +4 | +3 | +3 | +3 | +4 |
 
 **Parry:** Trade 2 longsword attacks next round to deflect a melee attack that would hit.
 
@@ -752,7 +752,7 @@ _Wagon-sized, filthy vultures with four limbs, midnight-blue skin, and a rash of
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 2 | 2 | -1 | 1 | 0 |
+| +2 | +2 | +2 | -1 | +1 | +0 |
 
 **Carrion Mist:** Each time vrock is hit, 3:6 chance of carrion mist in near-sized cube centered on vrock. All enemies DC 15 CON or violent vomiting 1d4 rounds.
 
@@ -768,7 +768,7 @@ _Lanky, green-mottled fiends bristling with hooked spines._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 3 | 1 | 1 | 1 | 1 |
+| +2 | +3 | +1 | +1 | +1 | +1 |
 
 **Barb:** Each spine sticks, dealing 1d4 damage each round. DC 12 STR check on turn to remove.
 
@@ -782,7 +782,7 @@ _Entrancing humanoids with bat wings and devilish charm._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 4 | 2 | 3 | 2 | 5 |
+| +2 | +4 | +2 | +3 | +2 | +5 |
 
 **Change Shape:** In place of attacks, transform into any similarly-sized humanoid.
 
@@ -800,7 +800,7 @@ _Raven-winged, resplendent beings in polished, black armor and helms with curved
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 4 | 3 | 4 | 4 | 5 |
+| +4 | +4 | +3 | +4 | +4 | +5 |
 
 **Poison:** DC 15 CON or target's eyes go jet black and it turns on its allies for 1d4 rounds. DC 15 WIS on turn to end effect.
 
@@ -814,7 +814,7 @@ _Iron-scaled hellions as big as ogres with weighty ram horns, lashing tails, and
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 5 | 2 | 4 | 2 | 1 | 2 |
+| +5 | +2 | +4 | +2 | +1 | +2 |
 
 **Iron Hide:** Half damage from non-magical weapons.
 
@@ -828,7 +828,7 @@ _Cat-sized, red devils with oversized wings and tail, tiny horns, and cowardly d
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| -2 | 3 | 0 | 1 | 0 | 2 |
+| -2 | +3 | +0 | +1 | +0 | +2 |
 
 **Impervious:** Fire immune.
 
@@ -846,7 +846,7 @@ _Azure-blue, jovial humanoids made of air and roiling wind. Infused with potent 
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 4 | 3 | 4 | 3 | 3 |
+| +4 | +4 | +3 | +4 | +3 | +3 |
 
 **Impervious:** Only damaged by magical sources.
 
@@ -864,7 +864,7 @@ _Gray, featureless humanoids that delight in sowing chaos._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 1 | 2 | 2 | 1 | 0 | 4 |
+| +1 | +2 | +2 | +1 | +0 | +4 |
 
 **Change Shape:** In place of attacks, transform into any similarly-sized humanoid.
 
@@ -880,7 +880,7 @@ _The smell of ozone precedes this desert-dwelling dragon. Its dazzling scales of
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 5 | 3 | 3 | 4 | 5 | 5 |
+| +5 | +3 | +3 | +4 | +5 | +5 |
 
 **Stormblood:** Electricity immune.
 
@@ -898,7 +898,7 @@ _Blood-red scales cover the hide of this mighty, volcanic wyrm. Leaping flames g
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 6 | 5 | 4 | 4 | 4 | 5 |
+| +6 | +5 | +4 | +4 | +4 | +5 |
 
 **Fireblood:** Fire immune.
 
@@ -914,7 +914,7 @@ _The smell of wet loam follows this dragon. Its jade scales bristle with barbed 
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 3 | 4 | 3 | 3 | 4 |
+| +4 | +3 | +4 | +3 | +3 | +4 |
 
 **Animate Plants:** 1/day, in place of attacks. Vines grab at all enemies within double near of dragon. DC 15 DEX or unable to move 1d4 rounds.
 
@@ -930,7 +930,7 @@ _Prismatic ice lines the horns, spines, and wings of this pearly dragon. Clouds 
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 3 | 5 | 3 | 4 | 3 |
+| +4 | +3 | +5 | +3 | +4 | +3 |
 
 **Frostblood:** Cold immune.
 
@@ -946,7 +946,7 @@ _A warm sea breeze blows around this amphibious, gold-scaled wyrm. A beard of te
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 5 | 6 | 4 | 4 | 5 | 5 |
+| +5 | +6 | +4 | +4 | +5 | +5 |
 
 **Steam Breath:** Fills a double near-sized cube extending from dragon. DC 15 DEX or 4d12 damage.
 
@@ -962,7 +962,7 @@ _This black, wingless beast slithers through dank swamps._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 5 | 3 | 4 | 4 | 3 | 3 |
+| +5 | +3 | +4 | +4 | +3 | +3 |
 
 **Smog Breath:** Fills a near-sized cube extending from dragon. DC 15 CON or 2d10 damage and blinded for 1 round.
 
@@ -976,7 +976,7 @@ _A graceful, shadowy elf that pounces like a spider._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 0 | 3 | 0 | 1 | 1 | 1 |
+| +0 | +3 | +0 | +1 | +1 | +1 |
 
 **Poison:** DC 15 CON or sleep.
 
@@ -992,7 +992,7 @@ _A monstrosity with the body of a giant spider and torso of a drow._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 3 | 2 | 2 | 2 | 0 |
+| +3 | +3 | +2 | +2 | +2 | +0 |
 
 **Poison:** DC 15 CON or paralyzed 1d4 rounds.
 
@@ -1008,7 +1008,7 @@ _A statuesque female drow with a crown of metal spider webs and an imperious gaz
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 3 | 1 | 3 | 4 | 3 |
+| +2 | +3 | +1 | +3 | +4 | +3 |
 
 **Poison:** DC 15 CON or paralyzed 1d4 rounds.
 
@@ -1030,7 +1030,7 @@ _A wizard of the wilds holding a knotted staff and wearing a mossy cloak of deep
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 0 | 1 | 0 | 4 | 3 | 0 |
+| +0 | +1 | +0 | +4 | +3 | +0 |
 
 **Barkskin (INT Spell):** Self. DC 13. AC becomes 15 for 5 rounds.
 
@@ -1052,7 +1052,7 @@ _A coy, emerald-skinned fey covered in leaves. It bonds with and protects a tree
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| -1 | 2 | 1 | 1 | 3 | 4 |
+| -1 | +2 | +1 | +1 | +3 | +4 |
 
 **Charm:** Near, one creature, DC 14 CHA or friendship for 1d8 days.
 
@@ -1068,7 +1068,7 @@ _Gray-skinned, greedy dwarves with bald pates and white beards. They dwell in so
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 0 | 3 | 0 | -1 | -1 |
+| +2 | +0 | +3 | +0 | -1 | -1 |
 
 **Enlarge:** 1/day, +1d6 damage on melee attacks and ADV on STR checks for 3 rounds.
 
@@ -1086,7 +1086,7 @@ _A trundling, barrel-sized beetle with a T-shaped horn._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 1 | -1 | 1 | -3 | -1 | -3 |
+| +1 | -1 | +1 | -3 | -1 | -3 |
 
 **Knock:** DC 9 STR or pushed a close distance and fall down.
 
@@ -1100,7 +1100,7 @@ _Blood-red, towering humanoids formed of lava and ash. Short, black horns and sn
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 5 | 2 | 3 | 3 | 2 | 3 |
+| +5 | +2 | +3 | +3 | +2 | +3 |
 
 **Impervious:** Only damaged by magical sources. Fire immune.
 
@@ -1118,7 +1118,7 @@ _Mighty mammals with tough hide, flappy ears, and a trunk._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 5 | 0 | 3 | -2 | 1 | 0 |
+| +5 | +0 | +3 | -2 | +1 | +0 |
 
 **Charge:** Move up to double near in straight line and make 1 tusks attack. If hit, x3 damage.
 
@@ -1132,7 +1132,7 @@ _Ethereal, ageless fey-people infused with ancient magic._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 0 | 3 | 0 | 1 | 1 | 1 |
+| +0 | +3 | +0 | +1 | +1 | +1 |
 
 **Feyblood:** ADV on DEX checks while in the natural wilds.
 
@@ -1146,7 +1146,7 @@ _Bipedal, eight-eyed spiderfolk with spindly legs and purple fur._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 0 | 2 | 1 | 0 | 0 | -1 |
+| +0 | +2 | +1 | +0 | +0 | -1 |
 
 **Poison Web:** One target stuck in place and 1d4 damage/round. DC 12 DEX on turn to escape.
 
@@ -1160,7 +1160,7 @@ _Miniature fey folk with fluttering moth or butterfly wings._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| -2 | 3 | 0 | 1 | 0 | 1 |
+| -2 | +3 | +0 | +1 | +0 | +1 |
 
 **Poison:** DC 12 CON or fall into deep sleep for 1d4 hours.
 
@@ -1174,7 +1174,7 @@ _Human-sized frogs with warty skin and long, sticky tongues._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 2 | 1 | -3 | 0 | -3 |
+| +2 | +2 | +1 | -3 | +0 | -3 |
 
 **Tongue:** 1 creature in near DC 12 DEX or pulled to close range.
 
@@ -1188,7 +1188,7 @@ _Leering, winged fiends that look like stone statues. They can hold perfectly st
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 1 | 2 | 0 | 1 | -1 |
+| +3 | +1 | +2 | +0 | +1 | -1 |
 
 **Impervious:** Only damaged by magical sources.
 
@@ -1202,7 +1202,7 @@ _A translucent cube of slime that silently mows through tunnels._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 1 | 2 | -4 | 1 | -4 |
+| +3 | +1 | +2 | -4 | +1 | -4 |
 
 **Engulf:** DC 12 STR or trapped inside cube. Touch attack auto-hits engulfed targets each round. DC 12 STR on turn to escape. Fail checks if paralyzed.
 
@@ -1220,7 +1220,7 @@ _Greater ghouls who retain the intelligence they had in life._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 1 | 2 | 0 | 0 | 2 |
+| +3 | +1 | +2 | +0 | +0 | +2 |
 
 **Undead:** Immune to morale checks.
 
@@ -1238,7 +1238,7 @@ _A wavering spirit with a face contorted in rage or sadness._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| -2 | 3 | 0 | 0 | 0 | 4 |
+| -2 | +3 | +0 | +0 | +0 | +4 |
 
 **Greater Undead:** Immune to morale checks. Only damaged by silver or magical sources.
 
@@ -1258,7 +1258,7 @@ _Gray-skinned, slavering undead with whipping tongues and flat, reptilian faces.
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 1 | 2 | -3 | -1 | 0 |
+| +2 | +1 | +2 | -3 | -1 | +0 |
 
 **Undead:** Immune to morale checks.
 
@@ -1274,7 +1274,7 @@ _Pale, angular giants with blue-gray hair, light eyes, and silk robes. They do n
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 5 | 4 | 3 | 3 | 3 | 3 |
+| +5 | +4 | +3 | +3 | +3 | +3 |
 
 **Alert:** ADV on checks to detect sneaking or hiding creatures.
 
@@ -1288,7 +1288,7 @@ _Bulky, muscled giants with coppery skin and red hair. Heavily armored in iron p
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 6 | 0 | 4 | 1 | 2 | 1 |
+| +6 | +0 | +4 | +1 | +2 | +1 |
 
 **Fireblood:** Fire immune.
 
@@ -1302,7 +1302,7 @@ _Blue-skinned warriors with broad shoulders and braided hair. They sound war hor
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 5 | 1 | 4 | 2 | 3 | 2 |
+| +5 | +1 | +4 | +2 | +3 | +2 |
 
 **Frostblood:** Cold immune.
 
@@ -1316,7 +1316,7 @@ _Highland-dwelling, barbaric giants with goatlike legs, horns, and horizontal pu
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 1 | 3 | -2 | 0 | -2 |
+| +4 | +1 | +3 | -2 | +0 | -2 |
 
 ### Giant, Hill
 
@@ -1328,7 +1328,7 @@ _Fleshy hulks with leathery skin and broad, sloping foreheads. Cruel, boorish, a
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 0 | 3 | -2 | -2 | -2 |
+| +4 | +0 | +3 | -2 | -2 | -2 |
 
 ### Giant, Stone
 
@@ -1340,7 +1340,7 @@ _Lean, sinewy giants with stony skin and deep-set eyes. They are quiet and poise
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 2 | 4 | 1 | 1 | -1 |
+| +4 | +2 | +4 | +1 | +1 | -1 |
 
 **Stone Hide:** Half damage from stabbing and cutting weapons.
 
@@ -1354,7 +1354,7 @@ _Regal titans with sea-green skin, flowing white hair, and thundering voices. Th
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 6 | 2 | 4 | 3 | 4 | 4 |
+| +6 | +2 | +4 | +3 | +4 | +4 |
 
 **Stormblood:** Electricity immune.
 
@@ -1370,7 +1370,7 @@ _Crawling masses of slime with dozens of screeching, lipless mouths and wet eyeb
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | -2 | 3 | -3 | 0 | -3 |
+| +2 | -2 | +3 | -3 | +0 | -3 |
 
 **Gibbering:** Creatures within near DC 12 WIS on turn or take a random action (d8): 1-3. do nothing, 4-5. move in random direction, 6-7. attack nearest creature, 8. flee.
 
@@ -1386,7 +1386,7 @@ _Veteran warriors seasoned in arena fights to the death._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 1 | 2 | 0 | 0 | 1 |
+| +2 | +1 | +2 | +0 | +0 | +1 |
 
 ### Gnoll
 
@@ -1398,7 +1398,7 @@ _Barbaric, opportunistic hyena-folk who range in large packs._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 1 | 1 | 1 | -1 | 0 | -1 |
+| +1 | +1 | +1 | -1 | +0 | -1 |
 
 **Rage:** 1/day, immune to morale checks, +1d4 damage (3 rounds).
 
@@ -1412,7 +1412,7 @@ _Gray-skinned, white-haired fey the size of halflings. They hunt for gems and ra
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 1 | 1 | 1 | 1 | 1 |
+| +2 | +1 | +1 | +1 | +1 | +1 |
 
 **Stone Meld:** 2/day, underground only. Turn invisible for 3 rounds.
 
@@ -1426,7 +1426,7 @@ _A short, hairless humanoid with green skin and pointy ears._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 0 | 1 | 1 | -1 | -1 | -2 |
+| +0 | +1 | +1 | -1 | -1 | -2 |
 
 **Keen Senses:** Can't be surprised.
 
@@ -1440,7 +1440,7 @@ _A scarred goblin with knotted muscles and a crown of iron._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 1 | 2 | -1 | 0 | 1 |
+| +2 | +1 | +2 | -1 | +0 | +1 |
 
 **Keen Senses:** Can't be surprised.
 
@@ -1454,7 +1454,7 @@ _A swaying, chanting goblin wearing necklaces of teeth and a robe of musty rat p
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 0 | 1 | 1 | 0 | 2 | 1 |
+| +0 | +1 | +1 | +0 | +2 | +1 |
 
 **Keen Senses:** Can't be surprised.
 
@@ -1474,7 +1474,7 @@ _A towering, faceless humanoid shaped from glistening clay._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 0 | 4 | -2 | 0 | -2 |
+| +4 | +0 | +4 | -2 | +0 | -2 |
 
 **Golem:** Immune to damage from fire, cold, electricity, or non-magical sources. Healed by acid.
 
@@ -1490,7 +1490,7 @@ _A ghastly monstrosity made of sewn-together corpses._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | -1 | 4 | -1 | 1 | -3 |
+| +4 | -1 | +4 | -1 | +1 | -3 |
 
 **Golem:** Immune to damage from fire, cold, or non-magical sources. Healed by electricity.
 
@@ -1506,7 +1506,7 @@ _A bulky iron suit that squeals and sparks with each step._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 5 | -1 | 4 | -2 | 0 | -2 |
+| +5 | -1 | +4 | -2 | +0 | -2 |
 
 **Golem:** Immune to damage from cold or non-magical sources. Healed by fire.
 
@@ -1522,7 +1522,7 @@ _A wide-limbed, lumbering statue that shakes the ground._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | -1 | 4 | -2 | 0 | -2 |
+| +4 | -1 | +4 | -2 | +0 | -2 |
 
 **Golem:** Immune to damage from fire, cold, electricity, or non-magical sources.
 
@@ -1538,7 +1538,7 @@ _A snorting bull made entirely of iron plating. A cloud of green fog billows fro
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 0 | 2 | -3 | 1 | -3 |
+| +4 | +0 | +2 | -3 | +1 | -3 |
 
 **Charge:** Move up to double near in straight line and make 1 gore attack. If hit, x3 damage.
 
@@ -1554,7 +1554,7 @@ _Mighty, jungle-dwelling apes._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 2 | 2 | -1 | 1 | -1 |
+| +4 | +2 | +2 | -1 | +1 | -1 |
 
 ### Gray Ooze
 
@@ -1566,7 +1566,7 @@ _Slick puddles the color of stone._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 1 | 1 | 0 | -4 | -3 | -4 |
+| +1 | +1 | +0 | -4 | -3 | -4 |
 
 **Impervious:** Immune to damage from acid, cold, or fire.
 
@@ -1582,7 +1582,7 @@ _A howling tornado of wind._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 5 | 2 | -2 | 1 | -2 |
+| +3 | +5 | +2 | -2 | +1 | -2 |
 
 **Impervious:** Only damaged by magical sources.
 
@@ -1598,7 +1598,7 @@ _A thundering pillar of earth._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 5 | 0 | 4 | -2 | 1 | -2 |
+| +5 | +0 | +4 | -2 | +1 | -2 |
 
 **Impervious:** Only damaged by magical sources.
 
@@ -1614,7 +1614,7 @@ _A roaring column of flames._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 3 | 3 | -2 | 1 | -2 |
+| +4 | +3 | +3 | -2 | +1 | -2 |
 
 **Impervious:** Only damaged by magical sources. Fire immune.
 
@@ -1630,7 +1630,7 @@ _A crashing vortex of water._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 2 | 2 | -2 | 1 | -2 |
+| +4 | +2 | +2 | -2 | +1 | -2 |
 
 **Impervious:** Only damaged by magical sources.
 
@@ -1646,7 +1646,7 @@ _A huge worm with four suckered tentacles and a snapping beak._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 2 | 1 | -3 | 1 | -3 |
+| +3 | +2 | +1 | -3 | +1 | -3 |
 
 **Camouflage:** Hard to see in cave terrain or rocks.
 
@@ -1662,7 +1662,7 @@ _Winged hunters with the head of an eagle and body of a lion. Their favored food
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 2 | 1 | -3 | 1 | -1 |
+| +4 | +2 | +1 | -3 | +1 | -1 |
 
 ### Grimlow
 
@@ -1674,7 +1674,7 @@ _A tall, oval-shaped mammal. A giant, half-moon maw hides on its belly beneath i
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 2 | 3 | -3 | 1 | -2 |
+| +4 | +2 | +3 | -3 | +1 | -2 |
 
 **Grab:** One target in near DC 15 STR or wrapped in grimlow's tongue and pulled into its mouth. Bite attacks automatically hit the target. Can only grab 1 target at a time. DC 15 STR on turn to break free.
 
@@ -1688,7 +1688,7 @@ _A sentry equipped with sturdy weapons and armor._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 1 | 0 | 0 | 0 | 1 | 0 |
+| +1 | +0 | +0 | +0 | +1 | +0 |
 
 ### Hag, Night
 
@@ -1700,7 +1700,7 @@ _A purple-skinned, stooped woman with stringy, white hair and a mouth full of ir
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 2 | 1 | 2 | 3 | 3 |
+| +4 | +2 | +1 | +2 | +3 | +3 |
 
 **Blind:** One target within near DC 15 CHA or blinded for 1d4 days.
 
@@ -1716,7 +1716,7 @@ _A green, sunken-faced woman. Seaweed hair and oozing flesh._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 3 | 1 | 1 | 2 | 2 |
+| +2 | +3 | +1 | +1 | +2 | +2 |
 
 **Shapechange:** Instantly change to look like any other humanoid.
 
@@ -1732,7 +1732,7 @@ _Eyes dark as moonless nights, skin made of rotting wood, hair of tangled roots 
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 2 | 1 | 1 | 2 | 3 |
+| +3 | +2 | +1 | +1 | +2 | +3 |
 
 **Drink Pain:** Near range. DC 12 CHA to deal 2d4 damage to a creature; regain that many HP.
 
@@ -1748,7 +1748,7 @@ _Horrific, winged women with vulture-like lower bodies. They keen a hypnotic son
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 1 | 3 | 1 | 0 | 0 | 1 |
+| +1 | +3 | +1 | +0 | +0 | +1 |
 
 **Song:** Enemies who can hear within double near DC 12 CHA or dazed and drawn to harpy for 1d4 rounds. Immune for 1 day if passed check.
 
@@ -1762,7 +1762,7 @@ _Black wolfhounds with red eyes and jaws dripping with flames._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 1 | 1 | -2 | 1 | -3 |
+| +2 | +1 | +1 | -2 | +1 | -3 |
 
 **Impervious:** Fire immune.
 
@@ -1778,7 +1778,7 @@ _Fierce, winged creatures with the lower body of a horse and upper body of a gia
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 3 | 1 | -3 | 1 | -2 |
+| +3 | +3 | +1 | -3 | +1 | -2 |
 
 ### Hippopotamus
 
@@ -1790,7 +1790,7 @@ _Ornery river-beasts as large as cows with round, purple bodies and bulbous snou
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 0 | 2 | -3 | 0 | -3 |
+| +4 | +0 | +2 | -3 | +0 | -3 |
 
 **Stumpy:** ADV on STR checks to grab or drag other creatures.
 
@@ -1804,7 +1804,7 @@ _A sturdy, tall goblin with russet skin. Militant and strategic._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 0 | 1 | 2 | 1 | 1 |
+| +3 | +0 | +1 | +2 | +1 | +1 |
 
 **Phalanx:** +1 to attacks and AC when in close range of an allied hobgoblin.
 
@@ -1818,7 +1818,7 @@ _Powerful, swift herd animals that roam open plains._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 1 | 2 | -3 | 1 | -2 |
+| +3 | +1 | +2 | -3 | +1 | -2 |
 
 ### Hydra
 
@@ -1830,7 +1830,7 @@ _A towering, amphibious reptile with a bouquet of snake heads writhing on long n
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 5 | 1 | 2 | -2 | 1 | -2 |
+| +5 | +1 | +2 | -2 | +1 | -2 |
 
 **Heads:** Choose how many heads the hydra has. Each is LV 2, AC 15, HP 11, and can make 1 bite attack. A killed head sprouts into two new heads at the start of the hydra's turn unless cauterized beforehand. The hydra's LV is all the heads combined.
 
@@ -1844,7 +1844,7 @@ _Intelligent creatures made of flowing air. Often bound to the bidding of evil s
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 3 | 2 | 2 | 1 | 0 |
+| +2 | +3 | +2 | +2 | +1 | +0 |
 
 **Bound:** A secret, mundane contingency (such as the touch of a feather) ends the invisible stalker's magical servitude.
 
@@ -1862,7 +1862,7 @@ _Hand-sized, purple sea jellies with stinging tentacles._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| -4 | 1 | 0 | -4 | 1 | -4 |
+| -4 | +1 | +0 | -4 | +1 | -4 |
 
 **Toxin:** DC 9 CON or paralyzed 1d4 rounds.
 
@@ -1876,7 +1876,7 @@ _A warrior in shining plate mail and the surcoat of a knightly order._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 0 | 1 | 0 | 0 | 1 |
+| +3 | +0 | +1 | +0 | +0 | +1 |
 
 **Oath:** 3/day, ADV on a roll made in service of knight's order.
 
@@ -1890,7 +1890,7 @@ _Puny, scaled coyote-lizards that dwell underground._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| -2 | 2 | 0 | -1 | 0 | -1 |
+| -2 | +2 | +0 | -1 | +0 | -1 |
 
 **Dodge:** 1/day, an attack that would hit misses instead.
 
@@ -1904,7 +1904,7 @@ _A scaly dog-lizard painted with colorful stripes and rattling a hefty leg bone 
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| -2 | 2 | 0 | -1 | 1 | 2 |
+| -2 | +2 | +0 | -1 | +1 | +2 |
 
 **Dodge:** 1/day, an attack that would hit misses instead.
 
@@ -1922,7 +1922,7 @@ _Primordial, tentacled leviathans the size of war galleons. They live in the lig
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 6 | 3 | 4 | 4 | 3 | 4 |
+| +6 | +3 | +4 | +4 | +3 | +4 |
 
 **Impervious:** Electricity immune.
 
@@ -1942,7 +1942,7 @@ _A glossy black, blood-drinking slug as large as a cat._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 1 | -1 | 1 | -3 | -1 | -3 |
+| +1 | -1 | +1 | -3 | -1 | -3 |
 
 **Attach:** Attach to target; bite auto-hits next round. DC 12 STR on turn to tear off.
 
@@ -1956,7 +1956,7 @@ _Impish fey who favor green garb and love fooling tall folk with promises of gol
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 1 | 3 | 1 | 2 | 1 | 3 |
+| +1 | +3 | +1 | +2 | +1 | +3 |
 
 **Alert:** Cannot be surprised.
 
@@ -1978,7 +1978,7 @@ _A howling tornado of wind._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 5 | 2 | -2 | 1 | -2 |
+| +3 | +5 | +2 | -2 | +1 | -2 |
 
 **Impervious:** Only damaged by magical sources.
 
@@ -1994,7 +1994,7 @@ _A thundering pillar of earth._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 5 | 0 | 4 | -2 | 1 | -2 |
+| +5 | +0 | +4 | -2 | +1 | -2 |
 
 **Impervious:** Only damaged by magical sources.
 
@@ -2010,7 +2010,7 @@ _A roaring column of flames._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 3 | 3 | -2 | 1 | -2 |
+| +4 | +3 | +3 | -2 | +1 | -2 |
 
 **Impervious:** Only damaged by magical sources. Fire immune.
 
@@ -2026,7 +2026,7 @@ _A crashing vortex of water._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 2 | 2 | -2 | 1 | -2 |
+| +4 | +2 | +2 | -2 | +1 | -2 |
 
 **Impervious:** Only damaged by magical sources.
 
@@ -2042,7 +2042,7 @@ _A wizard who has completed a necromantic ritual to become a mighty, undead sorc
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 1 | 4 | 4 | 3 | 3 |
+| +3 | +1 | +4 | +4 | +3 | +3 |
 
 **Supreme Undead:** Immune to morale checks. Only damaged by magical sources.
 
@@ -2070,7 +2070,7 @@ _Tawny great cats that hunt in open plains. Males have manes._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 2 | 2 | -3 | 1 | -3 |
+| +4 | +2 | +2 | -3 | +1 | -3 |
 
 ### Lizardfolk
 
@@ -2082,7 +2082,7 @@ _Crocodilian humanoids with scaly faces, claws, and tails. They dwell in swamps 
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 1 | 1 | 2 | -1 | 1 | -2 |
+| +1 | +1 | +2 | -1 | +1 | -2 |
 
 ### Mage
 
@@ -2094,7 +2094,7 @@ _Trained wizards who are often members of a sorcerous order._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| -1 | 1 | 0 | 3 | 1 | 0 |
+| -1 | +1 | +0 | +3 | +1 | +0 |
 
 **Arcane Armor (INT Spell):** Self. DC 12. AC 16 for 2d4 rounds.
 
@@ -2116,7 +2116,7 @@ _Massive, shaggy elephants with tusks that reach the ground._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 5 | 0 | 4 | -2 | 1 | 0 |
+| +5 | +0 | +4 | -2 | +1 | +0 |
 
 **Thick Fur:** Cold immune.
 
@@ -2132,7 +2132,7 @@ _Swooping manta rays as large as longboats. Gentle and intelligent enough to be 
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 3 | 1 | -2 | 1 | -3 |
+| +3 | +3 | +1 | -2 | +1 | -3 |
 
 **Poison:** DC 15 CON or drop to 0 hit points in 1d4 rounds.
 
@@ -2146,7 +2146,7 @@ _Human-faced lions with bat wings and cruelly spiked tails. They speak halting T
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 2 | 2 | -2 | 1 | -2 |
+| +4 | +2 | +2 | -2 | +1 | -2 |
 
 **Spikes:** Manticores have 4d6 tail spikes. They regrow each day.
 
@@ -2160,7 +2160,7 @@ _Muscled guard dogs with fierce loyalty to their pack or owners._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 1 | 1 | 0 | -2 | 1 | -2 |
+| +1 | +1 | +0 | -2 | +1 | -2 |
 
 ### Medusa
 
@@ -2172,7 +2172,7 @@ _Immortal women with coiling snakes for hair and scaled skin._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 1 | 2 | 2 | 3 | 4 |
+| +2 | +1 | +2 | +2 | +3 | +4 |
 
 **Godborn:** Hostile spells targeting the medusa are DC 15 to cast.
 
@@ -2190,7 +2190,7 @@ _Ocean dwellers with human upper bodies and long fish tails._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 1 | 1 | 0 | 0 | 1 | 1 |
+| +1 | +1 | +0 | +0 | +1 | +1 |
 
 ### Mimic
 
@@ -2202,7 +2202,7 @@ _Beasts that look like objects._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 0 | 1 | -2 | 0 | -3 |
+| +2 | +0 | +1 | -2 | +0 | -3 |
 
 **Stick:** DC 15 STR or adhere to target; auto-hit with bite. DC 15 STR on turn to remove.
 
@@ -2216,7 +2216,7 @@ _Ferocious bull-men with hooves and curved horns. They live in mazelike tunnels.
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 1 | 3 | 1 | 2 | 1 |
+| +4 | +1 | +3 | +1 | +2 | +1 |
 
 **Charge:** In place of attacks, move up to double near in a straight line and make 1 horn attack. If hit, x2 damage.
 
@@ -2230,7 +2230,7 @@ _A towering, brown-haired grazer with weighty, flat antlers._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 0 | 1 | -2 | 0 | -2 |
+| +3 | +0 | +1 | -2 | +0 | -2 |
 
 ### Mordanticus The Flayed
 
@@ -2242,7 +2242,7 @@ _A skinless mummy-lich wearing a crown set with nine bright gems. Once the head 
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 4 | 4 | 5 | 4 | 5 |
+| +4 | +4 | +4 | +5 | +4 | +5 |
 
 **Legendary Undead:** Immune to morale checks. Only damaged by magical sources. Hostile spells targeting Mordanticus are DC 18 to cast.
 
@@ -2274,7 +2274,7 @@ _A desiccated, linen-wrapped zombie. It was created with an intricate embalming 
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 0 | 2 | 3 | 2 | 3 |
+| +3 | +0 | +2 | +3 | +2 | +3 |
 
 **Supreme Undead:** Immune to morale checks. Only damaged by magical sources.
 
@@ -2292,7 +2292,7 @@ _Lumbering humanoids with spongy, elongated bodies and toadstools on their heads
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | -1 | 2 | 0 | 1 | 0 |
+| +2 | -1 | +2 | +0 | +1 | +0 |
 
 **Sunblind:** Blinded in bright light.
 
@@ -2308,7 +2308,7 @@ _Magic-wielding cobras towering ten feet high. Once a dominant species, they are
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 1 | 3 | 2 | 2 | 4 |
+| +4 | +1 | +3 | +2 | +2 | +4 |
 
 **Poison:** DC 15 CON or paralyzed 1d4 rounds.
 
@@ -2328,7 +2328,7 @@ _Mindless, skeletal husks of nagas reanimated by sorcery._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 2 | 4 | -3 | 0 | 4 |
+| +3 | +2 | +4 | -3 | +0 | +4 |
 
 **Greater Undead:** Immune to morale checks. Only damaged by silver or magical sources.
 
@@ -2342,7 +2342,7 @@ _Black warhorses with flaming manes, hooves, and eyes._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 3 | 2 | -1 | 1 | -2 |
+| +3 | +3 | +2 | -1 | +1 | -2 |
 
 **Impervious:** Nightmare and its rider immune to fire.
 
@@ -2356,7 +2356,7 @@ _A pale, angular woman in translucent plate mail fashioned from giant scorpion c
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 5 | 3 | 4 | 3 | 4 | 5 |
+| +5 | +3 | +4 | +3 | +4 | +5 |
 
 **Legendary Undead:** Immune to morale checks. Only damaged by magical sources. Hostile spells targeting Obe-Ixx are DC 18 to cast.
 
@@ -2380,7 +2380,7 @@ _An orange puddle of quivering slime._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | -1 | 2 | -4 | -3 | -4 |
+| +2 | -1 | +2 | -4 | -3 | -4 |
 
 **Split:** If cut or chopped, split into two smaller oozes (divide remaining HP between both).
 
@@ -2394,7 +2394,7 @@ _Octopi as large as sailing skiffs._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 3 | 1 | -2 | 1 | -3 |
+| +3 | +3 | +1 | -2 | +1 | -3 |
 
 **Grab:** DC 15 STR or immobilized.
 
@@ -2412,7 +2412,7 @@ _A massive, dim-witted brute with tusks and a heavy frame. Often lords over gobl
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | -1 | 3 | -2 | -2 | -2 |
+| +4 | -1 | +3 | -2 | -2 | -2 |
 
 ### Oni
 
@@ -2424,7 +2424,7 @@ _Cunning and sorcerous ogre-demons with shaggy white hair, blue skin, and yellow
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 5 | 1 | 2 | 2 | 1 | 3 |
+| +5 | +1 | +2 | +2 | +1 | +3 |
 
 **Shapeshift:** In place of attacks, turn into any humanoid or back into original form.
 
@@ -2444,7 +2444,7 @@ _A tusked, tall humanoid with gray skin and pointed ears._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 0 | 0 | -1 | 0 | -1 |
+| +2 | +0 | +0 | -1 | +0 | -1 |
 
 **Rage:** 1/day, immune to morale checks, +1d4 damage (3 rounds).
 
@@ -2458,7 +2458,7 @@ _An imposing orc with scars crisscrossing its body._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 1 | 1 | -1 | 0 | -1 |
+| +2 | +1 | +1 | -1 | +0 | -1 |
 
 **Rage:** 1/day, immune to morale checks, +1d4 damage (3 rounds).
 
@@ -2472,7 +2472,7 @@ _Stumpy, three-legged beasts with barbed tentacles and vast mouths. Drawn by rot
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | -1 | 4 | -2 | 0 | -3 |
+| +4 | -1 | +4 | -2 | +0 | -3 |
 
 **Disease:** DC 15 CON or infected. DC 15 CON each day or lose 1d6 HP (can't heal). Ends on success.
 
@@ -2486,7 +2486,7 @@ _Cantankerous bears with owl eyes, beaks, and feathers._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 1 | 3 | -2 | 2 | -3 |
+| +4 | +1 | +3 | -2 | +2 | -3 |
 
 **Crush:** Deals an extra die of damage if it hits the same target with both claws.
 
@@ -2500,7 +2500,7 @@ _Supple large cats with blue-black fur. Stealthy hunters._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 4 | 1 | -2 | 1 | -3 |
+| +3 | +4 | +1 | -2 | +1 | -3 |
 
 ### Peasant
 
@@ -2512,7 +2512,7 @@ _A commoner in worn clothes._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 0 | 0 | 0 | 0 | 0 | 0 |
+| +0 | +0 | +0 | +0 | +0 | +0 |
 
 ### Pegasus
 
@@ -2524,7 +2524,7 @@ _Winged horses with noble bearings and pearly white coats._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 2 | 2 | -3 | 1 | 0 |
+| +3 | +2 | +2 | -3 | +1 | +0 |
 
 ### Phoenix
 
@@ -2536,7 +2536,7 @@ _Huge, soaring eagles made of searing flames. Intelligent and imbued with immort
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 4 | 2 | 3 | 3 | 3 |
+| +3 | +4 | +2 | +3 | +3 | +3 |
 
 **Impervious:** Immune to fire.
 
@@ -2556,7 +2556,7 @@ _A school of flat, silvery fish with vicious fangs._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| -2 | 2 | 0 | -3 | 0 | -3 |
+| -2 | +2 | +0 | -3 | +0 | -3 |
 
 **Savage:** ADV on attacks against creatures below half their HP.
 
@@ -2570,7 +2570,7 @@ _Seafaring scoundrels who live to steal and hoard treasure._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 1 | 1 | 0 | 0 | 0 | 0 |
+| +1 | +1 | +0 | +0 | +0 | +0 |
 
 ### Plesiosaurus
 
@@ -2582,7 +2582,7 @@ _Aquatic reptiles as big as elephants. Flat flippers and narrow, toothy maws on 
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 3 | 3 | -3 | 1 | -3 |
+| +4 | +3 | +3 | -3 | +1 | -3 |
 
 ### Priest
 
@@ -2594,7 +2594,7 @@ _A respected member of a clergy who leads holy rituals and rites._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 1 | 0 | 1 | 0 | 2 | 1 |
+| +1 | +0 | +1 | +0 | +2 | +1 |
 
 **Anoint (WIS Spell):** DC 12. Close. One weapon or armor becomes a magic +2 version for 10 rounds.
 
@@ -2614,7 +2614,7 @@ _A mass of clear ooze strobing with sick pulses of violet light._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 2 | 3 | -4 | -3 | -4 |
+| +3 | +2 | +3 | -4 | -3 | -4 |
 
 **Impervious:** Only harmed by fire.
 
@@ -2630,7 +2630,7 @@ _Long-beaked beasts with wide, triangular wings. Large enough to carry off a hum
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 4 | 2 | -2 | 1 | -3 |
+| +2 | +4 | +2 | -2 | +1 | -3 |
 
 **Grab:** DC 15 STR or held. DC 15 STR on turn to break free.
 
@@ -2644,7 +2644,7 @@ _A massive worm as tall as a castle keep. Has a rotating maw and is covered in p
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 5 | 1 | 3 | -3 | 1 | -3 |
+| +5 | +1 | +3 | -3 | +1 | -3 |
 
 **Poison:** DC 15 CON or go to 0 HP.
 
@@ -2660,7 +2660,7 @@ _Demonic illusionists whose true form is of a humanlike great cat with backwards
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 1 | 3 | 3 | 3 | 3 | 4 |
+| +1 | +3 | +3 | +3 | +3 | +4 |
 
 **Impervious:** Only damaged by magical sources. Immune to hostile spells of 3rd tier or lower.
 
@@ -2678,7 +2678,7 @@ _Rangy, plague-carrying rodents that infest underground places._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| -3 | 0 | 1 | -3 | 1 | -3 |
+| -3 | +0 | +1 | -3 | +1 | -3 |
 
 **Disease:** DC 9 CON or 1d4 CON damage (can't heal while ill).
 
@@ -2692,7 +2692,7 @@ _Child-sized, savage rats bristling with bony face and spine ridges._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 1 | 2 | 1 | -2 | 1 | -2 |
+| +1 | +2 | +1 | -2 | +1 | -2 |
 
 **Disease:** DC 12 CON or 1d4 CON damage (can't heal while ill).
 
@@ -2706,7 +2706,7 @@ _Cunning rats as large as cats. Mangy fur and wormlike tails._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| -2 | 1 | 1 | -2 | 1 | -2 |
+| -2 | +1 | +1 | -2 | +1 | -2 |
 
 **Disease:** DC 12 CON or 1d4 CON damage (can't heal while ill).
 
@@ -2720,7 +2720,7 @@ _A screeching tidal wave of clawing and biting rats._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| -3 | 0 | 1 | -3 | 1 | -3 |
+| -3 | +0 | +1 | -3 | +1 | -3 |
 
 **Disease:** DC 9 CON or 1d4 CON damage (can't heal while ill).
 
@@ -2734,7 +2734,7 @@ _A pearl-white lion with feathered wings that stands twenty feet tall. Rathgamno
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 5 | 3 | 4 | 5 | 6 | 5 |
+| +5 | +3 | +4 | +5 | +6 | +5 |
 
 **Legendary:** Only damaged by magical sources. Hostile spells targeting Rathgamnon are DC 18 to cast.
 
@@ -2762,7 +2762,7 @@ _A knight in blackened armor riddled with cruel barbs._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 0 | 1 | 0 | 0 | 2 |
+| +3 | +0 | +1 | +0 | +0 | +2 |
 
 **Bloodlust:** +2 damage with melee weapons (included).
 
@@ -2776,7 +2776,7 @@ _Massive, blue centipedes with neck hoods and red-hot spine spikes. Dwell in arc
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 5 | 1 | 2 | -3 | 1 | -3 |
+| +5 | +1 | +2 | -3 | +1 | -3 |
 
 **Impervious:** Immune to cold and fire.
 
@@ -2794,7 +2794,7 @@ _Gray-skinned bulls with single nose horns. Dwell in grasslands._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | -1 | 3 | -3 | 0 | -3 |
+| +4 | -1 | +3 | -3 | +0 | -3 |
 
 **Charge:** Move up to double near in straight line and make 1 horn attack. If hit, x3 damage.
 
@@ -2808,7 +2808,7 @@ _Human-shaped beings formed from black space ice. Their eyes are two flickering,
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 4 | 3 | 2 | 2 | 2 |
+| +4 | +4 | +3 | +2 | +2 | +2 |
 
 **Impervious:** Immune to cold.
 
@@ -2824,7 +2824,7 @@ _Dragon-sized hawks that nest in remote mountains._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 5 | 3 | 2 | -2 | 2 | -2 |
+| +5 | +3 | +2 | -2 | +2 | -2 |
 
 **Grab:** DC 18 STR or target held. DC 18 STR on turn to break free.
 
@@ -2838,7 +2838,7 @@ _Ravenous monstrosities that look like cave rocks when their single eye and maw 
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | -2 | 4 | -1 | 2 | 1 |
+| +3 | -2 | +4 | -1 | +2 | +1 |
 
 **Impervious:** Can only be damaged by magical sources.
 
@@ -2858,7 +2858,7 @@ _Carnivorous flowers as large as a human. They reek of carrion._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 1 | -3 | 1 | -4 | -3 | -4 |
+| +1 | -3 | +1 | -4 | -3 | -4 |
 
 **Toxin:** DC 12 CON or unconscious for 1d4 rounds.
 
@@ -2872,7 +2872,7 @@ _A mud-brown insect as big as a wolf with two feathery antennae. Consumes metal.
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 3 | 1 | -3 | 1 | -3 |
+| +2 | +3 | +1 | -3 | +1 | -3 |
 
 **Corrosive:** Metal that touches the rust monster is destroyed on a d6 roll of 1-3.
 
@@ -2886,7 +2886,7 @@ _Humanoids with sea-green skin, webbed limbs, and shark teeth. Vicious hunters._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 1 | 1 | 0 | -1 | 0 | -1 |
+| +1 | +1 | +0 | -1 | +0 | -1 |
 
 **Half-Amphibious:** Must be submerged in water every 4 hours or suffocates.
 
@@ -2900,7 +2900,7 @@ _Fire-colored lizardfolk with long tails. Flame-like frills run down their backs
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 0 | 2 | -1 | 1 | -1 |
+| +2 | +0 | +2 | -1 | +1 | -1 |
 
 **Impervious:** Fire immune.
 
@@ -2916,7 +2916,7 @@ _A chittering cloud of iridescent, oval-shaped beetles._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| -1 | 3 | 1 | -3 | 0 | -3 |
+| -1 | +3 | +1 | -3 | +0 | -3 |
 
 ### Scarecrow
 
@@ -2928,7 +2928,7 @@ _Ragged clothes and a painted burlap head stuffed with straw. Possessed by a mal
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 2 | 2 | 0 | 0 | 2 |
+| +2 | +2 | +2 | +0 | +0 | +2 |
 
 **Scream:** Creatures who hear in double near DC 12 CHA or paralyzed for 1d4 rounds.
 
@@ -2942,7 +2942,7 @@ _Desert-dwelling arachnids with pincers and curved tail stingers._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| -4 | 1 | 0 | -4 | 0 | -4 |
+| -4 | +1 | +0 | -4 | +0 | -4 |
 
 **Poison:** DC 9 CON or go to 0 HP.
 
@@ -2956,7 +2956,7 @@ _Chitin-plated scorpions as big as camels._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 2 | 0 | -4 | 0 | -4 |
+| +2 | +2 | +0 | -4 | +0 | -4 |
 
 **Grab:** DC 12 STR or target held. DC 12 STR on turn to break free.
 
@@ -2972,7 +2972,7 @@ _Flitting, sentient shadows in the vague shape of a human._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| -4 | 2 | 2 | -2 | 0 | -1 |
+| -4 | +2 | +2 | -2 | +0 | -1 |
 
 **Drain:** Target takes 1 STR damage. At 0 STR, target dies and becomes a shadow.
 
@@ -2986,7 +2986,7 @@ _Fetid piles of slimy vegetation animated to life by lightning._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | -2 | 2 | -3 | 0 | -3 |
+| +3 | -2 | +2 | -3 | +0 | -3 |
 
 **Impervious:** Fire immune.
 
@@ -3002,7 +3002,7 @@ _Bloodthirsty apex predators of the sea. Gray, torpedo-like body._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 1 | 2 | -3 | 1 | -3 |
+| +3 | +1 | +2 | -3 | +1 | -3 |
 
 ### Shark, Megalodon
 
@@ -3014,7 +3014,7 @@ _Primordial sharks the size of whales. Savage hunters._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 5 | 1 | 2 | -3 | 1 | -3 |
+| +5 | +1 | +2 | -3 | +1 | -3 |
 
 **Fearless:** Immune to morale checks.
 
@@ -3028,7 +3028,7 @@ _Baleful fey with dove wings and iridescent fish scales. Their singing entrances
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 0 | 2 | 0 | 2 | 2 | 4 |
+| +0 | +2 | +0 | +2 | +2 | +4 |
 
 **Song:** Enemies who can hear within double near DC 15 CHA or paralyzed 1d4 rounds. Immune for 1 day if passed check.
 
@@ -3042,7 +3042,7 @@ _A bleach-boned skeleton with red pinpoints of light in its eyes._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 1 | 0 | 2 | -2 | 0 | -1 |
+| +1 | +0 | +2 | -2 | +0 | -1 |
 
 **Undead:** Immune to morale checks.
 
@@ -3056,7 +3056,7 @@ _Prehistoric tigers with long canine fangs. They hunt in grasslands and ice fiel
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 2 | 1 | -3 | 1 | -3 |
+| +3 | +2 | +1 | -3 | +1 | -3 |
 
 ### Snake, Cobra
 
@@ -3068,7 +3068,7 @@ _A weaving serpent with a neck hood and lethal venom._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| -3 | 2 | 0 | -3 | 0 | -3 |
+| -3 | +2 | +0 | -3 | +0 | -3 |
 
 **Poison:** DC 18 CON or go to 0 HP with a death timer of 1.
 
@@ -3082,7 +3082,7 @@ _An enormous, mottled serpent that can swallow a cow whole._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 2 | 1 | -2 | 0 | -2 |
+| +3 | +2 | +1 | -2 | +0 | -2 |
 
 **Constrict:** Contested STR to hold target immobile for one round.
 
@@ -3096,7 +3096,7 @@ _A roiling wave of snakes darting and flowing across the ground._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| -3 | 2 | 1 | -3 | 0 | -3 |
+| -3 | +2 | +1 | -3 | +0 | -3 |
 
 **Poison:** DC 12 CON or go to 0 HP in 1d4 rounds.
 
@@ -3110,7 +3110,7 @@ _An armed footsoldier trained in the ways of battlefield combat._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 1 | 0 | 1 | 0 | 0 | 0 |
+| +1 | +0 | +1 | +0 | +0 | +0 |
 
 ### Sphinx
 
@@ -3122,7 +3122,7 @@ _A winged, leonine oracle who can see into time and space and often speaks in ri
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 1 | 2 | 4 | 4 | 3 |
+| +4 | +1 | +2 | +4 | +4 | +3 |
 
 **Roar:** In place of attacks, all creatures who can hear within far DC 18 CHA or paralyzed 1d4 rounds.
 
@@ -3146,7 +3146,7 @@ _Silent, web-weaving arachnids with a flesh-dissolving venom._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| -4 | 1 | 0 | -4 | 0 | -4 |
+| -4 | +1 | +0 | -4 | +0 | -4 |
 
 **Poison:** DC 9 CON or take 1d4 damage.
 
@@ -3160,7 +3160,7 @@ _Bulbous abdomen and eight, spindly legs. Dwells high in trees or caves and ambu
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 3 | 0 | -2 | 1 | -2 |
+| +2 | +3 | +0 | -2 | +1 | -2 |
 
 **Poison:** DC 12 CON or paralyzed 1d4 hours.
 
@@ -3174,7 +3174,7 @@ _A scurrying carpet of spiders._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| -1 | 3 | 0 | -3 | 1 | -3 |
+| -1 | +3 | +0 | -3 | +1 | -3 |
 
 **Poison:** DC 12 CON or paralyzed 1d4 rounds.
 
@@ -3188,7 +3188,7 @@ _Darting, orange insect-bat with four wings and needlelike beak._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| -2 | 2 | 0 | -2 | 0 | -2 |
+| -2 | +2 | +0 | -2 | +0 | -2 |
 
 **Blood Drain:** Attach to bitten target; auto-hit the next round. DC 9 STR on turn to remove.
 
@@ -3202,7 +3202,7 @@ _A gray-skinned, gaunt creature with four ropy limbs tipped in sucker-lined claw
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| -2 | 2 | 1 | -2 | 0 | -2 |
+| -2 | +2 | +1 | -2 | +0 | -2 |
 
 **Stealthy:** ADV on DEX checks to sneak and hide.
 
@@ -3218,7 +3218,7 @@ _A colossal, four-legged reptile with crocodilian jaws, amber scales, and a diam
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 7 | 2 | 5 | -3 | 1 | -3 |
+| +7 | +2 | +5 | -3 | +1 | -3 |
 
 **Legendary:** Only damaged by magical sources. Hostile spells targeting the tarrasque are DC 18 to cast.
 
@@ -3246,7 +3246,7 @@ _A floating mass of rubbery skin crusted with barnacles. Its ten eyestalks writh
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| -2 | 2 | 1 | -2 | 0 | -2 |
+| -2 | +2 | +1 | -2 | +0 | -2 |
 
 **Legendary:** Only damaged by magical sources. Hostile spells targeting The Ten-Eyed Oracle are DC 18 to cast.
 
@@ -3273,7 +3273,7 @@ _A cheerful merchant who appears to be a hale, middle-aged human man with a hand
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 3 | 4 | 3 | 4 | 5 |
+| +3 | +3 | +4 | +3 | +4 | +5 |
 
 **Legendary:** Only damaged by magical sources. Hostile spells targeting The Wandering Merchant are DC 18 to cast.
 
@@ -3301,7 +3301,7 @@ _A cat burglar in a black cloak._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 0 | 2 | 0 | 0 | 0 | 1 |
+| +0 | +2 | +0 | +0 | +0 | +1 |
 
 **Stealthy:** ADV on DEX checks to sneak and hide.
 
@@ -3317,7 +3317,7 @@ _A bruised and boorish ruffian._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 1 | 0 | 0 | -1 | 1 | -1 |
+| +1 | +0 | +0 | -1 | +1 | -1 |
 
 ### Treant
 
@@ -3329,7 +3329,7 @@ _Peaceful, slow-moving trees with merry eyes and tremulous voices. They protect 
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | -1 | 2 | 2 | 3 | 1 |
+| +4 | -1 | +2 | +2 | +3 | +1 |
 
 **Animate Tree:** 2/day. In place of attacks, one tree within near awakens as a treant ally without this ability. Reverts back in 1 day.
 
@@ -3343,7 +3343,7 @@ _Plodding herbivores with a wide, bony skull frill and three horns._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | -1 | 4 | -3 | 1 | -3 |
+| +4 | -1 | +4 | -3 | +1 | -3 |
 
 **Charge:** Move up to double near in straight line and make 1 horn attack. If hit, x3 damage.
 
@@ -3357,7 +3357,7 @@ _Green, lanky giants with warty skin and territorial rage. Lair in deep forests 
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 2 | 2 | -1 | 0 | -1 |
+| +3 | +2 | +2 | -1 | +0 | -1 |
 
 **Regenerate:** Regains 2d6 HP on its turn unless its wounds are cauterized with fire or acid.
 
@@ -3371,7 +3371,7 @@ _Rime-covered trolls with blue skin and flinty, black eyes. They stalk arctic la
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 2 | 3 | -1 | 0 | -1 |
+| +3 | +2 | +3 | -1 | +0 | -1 |
 
 **Impervious:** Cold and fire immune.
 
@@ -3387,7 +3387,7 @@ _Towering, bipedal lizards with a massive head, jaws, and neck._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 5 | 1 | 4 | -3 | 1 | -3 |
+| +5 | +1 | +4 | -3 | +1 | -3 |
 
 ### Unicorn
 
@@ -3399,7 +3399,7 @@ _A silvery horse with a flowing mane and a single spiral horn._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 2 | 2 | 1 | 2 | 3 |
+| +3 | +2 | +2 | +1 | +2 | +3 |
 
 **Healing Horn:** A touch heals 2d6 HP or ends one curse or disease.
 
@@ -3413,7 +3413,7 @@ _Pale, blood-drinking undead of supreme power and wickedness. They loathe sunlig
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 3 | 3 | 1 | 3 | 4 |
+| +4 | +3 | +3 | +1 | +3 | +4 |
 
 **Supreme Undead:** Immune to morale checks. Only damaged by magical sources.
 
@@ -3435,7 +3435,7 @@ _Lesser, feral vampires born from the bite of their vampiric sires. Bloodthirsty
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 2 | 3 | -1 | 1 | 2 |
+| +3 | +2 | +3 | -1 | +1 | +2 |
 
 **Greater Undead:** Immune to morale checks. Only damaged by silver or magical sources.
 
@@ -3453,7 +3453,7 @@ _Fast, turkey-sized raptors with vicious toe claws. Pack hunters._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| -1 | 3 | 1 | -2 | 1 | -3 |
+| -1 | +3 | +1 | -2 | +1 | -3 |
 
 **Clever:** +1d4 damage when attacking with surprise.
 
@@ -3467,7 +3467,7 @@ _Child-sized, creeping fungi with neon purple caps. Their whiplike roots decompo
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| -3 | -2 | 0 | -4 | -3 | -4 |
+| -3 | -2 | +0 | -4 | -3 | -4 |
 
 ### Viperian
 
@@ -3479,7 +3479,7 @@ _Lithe, snake-headed people with cobra hoods and emerald green scales covering t
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 1 | 1 | 0 | 0 | 1 | 0 |
+| +1 | +1 | +0 | +0 | +1 | +0 |
 
 ### Viperian, Ophid
 
@@ -3491,7 +3491,7 @@ _A giant anaconda body merges into a humanoid torso with a large snake head. It 
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 2 | 1 | 1 | 1 | 1 |
+| +4 | +2 | +1 | +1 | +1 | +1 |
 
 **Impervious:** Can only be harmed by magical sources.
 
@@ -3505,7 +3505,7 @@ _Thin viperians with scales tinged in black. They wear silk robes and silver, se
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 0 | 1 | 0 | 3 | 1 | 1 |
+| +0 | +1 | +0 | +3 | +1 | +1 |
 
 **Hiss (INT Spell):** DC 12. End one spell within far.
 
@@ -3525,7 +3525,7 @@ _Scythe-like limbs jut from a purple bulb as big as an ogre. Its lower half is a
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 1 | 3 | 0 | 1 | -1 |
+| +4 | +1 | +3 | +0 | +1 | -1 |
 
 **Impervious:** Immune to cold.
 
@@ -3541,7 +3541,7 @@ _Pale, horse-sized arachnids that become ghostly and intangible._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 3 | 1 | -1 | 1 | -2 |
+| +3 | +3 | +1 | -1 | +1 | -2 |
 
 **Impervious:** Immune to cold.
 
@@ -3559,7 +3559,7 @@ _Scavenger birds with black feathers, hunched backs, and bald heads._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 1 | 0 | 1 | -3 | 1 | -3 |
+| +1 | +0 | +1 | -3 | +1 | -3 |
 
 **Carrion Tracker:** Can track dead flesh unerringly within a mile.
 
@@ -3573,7 +3573,7 @@ _Man-sized wasps with glossy, yellow-striped abdomens._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 1 | 3 | 0 | -3 | 0 | -3 |
+| +1 | +3 | +0 | -3 | +0 | -3 |
 
 **Venom:** DC 9 CON or go to 0 HP.
 
@@ -3587,7 +3587,7 @@ _A slinking, rat-faced humanoid covered in mangy fur._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 1 | 2 | 1 | -1 | 1 | -1 |
+| +1 | +2 | +1 | -1 | +1 | -1 |
 
 **Impervious:** Only damaged by silver or magic sources.
 
@@ -3603,7 +3603,7 @@ _A bipedal, wolf-faced humanoid covered in brown fur._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 2 | 2 | 0 | 1 | 0 |
+| +3 | +2 | +2 | +0 | +1 | +0 |
 
 **Impervious:** Only damaged by silver or magic sources.
 
@@ -3619,7 +3619,7 @@ _A pale, armored undead warrior with sinister intelligence._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 1 | 2 | 1 | 0 | 3 |
+| +3 | +1 | +2 | +1 | +0 | +3 |
 
 **Greater Undead:** Immune to morale checks. Only damaged by silver or magical sources.
 
@@ -3635,7 +3635,7 @@ _A bobbing marsh light animated by an evil spirit. It tries to lead the living i
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| -3 | 3 | 1 | -1 | -1 | -2 |
+| -3 | +3 | +1 | -1 | -1 | -2 |
 
 **Life Drain:** 1d4 CON damage. Death if reduced to 0 CON.
 
@@ -3649,7 +3649,7 @@ _A giant canine with a gray pelt, yellow eyes, and dripping jaws._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 2 | 1 | -2 | 1 | 0 |
+| +2 | +2 | +1 | -2 | +1 | +0 |
 
 **Pack Hunter:** Deals +1 damage while an ally is close.
 
@@ -3663,7 +3663,7 @@ _A massive wolf with spines of black bone along its brow ridge and back._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 2 | 1 | -1 | 1 | 0 |
+| +3 | +2 | +1 | -1 | +1 | +0 |
 
 **Pack Hunter:** Deals +1 damage while an ally is close.
 
@@ -3677,7 +3677,7 @@ _Sinister, white-pelted wolves with piercing blue eyes. From the fey realms of e
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 2 | 1 | 0 | 1 | 0 |
+| +3 | +2 | +1 | +0 | +1 | +0 |
 
 **Impervious:** Cold immune.
 
@@ -3693,7 +3693,7 @@ _Bat-faced wolves that speak Goblin and often serve as war mounts for goblinkind
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 1 | 1 | -2 | 1 | -2 |
+| +2 | +1 | +1 | -2 | +1 | -2 |
 
 ### Wraith
 
@@ -3705,7 +3705,7 @@ _A shadowy spirit seething with anger and malice. Its presence is unsettling to 
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| -4 | 4 | 0 | 0 | 0 | 3 |
+| -4 | +4 | +0 | +0 | +0 | +3 |
 
 **Greater Undead:** Immune to morale checks. Only damaged by silver or magical sources.
 
@@ -3723,7 +3723,7 @@ _Dragon-cousins with a large tail stinger, mottled lizard skin, and leathery win
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 2 | 1 | -3 | 1 | -3 |
+| +4 | +2 | +1 | -3 | +1 | -3 |
 
 **Poison:** DC 15 CON or take 2d10 damage.
 
@@ -3737,7 +3737,7 @@ _Lurching and decomposed undead that hunt in mobs._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | -2 | 2 | -2 | -2 | -3 |
+| +2 | -2 | +2 | -2 | -2 | -3 |
 
 **Undead:** Immune to morale checks.
 

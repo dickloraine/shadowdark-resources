@@ -8,7 +8,7 @@ ac: 17
 hp: 89
 ATK: "2 rend (near) +9 (2d10) and 2 spell +8"
 MV: "double near (fly)"
-Stats: [5, 3, 4, 5, 6, 5]
+Stats: [+5, +3, +4, +5, +6, +5]
 AL: L
 LV: 19
 Source: "Core"
@@ -43,7 +43,7 @@ _A pearl-white lion with feathered wings that stands twenty feet tall. Rathgamno
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 5 | 3 | 4 | 5 | 6 | 5 |
+| +5 | +3 | +4 | +5 | +6 | +5 |
 
 **Legendary:** Only damaged by magical sources. Hostile spells targeting Rathgamnon are DC 18 to cast.
 

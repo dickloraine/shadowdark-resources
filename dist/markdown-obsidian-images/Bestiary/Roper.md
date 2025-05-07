@@ -8,7 +8,7 @@ ac: 14
 hp: 31
 ATK: "4 tendril (double near) +4 (1d6 + grab) and 1 bite +4 (2d8)"
 MV: "close (climb)"
-Stats: [3, -2, 4, -1, 2, 1]
+Stats: [+3, -2, +4, -1, +2, +1]
 AL: N
 LV: 6
 Source: "Core"
@@ -35,7 +35,7 @@ _Ravenous monstrosities that look like cave rocks when their single eye and maw 
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | -2 | 4 | -1 | 2 | 1 |
+| +3 | -2 | +4 | -1 | +2 | +1 |
 
 **Impervious:** Can only be damaged by magical sources.
 

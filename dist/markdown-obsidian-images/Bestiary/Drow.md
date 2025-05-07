@@ -8,7 +8,7 @@ ac: 16 (mithral chainmail)
 hp: 9
 ATK: "1 poison dart (near) +3 (1d4 + poison) or 1 longsword +1 (1d8)"
 MV: "near"
-Stats: [0, 3, 0, 1, 1, 1]
+Stats: [+0, +3, +0, +1, +1, +1]
 AL: C
 LV: 2
 Source: "Core"
@@ -31,7 +31,7 @@ _A graceful, shadowy elf that pounces like a spider._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 0 | 3 | 0 | 1 | 1 | 1 |
+| +0 | +3 | +0 | +1 | +1 | +1 |
 
 **Poison:** DC 15 CON or sleep.
 

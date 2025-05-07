@@ -8,7 +8,7 @@ ac: 11
 hp: 5
 ATK: "2 claw +2 (1d4)"
 MV: "near (burrow)"
-Stats: [2, 0, 1, -3, 1, -2]
+Stats: [+2, +0, +1, -3, +1, -2]
 AL: N
 LV: 1
 Source: "Core"
@@ -27,7 +27,7 @@ _Fierce, clawed burrowers with black-and-white face stripes._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 0 | 1 | -3 | 1 | -2 |
+| +2 | +0 | +1 | -3 | +1 | -2 |
 
 **Rage:** 1/day, immune to morale checks, +1d4 damage (3 rounds).
 

@@ -8,7 +8,7 @@ ac: 16
 hp: 42
 ATK: "3 slam +7 (3d6) or 1 whirlwind"
 MV: "double near (fly)"
-Stats: [3, 5, 2, -2, 1, -2]
+Stats: [+3, +5, +2, -2, +1, -2]
 AL: N
 LV: 9
 Source: "Core"
@@ -31,7 +31,7 @@ _A howling tornado of wind._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 5 | 2 | -2 | 1 | -2 |
+| +3 | +5 | +2 | -2 | +1 | -2 |
 
 **Impervious:** Only damaged by magical sources.
 

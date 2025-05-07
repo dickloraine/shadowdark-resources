@@ -8,7 +8,7 @@ ac: 12 (leather)
 hp: 19
 ATK: "1 staff +0 (1d4) or 1 spell +3"
 MV: "near"
-Stats: [0, 1, 1, 0, 2, 1]
+Stats: [+0, +1, +1, +0, +2, +1]
 AL: C
 LV: 4
 Source: "Core"
@@ -33,7 +33,7 @@ _A swaying, chanting goblin wearing necklaces of teeth and a robe of musty rat p
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 0 | 1 | 1 | 0 | 2 | 1 |
+| +0 | +1 | +1 | +0 | +2 | +1 |
 
 **Keen Senses:** Can't be surprised.
 

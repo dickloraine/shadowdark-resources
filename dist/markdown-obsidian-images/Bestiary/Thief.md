@@ -8,7 +8,7 @@ ac: 13 (leather)
 hp: 13
 ATK: "1 dagger (close/near) +2 (1d4) or 1 shortsword +0 (1d6)"
 MV: "near"
-Stats: [0, 2, 0, 0, 0, 1]
+Stats: [+0, +2, +0, +0, +0, +1]
 AL: N
 LV: 3
 Source: "Core"
@@ -31,7 +31,7 @@ _A cat burglar in a black cloak._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 0 | 2 | 0 | 0 | 0 | 1 |
+| +0 | +2 | +0 | +0 | +0 | +1 |
 
 **Stealthy:** ADV on DEX checks to sneak and hide.
 

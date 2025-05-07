@@ -8,7 +8,7 @@ ac: 13
 hp: 27
 ATK: "2 death touch +5 (1d8 + life drain) or 1 possess"
 MV: "near (fly)"
-Stats: [-2, 3, 0, 0, 0, 4]
+Stats: [-2, +3, +0, +0, +0, +4]
 AL: C
 LV: 6
 Source: "Core"
@@ -35,7 +35,7 @@ _A wavering spirit with a face contorted in rage or sadness._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| -2 | 3 | 0 | 0 | 0 | 4 |
+| -2 | +3 | +0 | +0 | +0 | +4 |
 
 **Greater Undead:** Immune to morale checks. Only damaged by silver or magical sources.
 

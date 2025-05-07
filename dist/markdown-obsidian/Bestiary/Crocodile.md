@@ -8,7 +8,7 @@ ac: 14
 hp: 20
 ATK: "2 bite +3 (1d8)"
 MV: "near (swim)"
-Stats: [3, 1, 2, -2, 1, -2]
+Stats: [+3, +1, +2, -2, +1, -2]
 AL: N
 LV: 4
 Source: "Core"
@@ -25,5 +25,5 @@ _Fat, scaly reptiles with stumpy legs and long, thrashing tails._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 1 | 2 | -2 | 1 | -2 |
+| +3 | +1 | +2 | -2 | +1 | -2 |
 

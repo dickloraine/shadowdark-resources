@@ -8,7 +8,7 @@ ac: 7
 hp: 9
 ATK: "2 tendril (near) +0 (1d4)"
 MV: "close"
-Stats: [-3, -2, 0, -4, -3, -4]
+Stats: [-3, -2, +0, -4, -3, -4]
 AL: N
 LV: 2
 Source: "Core"
@@ -25,5 +25,5 @@ _Child-sized, creeping fungi with neon purple caps. Their whiplike roots decompo
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| -3 | -2 | 0 | -4 | -3 | -4 |
+| -3 | -2 | +0 | -4 | -3 | -4 |
 

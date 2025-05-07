@@ -8,7 +8,7 @@ ac: 15
 hp: 25
 ATK: "2 pincer +4 (1d8 + grab)"
 MV: "near (swim)"
-Stats: [3, -1, 3, -1, 1, -2]
+Stats: [+3, -1, +3, -1, +1, -2]
 AL: C
 LV: 5
 Source: "Core"
@@ -27,7 +27,7 @@ _Brown, horse-sized lobster bugs with tentacles and pincers._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | -1 | 3 | -1 | 1 | -2 |
+| +3 | -1 | +3 | -1 | +1 | -2 |
 
 **Grab:** DC 15 STR or held in pincer. DC 15 STR on turn to break free.
 

@@ -1,5 +1,5 @@
 ---
-Name: Brak'S Cube Of Perfection
+Name: Brak's Cube Of Perfection
 Type: Item
 Description: "A tiny cube with paintings of goblins on each face, each one depicting transcendence in a physical or mental trait."
 Benefit: "Roll the cube by rolling a d6. Your corresponding stat permanently increases to 18 (+4).
@@ -12,7 +12,7 @@ Benefit: "Roll the cube by rolling a d6. Your corresponding stat permanently inc
 item_type: "Wondrous Item"
 ---
 
-### Brak'S Cube Of Perfection
+### Brak's Cube Of Perfection
 
 _A tiny cube with paintings of goblins on each face, each one depicting transcendence in a physical or mental trait._
 

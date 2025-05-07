@@ -8,7 +8,7 @@ ac: 12
 hp: 15
 ATK: "2 touch +2 (1d4 + drain)"
 MV: "near (fly)"
-Stats: [-4, 2, 2, -2, 0, -1]
+Stats: [-4, +2, +2, -2, +0, -1]
 AL: C
 LV: 3
 Source: "Core"
@@ -29,7 +29,7 @@ _Flitting, sentient shadows in the vague shape of a human._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| -4 | 2 | 2 | -2 | 0 | -1 |
+| -4 | +2 | +2 | -2 | +0 | -1 |
 
 **Drain:** Target takes 1 STR damage. At 0 STR, target dies and becomes a shadow.
 

@@ -8,7 +8,7 @@ ac: 13
 hp: 47
 ATK: "3 rot touch +8 (1d10 + necrosis)"
 MV: "near"
-Stats: [3, 0, 2, 3, 2, 3]
+Stats: [+3, +0, +2, +3, +2, +3]
 AL: C
 LV: 10
 Source: "Core"
@@ -33,7 +33,7 @@ _A desiccated, linen-wrapped zombie. It was created with an intricate embalming 
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 0 | 2 | 3 | 2 | 3 |
+| +3 | +0 | +2 | +3 | +2 | +3 |
 
 **Supreme Undead:** Immune to morale checks. Only damaged by magical sources.
 

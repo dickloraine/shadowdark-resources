@@ -2,7 +2,7 @@
 
 _A pearl-white lion with feathered wings that stands twenty feet tall. Rathgamnon is Madeera the Covenant's mightiest servant; his blank eyes see far into the depths of time and space. He spends all eternity watching the whirl of the stars from the highest mountain in the realm of mortals, waiting for the celestial alignments that prophesy epochs of weal and woe, titanic changes to the balance of power in the cosmos, or threats to the laws of reality itself._
 
-**AC** 17, **HP** 89, **ATK** 2 rend (near) +9 (2d10) and 2 spell +8, **MV** double near (fly), **S** 5 **D** 3 **C** 4 **I** 5 **W** 6 **Ch** 5, **AL** L, **LV** 19
+**AC** 17, **HP** 89, **ATK** 2 rend (near) +9 (2d10) and 2 spell +8, **MV** double near (fly), **S** +5 **D** +3 **C** +4 **I** +5 **W** +6 **Ch** +5, **AL** L, **LV** 19
 
 **Legendary:** Only damaged by magical sources. Hostile spells targeting Rathgamnon are DC 18 to cast.
 

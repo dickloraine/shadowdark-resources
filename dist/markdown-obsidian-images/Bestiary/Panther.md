@@ -8,7 +8,7 @@ ac: 14
 hp: 14
 ATK: "2 rend +3 (1d6)"
 MV: "near (climb)"
-Stats: [3, 4, 1, -2, 1, -3]
+Stats: [+3, +4, +1, -2, +1, -3]
 AL: N
 LV: 3
 Source: "Core"
@@ -27,5 +27,5 @@ _Supple large cats with blue-black fur. Stealthy hunters._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 4 | 1 | -2 | 1 | -3 |
+| +3 | +4 | +1 | -2 | +1 | -3 |
 

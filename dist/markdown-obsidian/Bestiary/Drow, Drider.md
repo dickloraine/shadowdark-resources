@@ -8,7 +8,7 @@ ac: 16 (mithral chainmail)
 hp: 29
 ATK: "3 longsword +3 (1d8) or 2 longbow (far) +3 (1d8 + poison)"
 MV: "near (climb)"
-Stats: [3, 3, 2, 2, 2, 0]
+Stats: [+3, +3, +2, +2, +2, +0]
 AL: C
 LV: 6
 Source: "Core"
@@ -29,7 +29,7 @@ _A monstrosity with the body of a giant spider and torso of a drow._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 3 | 2 | 2 | 2 | 0 |
+| +3 | +3 | +2 | +2 | +2 | +0 |
 
 **Poison:** DC 15 CON or paralyzed 1d4 rounds.
 

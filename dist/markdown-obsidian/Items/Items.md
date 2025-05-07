@@ -110,7 +110,7 @@ _A tome bound in ratskin that bears a jagged, glowing rune._
 
 **Curse.** This spellbook contains one scroll each of *acid arrow* , *fireball*, and *sleep*. When a wizard tries to cast or learn a spell from these scrolls, the spell targets the caster on a success.
 
-### Brak'S Cube Of Perfection
+### Brak's Cube Of Perfection
 
 _A tiny cube with paintings of goblins on each face, each one depicting transcendence in a physical or mental trait._
 

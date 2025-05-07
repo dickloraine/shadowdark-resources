@@ -8,7 +8,7 @@ ac: 17 (plate mail)
 hp: 43
 ATK: "6 longsword +7 (1d8)"
 MV: "near (climb)"
-Stats: [5, 4, 3, 3, 3, 4]
+Stats: [+5, +4, +3, +3, +3, +4]
 AL: C
 LV: 9
 Source: "Core"
@@ -27,7 +27,7 @@ _Hissing, armored women with six limbs and the lower bodies of giant snakes. Six
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 5 | 4 | 3 | 3 | 3 | 4 |
+| +5 | +4 | +3 | +3 | +3 | +4 |
 
 **Parry:** Trade 2 longsword attacks next round to deflect a melee attack that would hit.
 

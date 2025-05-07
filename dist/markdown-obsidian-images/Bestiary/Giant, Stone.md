@@ -8,7 +8,7 @@ ac: 17
 hp: 40
 ATK: "2 greatclub +7 (2d8) or 1 boulder (far) +7 (2d10)"
 MV: "double near"
-Stats: [4, 2, 4, 1, 1, -1]
+Stats: [+4, +2, +4, +1, +1, -1]
 AL: N
 LV: 8
 Source: "Core"
@@ -29,7 +29,7 @@ _Lean, sinewy giants with stony skin and deep-set eyes. They are quiet and poise
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 2 | 4 | 1 | 1 | -1 |
+| +4 | +2 | +4 | +1 | +1 | -1 |
 
 **Stone Hide:** Half damage from stabbing and cutting weapons.
 

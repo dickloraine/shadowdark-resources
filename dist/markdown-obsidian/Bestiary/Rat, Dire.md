@@ -8,7 +8,7 @@ ac: 12
 hp: 10
 ATK: "1 bite +2 (1d6 + disease)"
 MV: "near"
-Stats: [1, 2, 1, -2, 1, -2]
+Stats: [+1, +2, +1, -2, +1, -2]
 AL: N
 LV: 2
 Source: "Core"
@@ -27,7 +27,7 @@ _Child-sized, savage rats bristling with bony face and spine ridges._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 1 | 2 | 1 | -2 | 1 | -2 |
+| +1 | +2 | +1 | -2 | +1 | -2 |
 
 **Disease:** DC 12 CON or 1d4 CON damage (can't heal while ill).
 

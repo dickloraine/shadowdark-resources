@@ -8,7 +8,7 @@ ac: 13
 hp: 15
 ATK: "2 slam +2 (1d6)"
 MV: "near"
-Stats: [2, -1, 2, 0, 1, 0]
+Stats: [+2, -1, +2, +0, +1, +0]
 AL: N
 LV: 3
 Source: "Core"
@@ -31,7 +31,7 @@ _Lumbering humanoids with spongy, elongated bodies and toadstools on their heads
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | -1 | 2 | 0 | 1 | 0 |
+| +2 | -1 | +2 | +0 | +1 | +0 |
 
 **Sunblind:** Blinded in bright light.
 

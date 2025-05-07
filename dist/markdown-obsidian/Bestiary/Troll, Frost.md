@@ -8,7 +8,7 @@ ac: 13
 hp: 34
 ATK: "2 claw +5 (1d8) and 1 bite +5 (1d12)"
 MV: "near"
-Stats: [3, 2, 3, -1, 0, -1]
+Stats: [+3, +2, +3, -1, +0, -1]
 AL: C
 LV: 7
 Source: "Core"
@@ -29,7 +29,7 @@ _Rime-covered trolls with blue skin and flinty, black eyes. They stalk arctic la
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 2 | 3 | -1 | 0 | -1 |
+| +3 | +2 | +3 | -1 | +0 | -1 |
 
 **Impervious:** Cold and fire immune.
 

@@ -4,7 +4,7 @@
 
 _Purple, gaunt humanoids with squidlike heads and four face tentacles. They live in complex, alien societies underground and eat humanoid brains._
 
-**AC** 14 (leather), **HP** 36, **ATK** 4 tentacle +5 (1d8 + latch) or 1 mind blast or 1 mind control, **MV** near, **S** 2 **D** 3 **C** 0 **I** 4 **W** 2 **Ch** 4, **AL** C, **LV** 8
+**AC** 14 (leather), **HP** 36, **ATK** 4 tentacle +5 (1d8 + latch) or 1 mind blast or 1 mind control, **MV** near, **S** +2 **D** +3 **C** +0 **I** +4 **W** +2 **Ch** +4, **AL** C, **LV** 8
 
 **Hear Thoughts:** Can hear the surface thoughts of all intelligent creatures within near.
 

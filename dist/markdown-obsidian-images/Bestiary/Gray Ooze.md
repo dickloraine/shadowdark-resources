@@ -8,7 +8,7 @@ ac: 11
 hp: 9
 ATK: "1 tentacle +2 (1d6)"
 MV: "near (climb)"
-Stats: [1, 1, 0, -4, -3, -4]
+Stats: [+1, +1, +0, -4, -3, -4]
 AL: N
 LV: 2
 Source: "Core"
@@ -31,7 +31,7 @@ _Slick puddles the color of stone._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 1 | 1 | 0 | -4 | -3 | -4 |
+| +1 | +1 | +0 | -4 | -3 | -4 |
 
 **Impervious:** Immune to damage from acid, cold, or fire.
 

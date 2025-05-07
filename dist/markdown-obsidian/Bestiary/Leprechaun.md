@@ -8,7 +8,7 @@ ac: 13
 hp: 19
 ATK: "1 spell +4"
 MV: "near"
-Stats: [1, 3, 1, 2, 1, 3]
+Stats: [+1, +3, +1, +2, +1, +3]
 AL: N
 LV: 4
 Source: "Core"
@@ -35,7 +35,7 @@ _Impish fey who favor green garb and love fooling tall folk with promises of gol
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 1 | 3 | 1 | 2 | 1 | 3 |
+| +1 | +3 | +1 | +2 | +1 | +3 |
 
 **Alert:** Cannot be surprised.
 

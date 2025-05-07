@@ -8,7 +8,7 @@ ac: 13
 hp: 13
 ATK: "2 scimitar +2 (1d6) or 1 javelin (close/far) +2 (1d4)"
 MV: "near"
-Stats: [1, 1, 0, 0, 1, 0]
+Stats: [+1, +1, +0, +0, +1, +0]
 AL: C
 LV: 3
 Source: "Core"
@@ -25,5 +25,5 @@ _Lithe, snake-headed people with cobra hoods and emerald green scales covering t
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 1 | 1 | 0 | 0 | 1 | 0 |
+| +1 | +1 | +0 | +0 | +1 | +0 |
 

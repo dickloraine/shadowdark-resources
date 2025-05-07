@@ -8,7 +8,7 @@ ac: 15
 hp: 4
 ATK: "1 spear (close/near) +1 (1d6) or 1 longsword +1 (1d8)"
 MV: "near"
-Stats: [1, 0, 0, 0, 1, 0]
+Stats: [+1, +0, +0, +0, +1, +0]
 AL: L
 LV: 1
 Source: "Core"
@@ -27,5 +27,5 @@ _A sentry equipped with sturdy weapons and armor._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 1 | 0 | 0 | 0 | 1 | 0 |
+| +1 | +0 | +0 | +0 | +1 | +0 |
 

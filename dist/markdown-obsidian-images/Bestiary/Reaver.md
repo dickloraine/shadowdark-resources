@@ -8,7 +8,7 @@ ac: 17
 hp: 28
 ATK: "3 bastard sword +4 (1d8 + 2)"
 MV: "near"
-Stats: [3, 0, 1, 0, 0, 2]
+Stats: [+3, +0, +1, +0, +0, +2]
 AL: C
 LV: 6
 Source: "Core"
@@ -29,7 +29,7 @@ _A knight in blackened armor riddled with cruel barbs._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 0 | 1 | 0 | 0 | 2 |
+| +3 | +0 | +1 | +0 | +0 | +2 |
 
 **Bloodlust:** +2 damage with melee weapons (included).
 

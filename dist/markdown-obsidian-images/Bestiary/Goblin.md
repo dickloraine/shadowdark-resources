@@ -8,7 +8,7 @@ ac: 11
 hp: 5
 ATK: "1 club +0 (1d4) or 1 shortbow (far) +1 (1d4)"
 MV: "near"
-Stats: [0, 1, 1, -1, -1, -2]
+Stats: [+0, +1, +1, -1, -1, -2]
 AL: C
 LV: 1
 Source: "Core"
@@ -29,7 +29,7 @@ _A short, hairless humanoid with green skin and pointy ears._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 0 | 1 | 1 | -1 | -1 | -2 |
+| +0 | +1 | +1 | -1 | -1 | -2 |
 
 **Keen Senses:** Can't be surprised.
 

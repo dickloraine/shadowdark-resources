@@ -8,7 +8,7 @@ ac: 12
 hp: 15
 ATK: "2 claws +2 (1d6) or 1 scream"
 MV: "near"
-Stats: [2, 2, 2, 0, 0, 2]
+Stats: [+2, +2, +2, +0, +0, +2]
 AL: C
 LV: 3
 Source: "Core"
@@ -29,7 +29,7 @@ _Ragged clothes and a painted burlap head stuffed with straw. Possessed by a mal
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 2 | 2 | 0 | 0 | 2 |
+| +2 | +2 | +2 | +0 | +0 | +2 |
 
 **Scream:** Creatures who hear in double near DC 12 CHA or paralyzed for 1d4 rounds.
 

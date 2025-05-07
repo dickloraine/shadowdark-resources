@@ -8,7 +8,7 @@ ac: 16
 hp: 47
 ATK: "3 bite +7 (2d6 + swallow)"
 MV: "near (burrow)"
-Stats: [5, 1, 2, -3, 1, -3]
+Stats: [+5, +1, +2, -3, +1, -3]
 AL: N
 LV: 10
 Source: "Core"
@@ -31,7 +31,7 @@ _Massive, blue centipedes with neck hoods and red-hot spine spikes. Dwell in arc
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 5 | 1 | 2 | -3 | 1 | -3 |
+| +5 | +1 | +2 | -3 | +1 | -3 |
 
 **Impervious:** Immune to cold and fire.
 

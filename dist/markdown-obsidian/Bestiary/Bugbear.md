@@ -8,7 +8,7 @@ ac: 13
 hp: 14
 ATK: "2 spiked mace +3 (1d6)"
 MV: "near"
-Stats: [3, 0, 1, -1, 0, -2]
+Stats: [+3, +0, +1, -1, +0, -2]
 AL: C
 LV: 3
 Source: "Core"
@@ -27,7 +27,7 @@ _Brutish, bat-eared goblinoids covered in brown fur._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 0 | 1 | -1 | 0 | -2 |
+| +3 | +0 | +1 | -1 | +0 | -2 |
 
 **Stealthy:** ADV on checks to sneak and hide.
 

@@ -2,7 +2,7 @@
 
 _Blood-red, towering humanoids formed of lava and ash. Short, black horns and snarling grins._
 
-**AC** 15, **HP** 43, **ATK** 3 scimitar +8 (2d10) or 2 fire bolt (far) +5 (2d6), **MV** near (fly), **S** 5 **D** 2 **C** 3 **I** 3 **W** 2 **Ch** 3, **AL** C, **LV** 9
+**AC** 15, **HP** 43, **ATK** 3 scimitar +8 (2d10) or 2 fire bolt (far) +5 (2d6), **MV** near (fly), **S** +5 **D** +2 **C** +3 **I** +3 **W** +2 **Ch** +3, **AL** C, **LV** 9
 
 **Impervious:** Only damaged by magical sources. Fire immune.
 

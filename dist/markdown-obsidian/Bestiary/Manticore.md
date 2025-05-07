@@ -8,7 +8,7 @@ ac: 14
 hp: 29
 ATK: "2 rend +6 (2d6) or 2 tail spike (far) +4 (1d8)"
 MV: "double near (fly)"
-Stats: [4, 2, 2, -2, 1, -2]
+Stats: [+4, +2, +2, -2, +1, -2]
 AL: C
 LV: 6
 Source: "Core"
@@ -27,7 +27,7 @@ _Human-faced lions with bat wings and cruelly spiked tails. They speak halting T
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 2 | 2 | -2 | 1 | -2 |
+| +4 | +2 | +2 | -2 | +1 | -2 |
 
 **Spikes:** Manticores have 4d6 tail spikes. They regrow each day.
 

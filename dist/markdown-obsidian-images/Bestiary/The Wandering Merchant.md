@@ -8,7 +8,7 @@ ac: 16 (mithral chainmail)
 hp: 71
 ATK: "4 +3 vorpal bastard sword +9 (1d10 + lop)"
 MV: "near"
-Stats: [3, 3, 4, 3, 4, 5]
+Stats: [+3, +3, +4, +3, +4, +5]
 AL: L
 LV: 15
 Source: "Core"
@@ -43,7 +43,7 @@ _A cheerful merchant who appears to be a hale, middle-aged human man with a hand
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 3 | 4 | 3 | 4 | 5 |
+| +3 | +3 | +4 | +3 | +4 | +5 |
 
 **Legendary:** Only damaged by magical sources. Hostile spells targeting The Wandering Merchant are DC 18 to cast.
 

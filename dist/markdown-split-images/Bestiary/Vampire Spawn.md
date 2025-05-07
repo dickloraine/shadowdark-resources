@@ -4,7 +4,7 @@
 
 _Lesser, feral vampires born from the bite of their vampiric sires. Bloodthirsty and savage. They rarely leave a victim alive._
 
-**AC** 13 (leather), **HP** 25, **ATK** 2 bite +4 (1d8 + blood drain), **MV** near (climb), **S** 3 **D** 2 **C** 3 **I** -1 **W** 1 **Ch** 2, **AL** C, **LV** 5
+**AC** 13 (leather), **HP** 25, **ATK** 2 bite +4 (1d8 + blood drain), **MV** near (climb), **S** +3 **D** +2 **C** +3 **I** -1 **W** +1 **Ch** +2, **AL** C, **LV** 5
 
 **Greater Undead:** Immune to morale checks. Only damaged by silver or magical sources.
 

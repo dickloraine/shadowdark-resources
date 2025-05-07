@@ -8,7 +8,7 @@ ac: 15
 hp: 15
 ATK: "2 flaming warhammer +3 (1d10 +  ignites flammables) or 1 crossbow (far) +0 (1d6)"
 MV: "near"
-Stats: [3, 0, 2, 0, 0, 0]
+Stats: [+3, +0, +2, +0, +0, +0]
 AL: L
 LV: 3
 Source: "Core"
@@ -27,7 +27,7 @@ _Dwarves with bronze, metallic skin and flames in place of hair. Gifted blacksmi
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 0 | 2 | 0 | 0 | 0 |
+| +3 | +0 | +2 | +0 | +0 | +0 |
 
 **Impervious:** Fire immune.
 

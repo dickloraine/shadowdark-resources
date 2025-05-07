@@ -8,7 +8,7 @@ ac: 12
 hp: 23
 ATK: "2 bite +4 (1d6) and 1 constrict (near)"
 MV: "near (climb)"
-Stats: [3, 2, 1, -2, 0, -2]
+Stats: [+3, +2, +1, -2, +0, -2]
 AL: N
 LV: 5
 Source: "Core"
@@ -29,7 +29,7 @@ _An enormous, mottled serpent that can swallow a cow whole._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 2 | 1 | -2 | 0 | -2 |
+| +3 | +2 | +1 | -2 | +0 | -2 |
 
 **Constrict:** Contested STR to hold target immobile for one round.
 

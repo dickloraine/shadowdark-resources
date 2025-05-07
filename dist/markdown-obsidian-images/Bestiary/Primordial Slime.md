@@ -8,7 +8,7 @@ ac: 9
 hp: 30
 ATK: "2 tentacle +4 (1d10 + dissolve)"
 MV: "near (climb)"
-Stats: [3, 2, 3, -4, -3, -4]
+Stats: [+3, +2, +3, -4, -3, -4]
 AL: C
 LV: 6
 Source: "Core"
@@ -31,7 +31,7 @@ _A mass of clear ooze strobing with sick pulses of violet light._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 2 | 3 | -4 | -3 | -4 |
+| +3 | +2 | +3 | -4 | -3 | -4 |
 
 **Impervious:** Only harmed by fire.
 

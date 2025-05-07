@@ -8,7 +8,7 @@ ac: 17
 hp: 76
 ATK: "4 rend +10 (2d10) or 1 steam breath or 1 water spout"
 MV: "double near (fly"
-Stats: [5, 6, 4, 4, 5, 5]
+Stats: [+5, +6, +4, +4, +5, +5]
 AL: L
 LV: 16
 Source: "Core"
@@ -29,7 +29,7 @@ _A warm sea breeze blows around this amphibious, gold-scaled wyrm. A beard of te
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 5 | 6 | 4 | 4 | 5 | 5 |
+| +5 | +6 | +4 | +4 | +5 | +5 |
 
 **Steam Breath:** Fills a double near-sized cube extending from dragon. DC 15 DEX or 4d12 damage.
 

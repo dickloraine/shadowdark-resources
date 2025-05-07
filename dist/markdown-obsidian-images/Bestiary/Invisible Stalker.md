@@ -8,7 +8,7 @@ ac: 13
 hp: 29
 ATK: "3 pummel +4 (1d6)"
 MV: "near (fly)"
-Stats: [2, 3, 2, 2, 1, 0]
+Stats: [+2, +3, +2, +2, +1, +0]
 AL: N
 LV: 6
 Source: "Core"
@@ -33,7 +33,7 @@ _Intelligent creatures made of flowing air. Often bound to the bidding of evil s
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 3 | 2 | 2 | 1 | 0 |
+| +2 | +3 | +2 | +2 | +1 | +0 |
 
 **Bound:** A secret, mundane contingency (such as the touch of a feather) ends the invisible stalker's magical servitude.
 

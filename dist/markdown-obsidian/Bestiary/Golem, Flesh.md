@@ -8,7 +8,7 @@ ac: 9
 hp: 35
 ATK: "3 slam +6 (1d8)"
 MV: "near"
-Stats: [4, -1, 4, -1, 1, -3]
+Stats: [+4, -1, +4, -1, +1, -3]
 AL: N
 LV: 7
 Source: "Core"
@@ -29,7 +29,7 @@ _A ghastly monstrosity made of sewn-together corpses._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | -1 | 4 | -1 | 1 | -3 |
+| +4 | -1 | +4 | -1 | +1 | -3 |
 
 **Golem:** Immune to damage from fire, cold, or non-magical sources. Healed by electricity.
 

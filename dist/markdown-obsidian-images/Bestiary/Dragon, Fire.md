@@ -8,7 +8,7 @@ ac: 18
 hp: 80
 ATK: "4 rend +11 (2d12) or 1 fire breath"
 MV: "double near (fly)"
-Stats: [6, 5, 4, 4, 4, 5]
+Stats: [+6, +5, +4, +4, +4, +5]
 AL: C
 LV: 17
 Source: "Core"
@@ -31,7 +31,7 @@ _Blood-red scales cover the hide of this mighty, volcanic wyrm. Leaping flames g
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 6 | 5 | 4 | 4 | 4 | 5 |
+| +6 | +5 | +4 | +4 | +4 | +5 |
 
 **Fireblood:** Fire immune.
 

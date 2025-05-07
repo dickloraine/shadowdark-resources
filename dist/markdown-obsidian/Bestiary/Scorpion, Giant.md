@@ -8,7 +8,7 @@ ac: 14
 hp: 13
 ATK: "1 claw +2 (1d6 + grab) and 1 sting +2 (1d4 + poison)"
 MV: "near (climb)"
-Stats: [2, 2, 0, -4, 0, -4]
+Stats: [+2, +2, +0, -4, +0, -4]
 AL: N
 LV: 3
 Source: "Core"
@@ -29,7 +29,7 @@ _Chitin-plated scorpions as big as camels._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 2 | 0 | -4 | 0 | -4 |
+| +2 | +2 | +0 | -4 | +0 | -4 |
 
 **Grab:** DC 12 STR or target held. DC 12 STR on turn to break free.
 

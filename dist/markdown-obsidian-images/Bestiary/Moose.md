@@ -8,7 +8,7 @@ ac: 11
 hp: 19
 ATK: "2 antler +3 (1d6)"
 MV: "double near"
-Stats: [3, 0, 1, -2, 0, -2]
+Stats: [+3, +0, +1, -2, +0, -2]
 AL: N
 LV: 4
 Source: "Core"
@@ -27,5 +27,5 @@ _A towering, brown-haired grazer with weighty, flat antlers._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 0 | 1 | -2 | 0 | -2 |
+| +3 | +0 | +1 | -2 | +0 | -2 |
 

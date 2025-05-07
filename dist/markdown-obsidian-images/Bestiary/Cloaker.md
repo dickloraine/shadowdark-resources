@@ -8,7 +8,7 @@ ac: 13
 hp: 28
 ATK: "3 lash +4 (1d8) or 1 screech"
 MV: "near (fly)"
-Stats: [2, 3, 1, 1, 1, 0]
+Stats: [+2, +3, +1, +1, +1, +0]
 AL: C
 LV: 6
 Source: "Core"
@@ -31,7 +31,7 @@ _A midnight blue manta ray with a bony tail and crescent-shaped maw above its be
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 3 | 1 | 1 | 1 | 0 |
+| +2 | +3 | +1 | +1 | +1 | +0 |
 
 **Phantoms:** 1/day, in place of attacks. Create 3 illusory duplicates that disappear when hit. Determine randomly if an attack hits cloaker or illusions.
 

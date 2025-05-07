@@ -8,7 +8,7 @@ ac: 13 (leather)
 hp: 13
 ATK: "1 club +1 (1d4) or 1 spell +2"
 MV: "near"
-Stats: [-2, 2, 0, -1, 1, 2]
+Stats: [-2, +2, +0, -1, +1, +2]
 AL: C
 LV: 3
 Source: "Core"
@@ -33,7 +33,7 @@ _A scaly dog-lizard painted with colorful stripes and rattling a hefty leg bone 
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| -2 | 2 | 0 | -1 | 1 | 2 |
+| -2 | +2 | +0 | -1 | +1 | +2 |
 
 **Dodge:** 1/day, an attack that would hit misses instead.
 

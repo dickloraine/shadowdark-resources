@@ -2,7 +2,7 @@
 
 _Massive, blue centipedes with neck hoods and red-hot spine spikes. Dwell in arctic climates._
 
-**AC** 16, **HP** 47, **ATK** 3 bite +7 (2d6 + swallow), **MV** near (burrow), **S** 5 **D** 1 **C** 2 **I** -3 **W** 1 **Ch** -3, **AL** N, **LV** 10
+**AC** 16, **HP** 47, **ATK** 3 bite +7 (2d6 + swallow), **MV** near (burrow), **S** +5 **D** +1 **C** +2 **I** -3 **W** +1 **Ch** -3, **AL** N, **LV** 10
 
 **Impervious:** Immune to cold and fire.
 

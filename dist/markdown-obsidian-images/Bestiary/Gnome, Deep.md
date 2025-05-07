@@ -8,7 +8,7 @@ ac: 14
 hp: 14
 ATK: "1 pick +3 (1d6) or 1 dart (near) +2 (1d4)"
 MV: "near"
-Stats: [2, 1, 1, 1, 1, 1]
+Stats: [+2, +1, +1, +1, +1, +1]
 AL: L
 LV: 3
 Source: "Core"
@@ -29,7 +29,7 @@ _Gray-skinned, white-haired fey the size of halflings. They hunt for gems and ra
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 1 | 1 | 1 | 1 | 1 |
+| +2 | +1 | +1 | +1 | +1 | +1 |
 
 **Stone Meld:** 2/day, underground only. Turn invisible for 3 rounds.
 

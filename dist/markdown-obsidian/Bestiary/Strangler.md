@@ -8,7 +8,7 @@ ac: 12
 hp: 14
 ATK: "2 claws +2 (1d6)"
 MV: "near (climb)"
-Stats: [-2, 2, 1, -2, 0, -2]
+Stats: [-2, +2, +1, -2, +0, -2]
 AL: C
 LV: 3
 Source: "Core"
@@ -29,7 +29,7 @@ _A gray-skinned, gaunt creature with four ropy limbs tipped in sucker-lined claw
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| -2 | 2 | 1 | -2 | 0 | -2 |
+| -2 | +2 | +1 | -2 | +0 | -2 |
 
 **Stealthy:** ADV on DEX checks to sneak and hide.
 

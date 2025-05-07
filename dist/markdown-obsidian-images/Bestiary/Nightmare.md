@@ -8,7 +8,7 @@ ac: 13
 hp: 29
 ATK: "2 hooves +5 (1d8)"
 MV: "double near (fly)"
-Stats: [3, 3, 2, -1, 1, -2]
+Stats: [+3, +3, +2, -1, +1, -2]
 AL: C
 LV: 6
 Source: "Core"
@@ -29,7 +29,7 @@ _Black warhorses with flaming manes, hooves, and eyes._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 3 | 2 | -1 | 1 | -2 |
+| +3 | +3 | +2 | -1 | +1 | -2 |
 
 **Impervious:** Nightmare and its rider immune to fire.
 

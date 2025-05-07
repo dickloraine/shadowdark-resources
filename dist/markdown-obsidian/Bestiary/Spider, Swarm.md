@@ -8,7 +8,7 @@ ac: 13
 hp: 9
 ATK: "1 bite +3 (1d4 + poison)"
 MV: "near (climb)"
-Stats: [-1, 3, 0, -3, 1, -3]
+Stats: [-1, +3, +0, -3, +1, -3]
 AL: N
 LV: 2
 Source: "Core"
@@ -27,7 +27,7 @@ _A scurrying carpet of spiders._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| -1 | 3 | 0 | -3 | 1 | -3 |
+| -1 | +3 | +0 | -3 | +1 | -3 |
 
 **Poison:** DC 12 CON or paralyzed 1d4 rounds.
 

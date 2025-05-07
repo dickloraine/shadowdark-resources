@@ -8,7 +8,7 @@ ac: 12 (leather)
 hp: 10
 ATK: "1 spear (close/near) +1 (1d6) or 1 longbow (far) +1 (1d8)"
 MV: "near"
-Stats: [1, 1, 1, -1, 0, -1]
+Stats: [+1, +1, +1, -1, +0, -1]
 AL: C
 LV: 2
 Source: "Core"
@@ -27,7 +27,7 @@ _Barbaric, opportunistic hyena-folk who range in large packs._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 1 | 1 | 1 | -1 | 0 | -1 |
+| +1 | +1 | +1 | -1 | +0 | -1 |
 
 **Rage:** 1/day, immune to morale checks, +1d4 damage (3 rounds).
 

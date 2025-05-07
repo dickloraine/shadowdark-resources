@@ -8,7 +8,7 @@ ac: 16
 hp: 58
 ATK: "3 rend +8 (2d10) or 1 smog breath"
 MV: "double near (burrow"
-Stats: [5, 3, 4, 4, 3, 3]
+Stats: [+5, +3, +4, +4, +3, +3]
 AL: C
 LV: 12
 Source: "Core"
@@ -29,7 +29,7 @@ _This black, wingless beast slithers through dank swamps._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 5 | 3 | 4 | 4 | 3 | 3 |
+| +5 | +3 | +4 | +4 | +3 | +3 |
 
 **Smog Breath:** Fills a near-sized cube extending from dragon. DC 15 CON or 2d10 damage and blinded for 1 round.
 

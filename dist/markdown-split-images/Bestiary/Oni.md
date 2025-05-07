@@ -4,7 +4,7 @@
 
 _Cunning and sorcerous ogre-demons with shaggy white hair, blue skin, and yellow eyes._
 
-**AC** 11, **HP** 33, **ATK** 1 glaive (near) +6 (1d10) or 1 spell +5, **MV** near, **S** 5 **D** 1 **C** 2 **I** 2 **W** 1 **Ch** 3, **AL** C, **LV** 7
+**AC** 11, **HP** 33, **ATK** 1 glaive (near) +6 (1d10) or 1 spell +5, **MV** near, **S** +5 **D** +1 **C** +2 **I** +2 **W** +1 **Ch** +3, **AL** C, **LV** 7
 
 **Shapeshift:** In place of attacks, turn into any humanoid or back into original form.
 

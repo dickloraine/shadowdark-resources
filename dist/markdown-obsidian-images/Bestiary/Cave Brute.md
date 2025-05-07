@@ -8,7 +8,7 @@ ac: 14
 hp: 28
 ATK: "2 claw +5 (1d8) and 1 mandible +5 (1d10)"
 MV: "near (burrow)"
-Stats: [4, 1, 1, -3, 1, -3]
+Stats: [+4, +1, +1, -3, +1, -3]
 AL: N
 LV: 6
 Source: "Core"
@@ -29,7 +29,7 @@ _A hulking, insectoid beast with long mandibles, four eyes, and thick arms cover
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 1 | 1 | -3 | 1 | -3 |
+| +4 | +1 | +1 | -3 | +1 | -3 |
 
 **Bewilder:** Creatures within near that see the cave brute's eyes, DC 12 CHA at start of their turn or dazed and no action.
 

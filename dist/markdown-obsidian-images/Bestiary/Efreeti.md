@@ -8,7 +8,7 @@ ac: 15
 hp: 43
 ATK: "3 scimitar +8 (2d10) or 2 fire bolt (far) +5 (2d6)"
 MV: "near (fly)"
-Stats: [5, 2, 3, 3, 2, 3]
+Stats: [+5, +2, +3, +3, +2, +3]
 AL: C
 LV: 9
 Source: "Core"
@@ -33,7 +33,7 @@ _Blood-red, towering humanoids formed of lava and ash. Short, black horns and sn
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 5 | 2 | 3 | 3 | 2 | 3 |
+| +5 | +2 | +3 | +3 | +2 | +3 |
 
 **Impervious:** Only damaged by magical sources. Fire immune.
 

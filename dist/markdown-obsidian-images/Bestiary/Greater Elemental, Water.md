@@ -8,7 +8,7 @@ ac: 15
 hp: 42
 ATK: "3 slam +6 (3d6) or 1 whirlpool"
 MV: "double near (swim)"
-Stats: [4, 2, 2, -2, 1, -2]
+Stats: [+4, +2, +2, -2, +1, -2]
 AL: N
 LV: 9
 Source: "Core"
@@ -31,7 +31,7 @@ _A crashing vortex of water._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 2 | 2 | -2 | 1 | -2 |
+| +4 | +2 | +2 | -2 | +1 | -2 |
 
 **Impervious:** Only damaged by magical sources.
 

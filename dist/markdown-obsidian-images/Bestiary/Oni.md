@@ -8,7 +8,7 @@ ac: 11
 hp: 33
 ATK: "1 glaive (near) +6 (1d10) or 1 spell +5"
 MV: "near"
-Stats: [5, 1, 2, 2, 1, 3]
+Stats: [+5, +1, +2, +2, +1, +3]
 AL: C
 LV: 7
 Source: "Core"
@@ -35,7 +35,7 @@ _Cunning and sorcerous ogre-demons with shaggy white hair, blue skin, and yellow
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 5 | 1 | 2 | 2 | 1 | 3 |
+| +5 | +1 | +2 | +2 | +1 | +3 |
 
 **Shapeshift:** In place of attacks, turn into any humanoid or back into original form.
 

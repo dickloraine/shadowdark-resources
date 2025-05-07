@@ -8,7 +8,7 @@ ac: 15
 hp: 44
 ATK: "2 tusks +7 (1d12)"
 MV: "near"
-Stats: [5, 0, 4, -2, 1, 0]
+Stats: [+5, +0, +4, -2, +1, +0]
 AL: N
 LV: 9
 Source: "Core"
@@ -29,7 +29,7 @@ _Massive, shaggy elephants with tusks that reach the ground._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 5 | 0 | 4 | -2 | 1 | 0 |
+| +5 | +0 | +4 | -2 | +1 | +0 |
 
 **Thick Fur:** Cold immune.
 

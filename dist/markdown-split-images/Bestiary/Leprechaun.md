@@ -4,7 +4,7 @@
 
 _Impish fey who favor green garb and love fooling tall folk with promises of gold._
 
-**AC** 13, **HP** 19, **ATK** 1 spell +4, **MV** near, **S** 1 **D** 3 **C** 1 **I** 2 **W** 1 **Ch** 3, **AL** N, **LV** 4
+**AC** 13, **HP** 19, **ATK** 1 spell +4, **MV** near, **S** +1 **D** +3 **C** +1 **I** +2 **W** +1 **Ch** +3, **AL** N, **LV** 4
 
 **Alert:** Cannot be surprised.
 

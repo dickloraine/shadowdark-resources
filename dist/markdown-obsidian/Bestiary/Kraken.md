@@ -8,7 +8,7 @@ ac: 18
 hp: 80
 ATK: "4 tentacle (near) +9 (2d12) or 1 storm or 1d4 lightning bolt"
 MV: "double near (swim)"
-Stats: [6, 3, 4, 4, 3, 4]
+Stats: [+6, +3, +4, +4, +3, +4]
 AL: C
 LV: 17
 Source: "Core"
@@ -33,7 +33,7 @@ _Primordial, tentacled leviathans the size of war galleons. They live in the lig
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 6 | 3 | 4 | 4 | 3 | 4 |
+| +6 | +3 | +4 | +4 | +3 | +4 |
 
 **Impervious:** Electricity immune.
 

@@ -8,7 +8,7 @@ ac: 13
 hp: 10
 ATK: "2 spear (close/ near) +2 (1d6)"
 MV: "near (swim)"
-Stats: [2, 1, 1, -2, 0, -2]
+Stats: [+2, +1, +1, -2, +0, -2]
 AL: C
 LV: 2
 Source: "Core"
@@ -29,7 +29,7 @@ _Cultish, amphibious fish-people with bulbous eyes. They lurk in deep water and 
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 1 | 1 | -2 | 0 | -2 |
+| +2 | +1 | +1 | -2 | +0 | -2 |
 
 **Sunblind:** Blinded in bright light.
 

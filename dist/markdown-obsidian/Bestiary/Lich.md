@@ -8,7 +8,7 @@ ac: 16
 hp: 62
 ATK: "2 touch +6 (2d8 + paralysis) and 2 spell +7"
 MV: "near"
-Stats: [3, 1, 4, 4, 3, 3]
+Stats: [+3, +1, +4, +4, +3, +3]
 AL: C
 LV: 13
 Source: "Core"
@@ -41,7 +41,7 @@ _A wizard who has completed a necromantic ritual to become a mighty, undead sorc
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 1 | 4 | 4 | 3 | 3 |
+| +3 | +1 | +4 | +4 | +3 | +3 |
 
 **Supreme Undead:** Immune to morale checks. Only damaged by magical sources.
 

@@ -8,7 +8,7 @@ ac: 12
 hp: 20
 ATK: "1 hooves +3 (1d6)"
 MV: "double near"
-Stats: [3, 2, 2, 1, 2, 3]
+Stats: [+3, +2, +2, +1, +2, +3]
 AL: L
 LV: 4
 Source: "Core"
@@ -27,7 +27,7 @@ _A silvery horse with a flowing mane and a single spiral horn._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 2 | 2 | 1 | 2 | 3 |
+| +3 | +2 | +2 | +1 | +2 | +3 |
 
 **Healing Horn:** A touch heals 2d6 HP or ends one curse or disease.
 

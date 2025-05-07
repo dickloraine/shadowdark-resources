@@ -8,7 +8,7 @@ ac: 12
 hp: 14
 ATK: "2 bite +2 (1d6) or 1 poison web (near) +2"
 MV: "near (climb)"
-Stats: [0, 2, 1, 0, 0, -1]
+Stats: [+0, +2, +1, +0, +0, -1]
 AL: C
 LV: 3
 Source: "Core"
@@ -29,7 +29,7 @@ _Bipedal, eight-eyed spiderfolk with spindly legs and purple fur._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 0 | 2 | 1 | 0 | 0 | -1 |
+| +0 | +2 | +1 | +0 | +0 | -1 |
 
 **Poison Web:** One target stuck in place and 1d4 damage/round. DC 12 DEX on turn to escape.
 

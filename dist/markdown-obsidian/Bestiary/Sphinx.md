@@ -8,7 +8,7 @@ ac: 16
 hp: 42
 ATK: "3 claw +7 (1d10) or 2 spell +5"
 MV: "double near (fly)"
-Stats: [4, 1, 2, 4, 4, 3]
+Stats: [+4, +1, +2, +4, +4, +3]
 AL: L
 LV: 9
 Source: "Core"
@@ -37,7 +37,7 @@ _A winged, leonine oracle who can see into time and space and often speaks in ri
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 1 | 2 | 4 | 4 | 3 |
+| +4 | +1 | +2 | +4 | +4 | +3 |
 
 **Roar:** In place of attacks, all creatures who can hear within far DC 18 CHA or paralyzed 1d4 rounds.
 

@@ -8,7 +8,7 @@ ac: 13
 hp: 19
 ATK: "2 claw +3 (1d6)"
 MV: "near (climb)"
-Stats: [2, 3, 1, -3, 1, -3]
+Stats: [+2, +3, +1, -3, +1, -3]
 AL: N
 LV: 4
 Source: "Core"
@@ -27,7 +27,7 @@ _A mud-brown insect as big as a wolf with two feathery antennae. Consumes metal.
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 3 | 1 | -3 | 1 | -3 |
+| +2 | +3 | +1 | -3 | +1 | -3 |
 
 **Corrosive:** Metal that touches the rust monster is destroyed on a d6 roll of 1-3.
 

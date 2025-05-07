@@ -8,7 +8,7 @@ ac: 13
 hp: 14
 ATK: "2 rend +3 (1d8)"
 MV: "double near (fly)"
-Stats: [3, 3, 1, -3, 1, -2]
+Stats: [+3, +3, +1, -3, +1, -2]
 AL: N
 LV: 3
 Source: "Core"
@@ -25,5 +25,5 @@ _Fierce, winged creatures with the lower body of a horse and upper body of a gia
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 3 | 1 | -3 | 1 | -2 |
+| +3 | +3 | +1 | -3 | +1 | -2 |
 

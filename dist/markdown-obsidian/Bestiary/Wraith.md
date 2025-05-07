@@ -8,7 +8,7 @@ ac: 14
 hp: 36
 ATK: "3 death touch +6 (1d10 + life drain)"
 MV: "near (fly)"
-Stats: [-4, 4, 0, 0, 0, 3]
+Stats: [-4, +4, +0, +0, +0, +3]
 AL: C
 LV: 8
 Source: "Core"
@@ -31,7 +31,7 @@ _A shadowy spirit seething with anger and malice. Its presence is unsettling to 
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| -4 | 4 | 0 | 0 | 0 | 3 |
+| -4 | +4 | +0 | +0 | +0 | +3 |
 
 **Greater Undead:** Immune to morale checks. Only damaged by silver or magical sources.
 

@@ -8,7 +8,7 @@ ac: 11
 hp: 1
 ATK: "1 sting +1 (1 + toxin)"
 MV: "close (swim)"
-Stats: [-4, 1, 0, -4, 1, -4]
+Stats: [-4, +1, +0, -4, +1, -4]
 AL: N
 LV: 0
 Source: "Core"
@@ -29,7 +29,7 @@ _Hand-sized, purple sea jellies with stinging tentacles._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| -4 | 1 | 0 | -4 | 1 | -4 |
+| -4 | +1 | +0 | -4 | +1 | -4 |
 
 **Toxin:** DC 9 CON or paralyzed 1d4 rounds.
 

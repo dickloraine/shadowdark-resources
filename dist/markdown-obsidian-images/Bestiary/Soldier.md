@@ -8,7 +8,7 @@ ac: 15
 hp: 10
 ATK: "1 longsword +2 (1d8) or 1 crossbow (far) +1 (1d6)"
 MV: "near"
-Stats: [1, 0, 1, 0, 0, 0]
+Stats: [+1, +0, +1, +0, +0, +0]
 AL: L
 LV: 2
 Source: "Core"
@@ -27,5 +27,5 @@ _An armed footsoldier trained in the ways of battlefield combat._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 1 | 0 | 1 | 0 | 0 | 0 |
+| +1 | +0 | +1 | +0 | +0 | +0 |
 

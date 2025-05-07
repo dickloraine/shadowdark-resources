@@ -8,7 +8,7 @@ ac: 15
 hp: 24
 ATK: "2 pincer +4 (1d8 + crush)"
 MV: "near (swim)"
-Stats: [3, 0, 2, -3, 0, -3]
+Stats: [+3, +0, +2, -3, +0, -3]
 AL: N
 LV: 5
 Source: "Core"
@@ -27,7 +27,7 @@ _A wagon-sized, armored crab with two crushing pincers._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 0 | 2 | -3 | 0 | -3 |
+| +3 | +0 | +2 | -3 | +0 | -3 |
 
 **Crush:** DC 15 STR or target takes 1d8 damage.
 

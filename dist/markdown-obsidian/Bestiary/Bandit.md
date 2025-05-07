@@ -8,7 +8,7 @@ ac: 13
 hp: 4
 ATK: "1 club +1 (1d4) or 1 shortbow (far) +0 (1d4)"
 MV: "near"
-Stats: [1, 0, 0, -1, 0, -1]
+Stats: [+1, +0, +0, -1, +0, -1]
 AL: C
 LV: 1
 Source: "Core"
@@ -27,7 +27,7 @@ _Hard-bitten rogue in tattered leathers and a hooded cloak._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 1 | 0 | 0 | -1 | 0 | -1 |
+| +1 | +0 | +0 | -1 | +0 | -1 |
 
 **Ambush:** Deal an extra die of damage when undetected.
 

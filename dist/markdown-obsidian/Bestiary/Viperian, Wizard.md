@@ -8,7 +8,7 @@ ac: 13
 hp: 37
 ATK: "1 dagger (close/ near) +2 (1d4) or 2 spell +5"
 MV: "near"
-Stats: [0, 1, 0, 3, 1, 1]
+Stats: [+0, +1, +0, +3, +1, +1]
 AL: C
 LV: 8
 Source: "Core"
@@ -33,7 +33,7 @@ _Thin viperians with scales tinged in black. They wear silk robes and silver, se
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 0 | 1 | 0 | 3 | 1 | 1 |
+| +0 | +1 | +0 | +3 | +1 | +1 |
 
 **Hiss (INT Spell):** DC 12. End one spell within far.
 

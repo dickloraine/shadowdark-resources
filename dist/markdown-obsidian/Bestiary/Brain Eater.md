@@ -8,7 +8,7 @@ ac: 14 (leather)
 hp: 36
 ATK: "4 tentacle +5 (1d8 + latch) or 1 mind blast or 1 mind control"
 MV: "near"
-Stats: [2, 3, 0, 4, 2, 4]
+Stats: [+2, +3, +0, +4, +2, +4]
 AL: C
 LV: 8
 Source: "Core"
@@ -33,7 +33,7 @@ _Purple, gaunt humanoids with squidlike heads and four face tentacles. They live
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 3 | 0 | 4 | 2 | 4 |
+| +2 | +3 | +0 | +4 | +2 | +4 |
 
 **Hear Thoughts:** Can hear the surface thoughts of all intelligent creatures within near.
 

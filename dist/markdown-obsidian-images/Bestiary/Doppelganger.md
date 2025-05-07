@@ -8,7 +8,7 @@ ac: 12
 hp: 20
 ATK: "1 dagger (close/near) +2 (1d4)"
 MV: "near"
-Stats: [1, 2, 2, 1, 0, 4]
+Stats: [+1, +2, +2, +1, +0, +4]
 AL: C
 LV: 4
 Source: "Core"
@@ -31,7 +31,7 @@ _Gray, featureless humanoids that delight in sowing chaos._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 1 | 2 | 2 | 1 | 0 | 4 |
+| +1 | +2 | +2 | +1 | +0 | +4 |
 
 **Change Shape:** In place of attacks, transform into any similarly-sized humanoid.
 

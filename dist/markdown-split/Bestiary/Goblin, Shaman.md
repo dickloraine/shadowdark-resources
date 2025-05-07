@@ -2,7 +2,7 @@
 
 _A swaying, chanting goblin wearing necklaces of teeth and a robe of musty rat pelts._
 
-**AC** 12 (leather), **HP** 19, **ATK** 1 staff +0 (1d4) or 1 spell +3, **MV** near, **S** 0 **D** 1 **C** 1 **I** 0 **W** 2 **Ch** 1, **AL** C, **LV** 4
+**AC** 12 (leather), **HP** 19, **ATK** 1 staff +0 (1d4) or 1 spell +3, **MV** near, **S** +0 **D** +1 **C** +1 **I** +0 **W** +2 **Ch** +1, **AL** C, **LV** 4
 
 **Keen Senses:** Can't be surprised.
 

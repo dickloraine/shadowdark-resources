@@ -8,7 +8,7 @@ ac: 15
 hp: 11
 ATK: "1 longsword +3 (1d8)"
 MV: "near"
-Stats: [3, -1, 2, -1, 1, 0]
+Stats: [+3, -1, +2, -1, +1, +0]
 AL: C
 LV: 2
 Source: "Core"
@@ -29,7 +29,7 @@ _An old suit of armor magically animated by a vengeful spirit._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | -1 | 2 | -1 | 1 | 0 |
+| +3 | -1 | +2 | -1 | +1 | +0 |
 
 **Statue:** When standing still, looks exactly like a suit of armor.
 

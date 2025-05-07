@@ -8,7 +8,7 @@ ac: 12
 hp: 20
 ATK: "2 rend +3 (1d6)"
 MV: "double near"
-Stats: [3, 2, 2, 0, 1, 0]
+Stats: [+3, +2, +2, +0, +1, +0]
 AL: C
 LV: 4
 Source: "Core"
@@ -31,7 +31,7 @@ _A bipedal, wolf-faced humanoid covered in brown fur._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 2 | 2 | 0 | 1 | 0 |
+| +3 | +2 | +2 | +0 | +1 | +0 |
 
 **Impervious:** Only damaged by silver or magic sources.
 

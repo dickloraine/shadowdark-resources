@@ -8,7 +8,7 @@ ac: 14
 hp: 38
 ATK: "1 snake bite +6 (1d6 + poison)"
 MV: "near"
-Stats: [2, 1, 2, 2, 3, 4]
+Stats: [+2, +1, +2, +2, +3, +4]
 AL: C
 LV: 8
 Source: "Core"
@@ -31,7 +31,7 @@ _Immortal women with coiling snakes for hair and scaled skin._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 1 | 2 | 2 | 3 | 4 |
+| +2 | +1 | +2 | +2 | +3 | +4 |
 
 **Godborn:** Hostile spells targeting the medusa are DC 15 to cast.
 

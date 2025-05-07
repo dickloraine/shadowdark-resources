@@ -8,7 +8,7 @@ ac: 14
 hp: 29
 ATK: "1 kiss +4 (1d6 + drain) or 1 charm"
 MV: "near (fly)"
-Stats: [2, 4, 2, 3, 2, 5]
+Stats: [+2, +4, +2, +3, +2, +5]
 AL: C
 LV: 6
 Source: "Core"
@@ -33,7 +33,7 @@ _Entrancing humanoids with bat wings and devilish charm._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 4 | 2 | 3 | 2 | 5 |
+| +2 | +4 | +2 | +3 | +2 | +5 |
 
 **Change Shape:** In place of attacks, transform into any similarly-sized humanoid.
 

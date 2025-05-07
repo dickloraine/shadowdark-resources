@@ -8,7 +8,7 @@ ac: 13
 hp: 19
 ATK: "2 bite +4 (1d8) or 1 fire breath"
 MV: "double near"
-Stats: [2, 1, 1, -2, 1, -3]
+Stats: [+2, +1, +1, -2, +1, -3]
 AL: C
 LV: 4
 Source: "Core"
@@ -29,7 +29,7 @@ _Black wolfhounds with red eyes and jaws dripping with flames._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 1 | 1 | -2 | 1 | -3 |
+| +2 | +1 | +1 | -2 | +1 | -3 |
 
 **Impervious:** Fire immune.
 

@@ -8,7 +8,7 @@ ac: 17
 hp: 44
 ATK: "3 slam +7 (3d8) or 1 avalanche"
 MV: "near (burrow)"
-Stats: [5, 0, 4, -2, 1, -2]
+Stats: [+5, +0, +4, -2, +1, -2]
 AL: N
 LV: 9
 Source: "Core"
@@ -29,7 +29,7 @@ _A thundering pillar of earth._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 5 | 0 | 4 | -2 | 1 | -2 |
+| +5 | +0 | +4 | -2 | +1 | -2 |
 
 **Impervious:** Only damaged by magical sources.
 

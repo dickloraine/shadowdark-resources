@@ -8,7 +8,7 @@ ac: 14
 hp: 28
 ATK: "2 claw +4 (1d8) or 1 drink pain"
 MV: "near"
-Stats: [3, 2, 1, 1, 2, 3]
+Stats: [+3, +2, +1, +1, +2, +3]
 AL: C
 LV: 6
 Source: "Core"
@@ -31,7 +31,7 @@ _Eyes dark as moonless nights, skin made of rotting wood, hair of tangled roots 
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 2 | 1 | 1 | 2 | 3 |
+| +3 | +2 | +1 | +1 | +2 | +3 |
 
 **Drink Pain:** Near range. DC 12 CHA to deal 2d4 damage to a creature; regain that many HP.
 

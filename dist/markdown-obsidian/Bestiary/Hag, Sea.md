@@ -8,7 +8,7 @@ ac: 15
 hp: 28
 ATK: "2 claw +4 (1d8)"
 MV: "near (swim)"
-Stats: [2, 3, 1, 1, 2, 2]
+Stats: [+2, +3, +1, +1, +2, +2]
 AL: C
 LV: 6
 Source: "Core"
@@ -29,7 +29,7 @@ _A green, sunken-faced woman. Seaweed hair and oozing flesh._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 3 | 1 | 1 | 2 | 2 |
+| +2 | +3 | +1 | +1 | +2 | +2 |
 
 **Shapechange:** Instantly change to look like any other humanoid.
 

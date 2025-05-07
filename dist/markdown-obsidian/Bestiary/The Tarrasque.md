@@ -8,7 +8,7 @@ ac: 22
 hp: 140
 ATK: "4 thrash (near) +13 (3d10 + sever) and 1 bite (near) +13 (5d10 + sever + swallow)"
 MV: "triple near (burrow"
-Stats: [7, 2, 5, -3, 1, -3]
+Stats: [+7, +2, +5, -3, +1, -3]
 AL: N
 LV: 30
 Source: "Core"
@@ -41,7 +41,7 @@ _A colossal, four-legged reptile with crocodilian jaws, amber scales, and a diam
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 7 | 2 | 5 | -3 | 1 | -3 |
+| +7 | +2 | +5 | -3 | +1 | -3 |
 
 **Legendary:** Only damaged by magical sources. Hostile spells targeting the tarrasque are DC 18 to cast.
 

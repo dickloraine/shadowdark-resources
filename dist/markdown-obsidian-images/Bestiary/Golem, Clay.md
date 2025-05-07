@@ -8,7 +8,7 @@ ac: 14
 hp: 40
 ATK: "3 slam +6 (1d8)"
 MV: "near"
-Stats: [4, 0, 4, -2, 0, -2]
+Stats: [+4, +0, +4, -2, +0, -2]
 AL: N
 LV: 8
 Source: "Core"
@@ -31,7 +31,7 @@ _A towering, faceless humanoid shaped from glistening clay._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 0 | 4 | -2 | 0 | -2 |
+| +4 | +0 | +4 | -2 | +0 | -2 |
 
 **Golem:** Immune to damage from fire, cold, electricity, or non-magical sources. Healed by acid.
 

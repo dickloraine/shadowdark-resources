@@ -8,7 +8,7 @@ ac: 16
 hp: 53
 ATK: "3 silvered bastard sword +9 (1d10)"
 MV: "double near (fly)"
-Stats: [4, 2, 4, 4, 4, 4]
+Stats: [+4, +2, +4, +4, +4, +4]
 AL: L
 LV: 11
 Source: "Core"
@@ -29,7 +29,7 @@ _Serene humans sculpted from alabaster. Golden orbs for eyes._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 2 | 4 | 4 | 4 | 4 |
+| +4 | +2 | +4 | +4 | +4 | +4 |
 
 **Moonlight Aura:** Hostile spells targeting the principi are DC 15.
 

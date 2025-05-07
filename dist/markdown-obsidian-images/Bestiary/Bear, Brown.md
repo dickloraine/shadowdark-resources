@@ -8,7 +8,7 @@ ac: 13
 hp: 25
 ATK: "2 claw +4 (1d8)"
 MV: "near (climb)"
-Stats: [4, 1, 3, -2, 1, -2]
+Stats: [+4, +1, +3, -2, +1, -2]
 AL: N
 LV: 5
 Source: "Core"
@@ -29,7 +29,7 @@ _A hulking, swaying brute with claws as long as a finger._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 1 | 3 | -2 | 1 | -2 |
+| +4 | +1 | +3 | -2 | +1 | -2 |
 
 **Crush:** Deals an extra die of damage if it hits the same target with both claws.
 

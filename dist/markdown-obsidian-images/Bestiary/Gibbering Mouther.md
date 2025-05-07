@@ -8,7 +8,7 @@ ac: 8
 hp: 21
 ATK: "2 bite +3 (1d8 + latch)"
 MV: "near (climb"
-Stats: [2, -2, 3, -3, 0, -3]
+Stats: [+2, -2, +3, -3, +0, -3]
 AL: N
 LV: 4
 Source: "Core"
@@ -31,7 +31,7 @@ _Crawling masses of slime with dozens of screeching, lipless mouths and wet eyeb
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | -2 | 3 | -3 | 0 | -3 |
+| +2 | -2 | +3 | -3 | +0 | -3 |
 
 **Gibbering:** Creatures within near DC 12 WIS on turn or take a random action (d8): 1-3. do nothing, 4-5. move in random direction, 6-7. attack nearest creature, 8. flee.
 

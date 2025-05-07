@@ -8,7 +8,7 @@ ac: 12
 hp: 14
 ATK: "2 tusk +3 (1d6)"
 MV: "near"
-Stats: [3, 0, 1, -2, 1, -2]
+Stats: [+3, +0, +1, -2, +1, -2]
 AL: N
 LV: 3
 Source: "Core"
@@ -27,7 +27,7 @@ _Ornery wild pig with bristly, russet hair and yellowed tusks._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 0 | 1 | -2 | 1 | -2 |
+| +3 | +0 | +1 | -2 | +1 | -2 |
 
 **Gore:** Deals an extra die of damage if it hits the same target with both tusks.
 

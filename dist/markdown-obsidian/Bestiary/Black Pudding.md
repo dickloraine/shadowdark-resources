@@ -8,7 +8,7 @@ ac: 9
 hp: 30
 ATK: "3 tentacle +4 (2d6)"
 MV: "near (climb)"
-Stats: [2, -1, 3, -4, -3, -4]
+Stats: [+2, -1, +3, -4, -3, -4]
 AL: N
 LV: 6
 Source: "Core"
@@ -29,7 +29,7 @@ _A black, ice-cold mass of sludge._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | -1 | 3 | -4 | -3 | -4 |
+| +2 | -1 | +3 | -4 | -3 | -4 |
 
 **Impervious:** Only damaged by fire.
 

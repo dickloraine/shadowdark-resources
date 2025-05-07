@@ -8,7 +8,7 @@ ac: 11
 hp: 11
 ATK: "1 hooves +3 (1d6)"
 MV: "double near"
-Stats: [3, 1, 2, -3, 1, -2]
+Stats: [+3, +1, +2, -3, +1, -2]
 AL: N
 LV: 2
 Source: "Core"
@@ -27,5 +27,5 @@ _Powerful, swift herd animals that roam open plains._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 1 | 2 | -3 | 1 | -2 |
+| +3 | +1 | +2 | -3 | +1 | -2 |
 

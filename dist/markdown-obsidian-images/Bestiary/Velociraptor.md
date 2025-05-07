@@ -8,7 +8,7 @@ ac: 13
 hp: 10
 ATK: "1 claw +3 (1d6)"
 MV: "double near"
-Stats: [-1, 3, 1, -2, 1, -3]
+Stats: [-1, +3, +1, -2, +1, -3]
 AL: N
 LV: 2
 Source: "Core"
@@ -29,7 +29,7 @@ _Fast, turkey-sized raptors with vicious toe claws. Pack hunters._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| -1 | 3 | 1 | -2 | 1 | -3 |
+| -1 | +3 | +1 | -2 | +1 | -3 |
 
 **Clever:** +1d4 damage when attacking with surprise.
 

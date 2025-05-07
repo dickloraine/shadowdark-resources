@@ -2,7 +2,7 @@
 
 _A wizened magic-user crackling with arcane power._
 
-**AC** 12, **HP** 44, **ATK** 2 spell +7, **MV** near, **S** -1 **D** 2 **C** -1 **I** 4 **W** 2 **Ch** 1, **AL** L, **LV** 10
+**AC** 12, **HP** 44, **ATK** 2 spell +7, **MV** near, **S** -1 **D** +2 **C** -1 **I** +4 **W** +2 **Ch** +1, **AL** L, **LV** 10
 
 **Death Bolt (INT Spell):** DC 15. One target of LV 9 or less within near DC 15 CON or go to 0 HP.
 

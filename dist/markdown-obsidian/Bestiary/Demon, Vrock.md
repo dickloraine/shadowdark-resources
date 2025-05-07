@@ -8,7 +8,7 @@ ac: 14
 hp: 24
 ATK: "2 talons +4 (1d8) or 1 screech"
 MV: "near (fly)"
-Stats: [2, 2, 2, -1, 1, 0]
+Stats: [+2, +2, +2, -1, +1, +0]
 AL: C
 LV: 5
 Source: "Core"
@@ -29,7 +29,7 @@ _Wagon-sized, filthy vultures with four limbs, midnight-blue skin, and a rash of
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 2 | 2 | -1 | 1 | 0 |
+| +2 | +2 | +2 | -1 | +1 | +0 |
 
 **Carrion Mist:** Each time vrock is hit, 3:6 chance of carrion mist in near-sized cube centered on vrock. All enemies DC 15 CON or violent vomiting 1d4 rounds.
 

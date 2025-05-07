@@ -4,7 +4,7 @@
 
 _The smell of ozone precedes this desert-dwelling dragon. Its dazzling scales of brass and lapis lazuli shimmer in the baking heat._
 
-**AC** 17, **HP** 61, **ATK** 3 rend +9 (2d10) or 1 lightning breath, **MV** double near (fly), **S** 5 **D** 3 **C** 3 **I** 4 **W** 5 **Ch** 5, **AL** L, **LV** 13
+**AC** 17, **HP** 61, **ATK** 3 rend +9 (2d10) or 1 lightning breath, **MV** double near (fly), **S** +5 **D** +3 **C** +3 **I** +4 **W** +5 **Ch** +5, **AL** L, **LV** 13
 
 **Stormblood:** Electricity immune.
 

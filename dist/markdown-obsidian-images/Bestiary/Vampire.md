@@ -8,7 +8,7 @@ ac: 15
 hp: 52
 ATK: "3 bite +7 (1d8 + blood drain) or 1 charm"
 MV: "near (climb)"
-Stats: [4, 3, 3, 1, 3, 4]
+Stats: [+4, +3, +3, +1, +3, +4]
 AL: C
 LV: 11
 Source: "Core"
@@ -37,7 +37,7 @@ _Pale, blood-drinking undead of supreme power and wickedness. They loathe sunlig
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 3 | 3 | 1 | 3 | 4 |
+| +4 | +3 | +3 | +1 | +3 | +4 |
 
 **Supreme Undead:** Immune to morale checks. Only damaged by magical sources.
 

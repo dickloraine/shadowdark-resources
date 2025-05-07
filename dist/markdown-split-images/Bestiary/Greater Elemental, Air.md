@@ -4,7 +4,7 @@
 
 _A howling tornado of wind._
 
-**AC** 16, **HP** 42, **ATK** 3 slam +7 (3d6) or 1 whirlwind, **MV** double near (fly), **S** 3 **D** 5 **C** 2 **I** -2 **W** 1 **Ch** -2, **AL** N, **LV** 9
+**AC** 16, **HP** 42, **ATK** 3 slam +7 (3d6) or 1 whirlwind, **MV** double near (fly), **S** +3 **D** +5 **C** +2 **I** -2 **W** +1 **Ch** -2, **AL** N, **LV** 9
 
 **Impervious:** Only damaged by magical sources.
 

@@ -8,7 +8,7 @@ ac: 17
 hp: 89
 ATK: "1 rot touch +8 (1d10 + necrosis) and 3 spell +8"
 MV: "near"
-Stats: [4, 4, 4, 5, 4, 5]
+Stats: [+4, +4, +4, +5, +4, +5]
 AL: N
 LV: 19
 Source: "Core"
@@ -45,7 +45,7 @@ _A skinless mummy-lich wearing a crown set with nine bright gems. Once the head 
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 4 | 4 | 5 | 4 | 5 |
+| +4 | +4 | +4 | +5 | +4 | +5 |
 
 **Legendary Undead:** Immune to morale checks. Only damaged by magical sources. Hostile spells targeting Mordanticus are DC 18 to cast.
 

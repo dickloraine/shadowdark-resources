@@ -14,12 +14,12 @@ interface Monster {
   movement: string;
   attack: string;
   stats: {
-    str: number;
-    dex: number;
-    con: number;
-    int: number;
-    wis: number;
-    cha: number;
+    str: string;
+    dex: string;
+    con: string;
+    int: string;
+    wis: string;
+    cha: string;
   };
   actions: {
     name: string;

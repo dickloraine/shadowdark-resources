@@ -8,7 +8,7 @@ ac: 18
 hp: 33
 ATK: "2 gore +6 (2d8) or 1 charge or 1 petrifying breath"
 MV: "double near"
-Stats: [4, 0, 2, -3, 1, -3]
+Stats: [+4, +0, +2, -3, +1, -3]
 AL: C
 LV: 7
 Source: "Core"
@@ -29,7 +29,7 @@ _A snorting bull made entirely of iron plating. A cloud of green fog billows fro
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 0 | 2 | -3 | 1 | -3 |
+| +4 | +0 | +2 | -3 | +1 | -3 |
 
 **Charge:** Move up to double near in straight line and make 1 gore attack. If hit, x3 damage.
 

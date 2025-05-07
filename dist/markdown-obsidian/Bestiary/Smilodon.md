@@ -8,7 +8,7 @@ ac: 12
 hp: 14
 ATK: "2 bite +3 (1d6)"
 MV: "near"
-Stats: [3, 2, 1, -3, 1, -3]
+Stats: [+3, +2, +1, -3, +1, -3]
 AL: N
 LV: 3
 Source: "Core"
@@ -25,5 +25,5 @@ _Prehistoric tigers with long canine fangs. They hunt in grasslands and ice fiel
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 2 | 1 | -3 | 1 | -3 |
+| +3 | +2 | +1 | -3 | +1 | -3 |
 

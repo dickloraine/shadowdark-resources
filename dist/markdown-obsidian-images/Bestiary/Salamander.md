@@ -8,7 +8,7 @@ ac: 13
 hp: 24
 ATK: "2 flaming spear (close/near) +4 (1d6 + ignites flammables) or 1 iron longbow (far) +2 (1d8)"
 MV: "near"
-Stats: [2, 0, 2, -1, 1, -1]
+Stats: [+2, +0, +2, -1, +1, -1]
 AL: C
 LV: 5
 Source: "Core"
@@ -31,7 +31,7 @@ _Fire-colored lizardfolk with long tails. Flame-like frills run down their backs
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 2 | 0 | 2 | -1 | 1 | -1 |
+| +2 | +0 | +2 | -1 | +1 | -1 |
 
 **Impervious:** Fire immune.
 

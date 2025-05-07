@@ -8,7 +8,7 @@ ac: 13
 hp: 23
 ATK: "2 bite +4 (1d8 + poison)"
 MV: "near (climb)"
-Stats: [3, 3, 1, -1, 1, -2]
+Stats: [+3, +3, +1, -1, +1, -2]
 AL: C
 LV: 5
 Source: "Core"
@@ -33,7 +33,7 @@ _Pale, horse-sized arachnids that become ghostly and intangible._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 3 | 3 | 1 | -1 | 1 | -2 |
+| +3 | +3 | +1 | -1 | +1 | -2 |
 
 **Impervious:** Immune to cold.
 

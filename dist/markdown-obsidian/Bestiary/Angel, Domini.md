@@ -8,7 +8,7 @@ ac: 17
 hp: 42
 ATK: "3 bastard sword +7 (1d8) or 1 horn"
 MV: "near (fly)"
-Stats: [4, 1, 2, 3, 4, 4]
+Stats: [+4, +1, +2, +3, +4, +4]
 AL: L
 LV: 9
 Source: "Core"
@@ -27,7 +27,7 @@ _Winged, flawless humans glowing with bronze sunlight._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| 4 | 1 | 2 | 3 | 4 | 4 |
+| +4 | +1 | +2 | +3 | +4 | +4 |
 
 **Horn:** All enemies in near DC 15 CHA or paralyzed 1d4 rounds.
 

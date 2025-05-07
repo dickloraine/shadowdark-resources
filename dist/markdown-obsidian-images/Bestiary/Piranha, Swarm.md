@@ -8,7 +8,7 @@ ac: 12
 hp: 13
 ATK: "2 bite +2 (1d6)"
 MV: "near (swim)"
-Stats: [-2, 2, 0, -3, 0, -3]
+Stats: [-2, +2, +0, -3, +0, -3]
 AL: N
 LV: 3
 Source: "Core"
@@ -29,7 +29,7 @@ _A school of flat, silvery fish with vicious fangs._
 
 |  S  |  D  |  C  |  I  |  W  |  Ch  |
 |:---:|:---:|:---:|:---:|:---:|:----:|
-| -2 | 2 | 0 | -3 | 0 | -3 |
+| -2 | +2 | +0 | -3 | +0 | -3 |
 
 **Savage:** ADV on attacks against creatures below half their HP.
 
