@@ -1,5 +1,6 @@
 import { type FilterOptions, type SelectOptions } from '@/components/DataView';
 import { useDataViewContext } from '@/hooks/useDataViewContext';
+import { blurOnReturn } from '@/utils/helpers';
 import { IconArrowDown, IconArrowUp } from '@tabler/icons-preact';
 import { FunctionComponent } from 'preact';
 import { Dispatch, StateUpdater } from 'preact/hooks';
@@ -57,6 +58,7 @@ export const FilterMenuInput = ({
             })
           )
         }
+        onKeyUp={blurOnReturn}
       />
     </div>
   );
